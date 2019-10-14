@@ -1,0 +1,81 @@
+# вводится алфавит, с которым будем работать; внутри выделены класс согласных и гласных, гласные разбиты на подклассы по ряду
+define Consonant b | c | d | f | g | h | j | k | l | m | n | p | q | r | s | t | v | w | x | z ;
+define FrontVowel ä | ö | y ;
+define NeutralVowel e | i ;
+define BackVowel a | o | u ;
+define Vowel FrontVowel | NeutralVowel | BackVowel | A | E;
+define Letter Vowel | Consonant;
+
+# вводится набор падежей и чисел, с которыми будем работать
+define Case "+Nom" | "+Gen" | "+Part" | "+In" | "+All" ;
+define Number "+Sg" | "+Pl" ; 
+
+# строятся модели основ переднего и заднего ряда, вводится модель основы в общем виде
+define FrontStem [Consonant* [ FrontVowel | NeutralVowel ] ]+ Consonant*;
+define BackStem [Consonant* [ BackVowel | NeutralVowel ] ]* [Consonant* BackVowel] [Consonant* [ BackVowel | NeutralVowel ] ]* Consonant*;
+define Stem Letter+;
+
+define Input Stem Number Case;
+
+# строятся модели номинативов
+define NomPl "+Pl" "+Nom" -> "^" t || _ ;
+define NomSg "+Sg" "+Nom" -> "^" || _ ;
+define Nominatives NomPl .o. NomSg ;
+
+# строятся модели генитивов
+define GenDen "+Gen" -> d e n || Vowel Vowel "+Pl" _ ;
+define Gen "+Gen" -> E n || _ ;
+define Genetive GenDen .o. Gen ;
+
+# строится модель партитива на tA и на A в зависимости от окончания основы, показатель вставляется после показателя числа
+define PartTa "+Part" -> t A || [ Consonant Vowel Vowel | Consonant ] Number _ ;
+define PartA "+Part" -> A || _ ;
+
+define LocativeCases "+In" -> s s A , "+All" -> l l A || _ ;
+
+define OtherCases PartTa .o. PartA .o. LocativeCases ;
+
+# строится модель ед. и мн. ч., описываются преобразования гласных основы
+define Sg "+Sg" -> "^" || _ ;
+define OmitA ä -> 0, i -> 0 || _ "+Pl";
+define Ai2Oi a -> o || [ a | e | i ] Vowel* Consonant+ _ "+Pl";
+define Ai2i a -> 0 || [ o | u ] Vowel* Consonant+ _ "+Pl";
+define OmitFirst Vowel -> 0 || _ Vowel "+Pl" Consonant;
+define Pl "+Pl" -> "^" i || _ ;
+
+define NumberInfl Sg .o. OmitA .o. Ai2i .o. Ai2Oi .o. OmitFirst .o. Pl ;
+
+# строится переход i>j во множественном числе, переходы гласных в нужный ряд согласно сингармонизму
+define JotPl i -> j || Vowel "^"* _ "^"* Vowel ;
+define HarmonyBack A -> a || BackStem "^" Letter* _;
+define HarmonyFront A -> ä || FrontStem "^" Letter* _;
+
+define Phonetics JotPl .o. HarmonyBack .o. HarmonyFront ;
+
+# строится чередование согласных основы
+define DoublePTK p p -> p , t t -> t , k k -> k || Letter _ "^"* Vowel "^"* Consonant [ .#. | Consonant ] ;
+define SingleP p -> v || Vowel _ "^"* Vowel "^"* Consonant [ .#. | Consonant ] ;
+define SingleTK t -> d , k -> 0 || Letter _ "^"* Vowel "^"* Consonant [ .#. | Consonant ] ; 
+define TwoLetter m p -> m m , n t -> n n , n k -> n g , l t -> l l , r t -> r r || Letter _ "^"* Vowel "^"* Consonant [ .#. | Consonant ] ;
+define ThreeLetter l k e -> l j e , r k e -> r j e , h k e -> h j e , u k u -> u v u || Letter _ "^"* Consonant [ .#. | Consonant ] ;
+define N2M i n -> i m , t ö n -> t t ö m || _ "^" Vowel;
+define EOmit E -> 0 || Vowel "^" _;
+define EReal E -> e || _;
+
+# мой код для классов основ на согласный: ihminen, hyvyys, lyhyt, askel
+define N2S n e n -> s || _ "^" Vowel;
+define KS s -> k s || _ "^" Vowel;
+define T2E t -> e || _ "^" \[ .#. | i ];
+define L2E e l -> e l e || _ "^" \[ i | .#. ];
+
+define Alternations L2E .o. KS .o. T2E .o. N2M  .o. N2S .o. EOmit .o. EReal .o. ThreeLetter .o. TwoLetter .o. SingleP .o. SingleTK .o. DoublePTK ;
+
+# определяется модель парадигмы
+define Affixes Nominatives .o. Genetive .o. OtherCases .o. NumberInfl .o. Alternations .o. Phonetics;
+
+# убираются вспомогательные символы
+define Cleanup "^" -> 0 || _ ;
+
+# итоговая функция постройки парадигмы
+define Grammar Input .o. Affixes .o. Cleanup ;
+push Grammar

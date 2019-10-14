@@ -1,0 +1,234 @@
+talo+Sg+Nom	talo
+
+talo+Pl+Nom	talot
+
+talo+Sg+Gen	talon
+
+talo+Pl+Gen	talojen
+
+talo+Sg+Part	taloa
+
+talo+Pl+Part	taloja
+
+talo+Sg+In	talossa
+
+talo+Pl+In	taloissa
+
+	+?
+
+elämä+Sg+Nom	elämä
+
+elämä+Pl+Nom	elämät
+
+elämä+Sg+Gen	elämän
+
+elämä+Pl+Gen	elämien
+
+elämä+Sg+Part	elämää
+
+elämä+Pl+Part	elämiä
+
+elämä+Sg+In	elämässä
+
+elämä+Pl+In	elämissä
+
+	+?
+
+kuu+Sg+Nom	kuu
+
+kuu+Pl+Nom	kuut
+
+kuu+Sg+Gen	kuun
+
+kuu+Pl+Gen	kuiden
+
+kuu+Sg+Part	kuuta
+
+kuu+Pl+Part	kuita
+
+kuu+Sg+In	kuussa
+
+kuu+Pl+In	kuissa
+
+	+?
+
+työ+Sg+Nom	työ
+
+työ+Pl+Nom	työt
+
+työ+Sg+Gen	työn
+
+työ+Pl+Gen	töiden
+
+työ+Sg+Part	työtä
+
+työ+Pl+Part	töitä
+
+työ+Sg+In	työssä
+
+työ+Pl+In	töissä
+
+	+?
+
+sukka+Sg+Nom	sukka
+
+sukka+Pl+Nom	sukat
+
+sukka+Sg+Gen	sukan
+
+sukka+Pl+Gen	sukkien
+
+sukka+Sg+Part	sukkaa
+
+sukka+Pl+Part	sukkia
+
+sukka+Sg+In	sukassa
+
+sukka+Pl+In	sukissa
+
+	+?
+
+poika+Sg+Nom	poika
+
+poika+Pl+Nom	pojat
+
+poika+Sg+Gen	pojan
+
+poika+Pl+Gen	poikien
+
+poika+Sg+Part	poikaa
+
+poika+Pl+Part	poikia
+
+poika+Sg+In	pojassa
+
+poika+Pl+In	pojissa
+
+	+?
+
+kaappi+Pl+In	kaapissa
+
+matto+Pl+All	mattoilla
+
+kukka+Sg+Gen	kukan
+
+	+?
+
+tupa+Sg+In	tuvassa
+
+katu+Sg+All	kadulla
+
+vihta+Sg+All	vihdalla
+
+poika+Sg+All	pojalla
+
+jalka+Sg+Gen	jalan
+
+	+?
+
+matka+Pl+In	matkoissa
+
+kirja+Pl+Part	kirjoja
+
+piha+Pl+All	pihoilla
+
+herra+Pl+Gen	herrojen
+
+	+?
+
+koira+Pl+Gen	koirien
+
+poika+Pl+All	pojilla
+
+muna+Pl+Part	munia
+
+kuuma+Pl+In	kuumissa
+
+	+?
+
+kampa+Sg+All	kammalla
+
+kenkä+Pl+Nom	kengät
+
+ilta+Sg+All	illalla
+
+kerta+Sg+Gen	kerran
+
+suku+Sg+In	suvussa
+
+	+?
+
+puu+Pl+Part	puita
+
+tie+Pl+All	teillä
+
+	+?
+
+avain+Sg+Nom	avain
+
+avain+Sg+Part	avainta
+
+avain+Sg+Gen	avaimen
+
+avain+Pl+In	avaimissa
+
+	+?
+
+työtön+Sg+Nom	työtön
+
+työtön+Sg+Part	työtöntä
+
+työtön+Sg+Gen	työttömen
+
+työtön+Pl+In	työttömissä
+
+	+?
+
+ihminen+Sg+Nom	ihminen
+
+ihminen+Sg+Part	ihminentä
+
+ihminen+Sg+Gen	ihmisen
+
+ihminen+Pl+In	ihmisissä
+
+	+?
+
+ajatus+Sg+Nom	ajatus
+
+ajatus+Sg+Part	ajatusta
+
+ajatus+Sg+Gen	ajaduksen
+
+ajatus+Pl+In	ajaduksissa
+
+	+?
+
+hyvyys+Sg+Nom	hyvyys
+
+hyvyys+Sg+Part	hyvyystä
+
+hyvyys+Sg+Gen	hyvyyksen
+
+hyvyys+Pl+In	hyvyyksissä
+
+	+?
+
+askel+Sg+Nom	askel
+
+askel+Sg+Part	askeleta
+
+askel+Sg+Gen	askelen
+
+askel+Pl+In	askelissa
+
+	+?
+
+lyhyt+Sg+Nom	lyhyt
+
+lyhyt+Sg+Part	lyhyetä
+
+lyhyt+Sg+Gen	lyhyen
+
+lyhyt+Pl+In	lyhydissä
+
