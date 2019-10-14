@@ -1,4 +1,6 @@
 # NLP homeworks
 
-| hw 1 | — |
-| hw 2 | [here](/tree/master/hw%20foma) |
+Что|Где
+:---:|:---:
+hw1|—
+hw2|[here](../master/hw%20foma) 
