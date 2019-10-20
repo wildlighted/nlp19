@@ -1,0 +1,2967 @@
+Wordform_GS2	Lemma_GS2	POS_GS2	Gram_GS2
+Цветки	Цветка	NOUN	inan,nom,fem,plur
+дикорастущих	дикорастущий	ADJ	gen,pos,plur
+форм	форма	NOUN	inan,gen,fem,plur
+обыкновенной	обыкновенный	ADJ	gen,pos,fem,sing
+сирени	сирена	NOUN	inan,gen,fem,sing
+мелкие	мелкий	ADJ	nom,pos,plur
+,	,	PUNCT	
+собраны	собрать	VERB	perf,plur,past,short,part,pass
+парными	парной	ADJ	ins,pos,plur
+пучками	пучок	NOUN	inan,ins,fem,plur
+(	(	PUNCT	
+по	по	ADP	
+3	3	NUM	
+-	-	PUNCT	
+5	5	NUM	
+цветков	цветок	NOUN	inan,gen,masc,plur
+в	в	ADP	
+пучке	пучок	NOUN	inan,loc,fem,sing
+,	,	PUNCT	
+отдельные	отдельный	ADJ	nom,pos,plur
+сорта	сорт	NOUN	inan,nom,masc,plur
+по	по	ADP	
+7	7	NUM	
+-	-	PUNCT	
+9	9	NUM	
+цветков	цветок	NOUN	inan,gen,masc,plur
+)	)	PUNCT	
+.	.	PUNCT	
+В	в	ADP	
+конце	конец	NOUN	inan,loc,masc,sing
+осени	осень	NOUN	inan,gen,fem,sing
+кора	кора	NOUN	inan,nom,fem,sing
+побегов	побег	NOUN	inan,gen,masc,plur
+становится	становиться	VERB	imp,ind,sing,3,pres,fin,mid
+серой	серый	ADJ	ins,pos,fem,sing
+.	.	PUNCT	
+В	в	ADP	
+центре	центр	NOUN	inan,loc,masc,sing
+цветка	цветок	NOUN	inan,gen,masc,sing
+бело	белый	ADJ	pos,neut,sing,short
+-	-	PUNCT	
+кремовое	кремовый	ADJ	nom,pos,neut,sing
+пятнышко	пятнышко	NOUN	inan,nom,neut,sing
+в	в	ADP	
+виде	вид	NOUN	inan,loc,masc,sing
+звездочки	звездочка	NOUN	inan,gen,fem,sing
+.	.	PUNCT	
+При	при	ADP	
+уплотнении	уплотнение	NOUN	inan,loc,neut,sing
+почвы	почва	NOUN	inan,gen,fem,sing
+и	и	CCONJ	
+асфальтировании	асфальтирование	NOUN	inan,loc,neut,sing
+суховершинит	суховершинить	VERB	perf,ind,sing,3,fut,fin,act
+.	.	PUNCT	
+Морозостоек	Морозостойка	NOUN	anim,nom,masc,sing
+.	.	PUNCT	
+Родина	родина	NOUN	inan,nom,fem,sing
+-	-	PUNCT	
+горные	горный	ADJ	nom,pos,plur
+леса	лес	NOUN	inan,nom,masc,plur
+Тянь-Шаня	Тянь-Шаня	PROPN	inan,gen,masc,sing
+.	.	PUNCT	
+Дико	дико	ADV	pos
+растет	расти	VERB	imp,ind,sing,3,pres,fin,act
+на	на	ADP	
+сухих	сухой	ADJ	loc,pos,plur
+склонах	склон	NOUN	inan,loc,masc,plur
+в	в	ADP	
+умеренно	умеренно	ADV	pos
+теплых	теплый	ADJ	loc,pos,plur
+районах	район	NOUN	inan,loc,masc,plur
+на	на	ADP	
+обширной	обширный	ADJ	loc,pos,fem,sing
+территории	территория	NOUN	inan,loc,fem,sing
+от	от	ADP	
+Западной	Западный	PROPN	
+Европы	Европа	PROPN	inan,gen,fem,sing
+до	до	ADP	
+восточной	восточный	ADJ	gen,pos,fem,sing
+Азии	Азия	PROPN	inan,gen,fem,sing
+.	.	PUNCT	
+Полученное	получить	ADJ	nom,pos,neut,sing
+количество	количество	NOUN	inan,nom,neut,sing
+саженцев	саженец	NOUN	anim,gen,masc,plur
+затем	затем	ADV	pos
+распределяют	распределять	VERB	imp,ind,plur,3,pres,fin,act
+пропорционально	пропорционально	ADV	pos
+объему	объем	NOUN	inan,dat,masc,sing
+работ	работа	NOUN	inan,gen,fem,plur
+по	по	ADP	
+годам	год	NOUN	inan,dat,masc,plur
+перспективного	перспективный	ADJ	gen,pos,masc,sing
+периода	период	NOUN	inan,gen,masc,sing
+и	и	CCONJ	
+вычисляют	вычислять	VERB	imp,ind,plur,3,pres,fin,act
+среднегодовую	среднегодовой	ADJ	acc,pos,fem,sing
+потребность	потребность	NOUN	inan,acc,fem,sing
+.	.	PUNCT	
+Дистальнее	Дистальный	ADJ	cmp
+места	место	NOUN	inan,nom,neut,plur
+сужения	сужение	NOUN	inan,gen,neut,sing
+проток	протка	NOUN	inan,gen,fem,plur
+не	не	PART	
+визуализируется	визуализируться	VERB	imp,ind,sing,3,pres,fin,pass
+.	.	PUNCT	
+ЗАКЛЮЧЕНИЕ	заключение	NOUN	inan,nom,neut,sing
+:	:	PUNCT	
+Инфильтративные	Инфильтративный	ADJ	nom,pos,plur
+изменения	изменение	NOUN	inan,nom,neut,plur
+в	в	ADP	
+зоне	зона	NOUN	inan,loc,fem,sing
+гепатикоэнтероанастомоза	гепатикоэнтероанастомоз	NOUN	inan,gen,masc,sing
+,	,	PUNCT	
+в	в	ADP	
+воротах	ворота	NOUN	inan,loc,fem,plur
+печени	печень	NOUN	inan,gen,fem,sing
+,	,	PUNCT	
+во	в	ADP	
+внутрибрюшной	внутрибрюшный	ADJ	loc,pos,fem,sing
+жировой	жировой	ADJ	loc,pos,fem,sing
+клетчатке	клетчатка	NOUN	inan,loc,fem,sing
+.	.	PUNCT	
+Золотовалютные	золотовалютный	ADJ	nom,pos,plur
+резервы	резерв	NOUN	inan,nom,masc,plur
+увеличились	увеличиться	VERB	perf,ind,plur,past,fin,mid
+на	на	ADP	
+170	170	NUM	
+миллиардов	миллиард	NOUN	inan,gen,masc,plur
+долларов	доллар	NOUN	inan,gen,masc,plur
+и	и	CCONJ	
+приближаются	приближаться	VERB	imp,ind,plur,3,pres,fin,mid
+к	к	ADP	
+отметке	отметка	NOUN	inan,dat,fem,sing
+в	в	ADP	
+полтриллиона	полтриллион	NOUN	inan,gen,masc,sing
+долларов	доллар	NOUN	inan,gen,masc,plur
+США	США	PROPN	inan,gen,plur
+-	-	PUNCT	
+точнее	точно	ADV	cmp
+,	,	PUNCT	
+478,6	478,6	NUM	
+,	,	PUNCT	
+по	по	ADP	
+последним	последний	ADJ	dat,pos,plur
+данным	данные	NOUN	inan,dat,plur
+(	(	PUNCT	
+чуть	чуть	ADV	pos
+-чуть	-чуть	PART	
+понижение	понижение	NOUN	inan,nom,neut,sing
+произошло	произойти	VERB	perf,neut,ind,sing,past,fin,act
+в	в	ADP	
+связи	связь	NOUN	inan,loc,fem,sing
+с	с	ADP	
+изменением	изменение	NOUN	inan,ins,neut,sing
+курса	курс	NOUN	inan,gen,masc,sing
+доллара	доллар	NOUN	inan,gen,masc,sing
+)	)	PUNCT	
+.	.	PUNCT	
+Это	это	PRON	inan,nom,neut,sing
+вершина	вершина	NOUN	inan,nom,fem,sing
+тесного	тесный	ADJ	gen,pos,neut,sing
+и	и	CCONJ	
+плодотворного	плодотворный	ADJ	gen,pos,neut,sing
+сотрудничества	сотрудничество	NOUN	inan,gen,neut,sing
+между	между	ADP	
+нашими	наш	DET	ins,plur
+странами	страна	NOUN	inan,ins,fem,plur
+.	.	PUNCT	
+Мы	мы	PRON	nom,plur,1
+еще	еще	ADV	pos
+некоторое	некоторый	DET	acc,neut,sing
+время	время	NOUN	inan,acc,neut,sing
+разговариваем	разговаривать	VERB	imp,ind,plur,1,pres,fin,act
+с	с	ADP	
+Епископом	епископ	PROPN	anim,ins,masc,sing
+Лукианом	Лукиан	PROPN	anim,ins,masc,sing
+,	,	PUNCT	
+потом	потом	ADV	pos
+он	он	PRON	nom,masc,sing,3
+провожает	провожать	VERB	imp,ind,sing,3,pres,fin,act
+меня	я	PRON	acc,sing,1
+до	до	ADP	
+ворот	ворота	NOUN	inan,gen,neut,plur
+Резиденции	резиденция	PROPN	inan,gen,fem,sing
+,	,	PUNCT	
+откуда	откуда	ADV	pos
+навстречу	навстречу	ADV	pos
+нам	мы	PRON	dat,plur,1
+идет	идти	VERB	imp,ind,sing,3,pres,fin,act
+многочисленный	многочисленный	ADJ	nom,pos,masc,sing
+и	и	CCONJ	
+многоязычный	многоязычный	ADJ	nom,pos,masc,sing
+поток	поток	NOUN	inan,nom,masc,sing
+людей	человек	NOUN	anim,gen,masc,plur
+,	,	PUNCT	
+желающих	желать	VERB	imp,gen,plur,pres,part,act
+осмотреть	осмотреть	VERB	perf,inf,act
+экспонаты	экспонат	NOUN	inan,acc,masc,plur
+Православного	Православный	ADJ	gen,pos,masc,sing
+Музея	Музей	PROPN	inan,gen,masc,sing
+и	и	CCONJ	
+посетить	посетить	VERB	perf,inf,act
+Кафедральный	Кафедральный	ADJ	inan,acc,pos,masc,sing
+Собор	собор	PROPN	inan,acc,masc,sing
+.	.	PUNCT	
+Многотысячный	Многотысячный	ADJ	nom,pos,masc,sing
+коллектив	коллектив	NOUN	inan,nom,masc,sing
+"	"	PUNCT	
+Газпрома	Газпром	PROPN	
+"	"	PUNCT	
+денно	денно	ADV	pos
+и	и	CCONJ	
+нощно	нощно	ADV	pos
+трудился	трудиться	VERB	imp,masc,ind,sing,past,fin,mid
+над	над	ADP	
+поставленной	ставить	ADJ	ins,pos,fem,sing
+задачей	задача	NOUN	inan,ins,fem,sing
+.	.	PUNCT	
+Там	там	ADV	pos
+оставалось	оставаться	VERB	imp,neut,ind,sing,past,fin,mid
+еще	еще	ADV	pos
+60	60	NUM	
+сербских	сербский	ADJ	gen,pos,plur
+сел	село	NOUN	inan,gen,neut,plur
+.	.	PUNCT	
+Мы	мы	PRON	nom,plur,1
+шли	идти	VERB	imp,ind,plur,past,fin,act
+в	в	ADP	
+бой	бой	NOUN	inan,acc,masc,sing
+вместе	вместе	ADV	pos
+и	и	CCONJ	
+готовы	готовый	ADJ	pos,plur,short
+были	быть	AUX	imp,ind,plur,past,fin,act
+пролить	пролить	VERB	perf,inf,act
+кровь	кровь	NOUN	inan,acc,fem,sing
+друг	друг	NOUN	anim,nom,masc,sing
+за	за	ADP	
+друга	друг	NOUN	anim,acc,masc,sing
+.	.	PUNCT	
+-	-	PUNCT	
+Какие	какой	DET	nom,plur
+впечатления	впечатление	NOUN	inan,nom,neut,plur
+у	у	ADP	
+вас	вы	PRON	gen,plur,2
+остались	остаться	VERB	perf,ind,plur,past,fin,mid
+от	от	ADP	
+Москвы	Москва	PROPN	inan,gen,fem,sing
+в	в	ADP	
+1972	1972	NUM	
+году	год	NOUN	inan,loc,masc,sing
+?	?	PUNCT	
+-	-	PUNCT	
+По	по	ADP	
+удивительному	удивительный	ADJ	dat,pos,neut,sing
+стечению	стечение	NOUN	inan,dat,neut,sing
+обстоятельств	обстоятельство	NOUN	inan,gen,neut,plur
+ваш	ваш	DET	nom,masc,sing
+олимпийский	олимпийский	ADJ	nom,pos,masc,sing
+триумф	триумф	NOUN	inan,nom,masc,sing
+идеально	идеально	ADV	pos
+совпал	совпасть	VERB	perf,masc,ind,sing,past,fin,act
+по	по	ADP	
+времени	время	NOUN	inan,dat,neut,sing
+с	с	ADP	
+внедрением	внедрение	NOUN	inan,ins,neut,sing
+современных	современный	ADJ	gen,pos,plur
+поролоновых	поролоновый	ADJ	gen,pos,plur
+матов	мат	NOUN	inan,gen,masc,plur
+.	.	PUNCT	
+Все	весь	DET	acc,neut,sing
+поселение	поселение	NOUN	inan,acc,neut,sing
+можно	можно	ADV	pos
+обойти	обойти	VERB	perf,inf,act
+неторопливым	неторопливый	ADJ	ins,pos,masc,sing
+шагом	шаг	NOUN	inan,ins,masc,sing
+за	за	ADP	
+10	10	NUM	
+минут	минута	NOUN	inan,gen,fem,plur
+.	.	PUNCT	
+Стабильное	стабильный	ADJ	nom,pos,neut,sing
+взаимодействие	взаимодействие	NOUN	inan,nom,neut,sing
+в	в	ADP	
+нефтегазовом	нефтегазовый	ADJ	loc,pos,masc,sing
+секторе	сектор	NOUN	inan,loc,masc,sing
+является	являться	VERB	imp,ind,sing,3,pres,fin,mid
+общим	общий	ADJ	ins,pos,masc,sing
+вкладом	вклад	NOUN	inan,ins,masc,sing
+России	Россия	PROPN	inan,gen,fem,sing
+и	и	CCONJ	
+Венгрии	Венгрия	PROPN	inan,gen,fem,sing
+в	в	ADP	
+обеспечение	обеспечение	NOUN	inan,acc,neut,sing
+энергобезопасности	энергобезопасность	NOUN	inan,gen,fem,sing
+Европы	Европа	PROPN	inan,gen,fem,sing
+.	.	PUNCT	
+При	при	ADP	
+этом	это	PRON	inan,loc,neut,sing
+работа	работа	NOUN	inan,nom,fem,sing
+над	над	ADP	
+реализаций	реализация	NOUN	inan,gen,fem,plur
+проектов	проект	NOUN	inan,gen,masc,plur
+жёстко	жёстко	ADV	pos
+увязывалась	увязывать	VERB	imp,fem,ind,sing,past,fin,mid
+с	с	ADP	
+достижением	достижение	NOUN	inan,ins,neut,sing
+на	на	ADP	
+каждом	каждый	DET	loc,masc,sing
+этапе	этап	NOUN	inan,loc,masc,sing
+целевых	целевой	ADJ	gen,pos,plur
+показателей	показатель	NOUN	inan,gen,masc,plur
+.	.	PUNCT	
+Наверняка	наверняка	ADV	pos
+техника	техника	NOUN	inan,nom,fem,sing
+была	быть	AUX	imp,fem,ind,sing,past,fin,act
+бы	бы	AUX	
+уже	уже	ADV	pos
+не	не	PART	
+та	тот	DET	nom,fem,sing
+.	.	PUNCT	
+Я	я	PRON	nom,sing,1
+имею	иметь	VERB	imp,ind,sing,1,pres,fin,act
+в	в	ADP	
+виду	вид	NOUN	inan,loc,masc,sing
+наше	наш	DET	acc,neut,sing
+сотрудничество	сотрудничество	NOUN	inan,acc,neut,sing
+в	в	ADP	
+сфере	сфера	NOUN	inan,loc,fem,sing
+энергетики	энергетика	NOUN	inan,gen,fem,sing
+-	-	PUNCT	
+первый	первый	ADJ	nom,pos,masc,sing
+блок	блок	NOUN	inan,nom,masc,sing
+Сангтудинской	Сангтудинский	ADJ	gen,pos,fem,sing
+ГЭС	гэс	NOUN	inan,gen,fem,sing
+станции	станция	NOUN	inan,gen,fem,sing
+запущен	запустить	VERB	perf,masc,sing,past,short,part,pass
+в	в	ADP	
+январе	январь	NOUN	inan,loc,masc,sing
+.	.	PUNCT	
+В	в	ADP	
+рамках	рамка	NOUN	inan,loc,fem,plur
+национального	национальный	ADJ	gen,pos,masc,sing
+проекта	проект	NOUN	inan,gen,masc,sing
+13	13	NUM	
+миллионов	миллион	NOUN	inan,gen,masc,plur
+человек	человек	NOUN	anim,gen,masc,plur
+смогли	мочь	VERB	perf,ind,plur,past,fin,act
+пройти	пройти	VERB	perf,inf,act
+диспансеризацию	диспансеризация	NOUN	inan,acc,fem,sing
+,	,	PUNCT	
+а	а	CCONJ	
+60	60	NUM	
+миллионам	миллион	NOUN	inan,dat,masc,plur
+были	быть	AUX	imp,ind,plur,past,fin,act
+сделаны	делать	VERB	perf,plur,past,short,part,pass
+прививки	прививка	NOUN	inan,nom,fem,plur
+.	.	PUNCT	
+Оба	оба	NUM	nom,masc
+работают	работать	VERB	imp,ind,plur,3,pres,fin,act
+на	на	ADP	
+влиятельную	влиятельный	ADJ	acc,pos,fem,sing
+и	и	CCONJ	
+известную	известный	ADJ	acc,pos,fem,sing
+адвокатскую	адвокатский	ADJ	acc,pos,fem,sing
+контору	контора	NOUN	inan,acc,fem,sing
+«Bullie	«Bullie	PROPN	yes
+Brake	Brake	PROPN	yes
+&	&	PUNCT	
+Desmay»	Desmay»	NOUN	inan,gen,fem,sing
+и	и	CCONJ	
+успешно	успешно	ADV	pos
+продвигаются	продвигаться	VERB	imp,ind,plur,3,pres,fin,pass
+по	по	ADP	
+служебной	служебный	ADJ	dat,pos,fem,sing
+лестнице	лестница	NOUN	inan,dat,fem,sing
+.	.	PUNCT	
+Некоторые	некоторый	DET	nom,plur
+люди	человек	NOUN	anim,nom,masc,plur
+испытывают	испытывать	VERB	imp,ind,plur,3,pres,fin,act
+панические	панический	ADJ	nom,pos,plur
+атаки	атака	NOUN	inan,nom,fem,plur
+,	,	PUNCT	
+которые	который	PRON	nom
+характеризуются	характеризоваться	VERB	imp,ind,plur,3,pres,fin,mid
+чрезвычайно	чрезвычайно	ADV	pos
+сильным	сильный	ADJ	ins,pos,neut,sing
+чувством	чувство	NOUN	inan,ins,neut,sing
+страха	страх	NOUN	inan,gen,masc,sing
+.	.	PUNCT	
+Они	они	PRON	nom,plur,3
+отнюдь	отнюдь	ADV	pos
+не	не	PART	
+редки	редкий	ADJ	pos,plur,short
+.	.	PUNCT	
+К	к	ADP	
+третьей	третий	ADJ	loc,pos,fem,sing
+неделе	неделя	NOUN	inan,loc,fem,sing
+пациенты	пациент	NOUN	anim,nom,masc,plur
+показывали	показывать	VERB	imp,ind,plur,past,fin,act
+заметное	заметный	ADJ	acc,pos,neut,sing
+улучшение	улучшение	NOUN	inan,acc,neut,sing
+настроения	настроение	NOUN	inan,gen,neut,sing
+в	в	ADP	
+отличие	отличие	NOUN	inan,acc,neut,sing
+от	от	ADP	
+принимавших	принимать	VERB	perf,gen,plur,past,part,act
+плацебо	плацебо	NOUN	inan,acc,neut,sing
+.	.	PUNCT	
+Высокий	высокий	ADJ	nom,pos,masc,sing
+уровень	уровень	NOUN	inan,nom,masc,sing
+эстрогена	эстроген	NOUN	inan,gen,masc,sing
+и	и	CCONJ	
+низкий	низкий	ADJ	nom,pos,masc,sing
+прогестерона	прогестерон	NOUN	inan,nom,masc,plur
+могут	мочь	VERB	imp,ind,plur,3,pres,fin,act
+привести	привести	VERB	perf,inf,act
+к	к	ADP	
+предменструальному	предменструальный	ADJ	dat,pos,masc,sing
+синдрому	синдром	NOUN	inan,dat,masc,sing
+(	(	PUNCT	
+ПМС	ПМС	PROPN	inan,nom,masc,sing
+)	)	PUNCT	
+с	с	ADP	
+цикличной	цикличный	ADJ	ins,pos,fem,sing
+депрессией	депрессия	NOUN	inan,ins,fem,sing
+и	и	CCONJ	
+беспокойством	беспокойство	NOUN	inan,ins,neut,sing
+.	.	PUNCT	
+Иногда	иногда	ADV	pos
+колебания	колебание	NOUN	inan,nom,neut,plur
+настроения	настроение	NOUN	inan,gen,neut,sing
+и	и	CCONJ	
+депрессия	депрессия	NOUN	inan,nom,neut,plur
+могут	мочь	VERB	imp,ind,plur,3,pres,fin,act
+быть	быть	AUX	imp,inf,act
+результатом	результат	NOUN	inan,ins,masc,sing
+слишком	слишком	ADV	pos
+большого	большой	ADJ	gen,pos,masc,sing
+стресса	стресс	NOUN	inan,gen,masc,sing
+и	и	CCONJ	
+истощения	истощение	NOUN	inan,gen,neut,sing
+надпочечников	надпочечник	NOUN	inan,gen,masc,plur
+.	.	PUNCT	
+Первое	первый	ADJ	nom,pos,neut,sing
+описание	описание	NOUN	inan,nom,neut,sing
+этого	этот	DET	gen,neut,sing
+члена	член	NOUN	inan,gen,neut,sing
+семейства	семейство	NOUN	inan,gen,neut,sing
+перечных	перечный	NOUN	inan,gen,fem,plur
+появилось	появиться	VERB	perf,neut,ind,sing,past,fin,mid
+в	в	ADP	
+западных	западный	ADJ	loc,pos,plur
+странах	страна	NOUN	inan,loc,fem,plur
+после	после	ADP	
+знаменитых	знаменитый	ADJ	gen,pos,plur
+рейдов	рейд	NOUN	inan,gen,masc,plur
+капитана	капитан	NOUN	anim,gen,masc,sing
+Джеймса	Джеймс	PROPN	anim,gen,masc,sing
+Кука	Кук	PROPN	anim,gen,masc,sing
+в	в	ADP	
+Южные	южный	ADJ	inan,acc,pos,plur
+моря	море	NOUN	inan,acc,neut,plur
+.	.	PUNCT	
+Согласно	согласно	ADP	
+данным	данные	NOUN	inan,dat,plur
+Национального	национальный	ADJ	gen,pos,neut,sing
+аутистического	аутистический	ADJ	gen,pos,neut,sing
+общества	общество	NOUN	inan,gen,neut,sing
+частота	частота	NOUN	inan,nom,fem,sing
+аутизма	аутизм	NOUN	inan,gen,masc,sing
+сейчас	сейчас	ADV	pos
+может	мочь	VERB	imp,ind,sing,3,pres,fin,act
+превышать	превышать	VERB	imp,inf,act
+1	1	NUM	
+случай	случай	NOUN	inan,nom,masc,sing
+на	на	ADP	
+каждые	каждый	DET	acc,plur
+100	100	NUM	
+детей	ребенок	NOUN	anim,gen,masc,plur
+.	.	PUNCT	
+Конечная	конечный	ADJ	nom,pos,fem,sing
+цель	цель	NOUN	inan,nom,fem,sing
+математики	математика	NOUN	inan,gen,fem,sing
+—	—	PUNCT	
+вообще	вообще	ADV	pos
+избавиться	избавиться	VERB	perf,inf,mid
+от	от	ADP	
+необходимости	необходимость	NOUN	inan,gen,fem,sing
+о	о	ADP	
+чем-либо	чем-либо	ADV	pos
+думать	думать	VERB	imp,inf,act
+.	.	PUNCT	
+В	в	ADP	
+том	то	PRON	inan,loc,neut,sing
+-	-	PUNCT	
+то	тот	DET	nom,neut,sing
+и	и	PART	
+дело	дело	NOUN	inan,nom,neut,sing
+,	,	PUNCT	
+что	что	SCONJ	
+,	,	PUNCT	
+кроме	кроме	ADP	
+действительных	действительный	ADJ	gen,pos,plur
+чисел	число	NOUN	inan,gen,neut,plur
+,	,	PUNCT	
+достаточно	достаточный	ADJ	pos,neut,sing,short
+изобрести	изобрести	VERB	perf,inf,act
+только	только	PART	
+одно	один	NUM	acc,neut
+число	число	NOUN	inan,acc,neut,sing
+—	—	PUNCT	
+квадратный	квадратный	ADJ	inan,acc,pos,masc,sing
+корень	корень	NOUN	inan,acc,masc,sing
+из	из	ADP	
+—	—	PUNCT	
+1	1	NUM	
+,	,	PUNCT	
+после	после	ADP	
+этого	это	PRON	inan,gen,neut,sing
+можно	можно	ADV	pos
+решить	решить	VERB	perf,inf,act
+любое	любой	DET	acc,neut,sing
+алгебраическое	алгебраический	ADJ	acc,pos,neut,sing
+уравнение	уравнение	NOUN	inan,acc,neut,sing
+]	]	PUNCT	
+Возможные	возможный	ADJ	nom,pos,plur
+состояния	состояние	NOUN	inan,nom,neut,plur
+электронов	электрон	NOUN	inan,gen,masc,plur
+определяются	определять	VERB	imp,ind,plur,3,pres,fin,pass
+различными	различный	ADJ	ins,pos,plur
+энергетическими	энергетический	ADJ	ins,pos,plur
+подуровнями	подуровень	NOUN	inan,ins,fem,plur
+,	,	PUNCT	
+которые	который	PRON	nom
+носят	носить	VERB	imp,ind,plur,3,pres,fin,act
+название	название	NOUN	inan,acc,neut,sing
+орбиталей	орбиталь	NOUN	inan,gen,masc,plur
+.	.	PUNCT	
+Указанный	указать	VERB	perf,nom,masc,sing,past,part,pass
+выше	высоко	ADV	cmp
+вызов	вызов	NOUN	inan,nom,masc,sing
+функции	функция	NOUN	inan,gen,fem,sing
+вернет	вернуть	VERB	perf,ind,sing,3,fut,fin,act
+все	весь	DET	acc,plur
+SNMP	SNMP	PROPN	yes
+объекты	объект	NOUN	inan,acc,masc,plur
+из	из	ADP	
+SNMP	SNMP	PROPN	
+агента	агент	NOUN	inan,gen,masc,sing
+,	,	PUNCT	
+напущенного	напущить	VERB	perf,gen,masc,sing,past,part,pass
+на	на	ADP	
+локальном	локальный	ADJ	loc,pos,masc,sing
+хосте	хост	NOUN	inan,loc,masc,sing
+.	.	PUNCT	
+Эта	этот	DET	nom,fem,sing
+группа	группа	NOUN	inan,nom,fem,sing
+включает	включать	VERB	imp,ind,sing,3,pres,fin,act
+щелочные	щелочный	ADJ	inan,acc,pos,plur
+металлы	металл	NOUN	inan,acc,masc,plur
+натрий	натрий	NOUN	inan,gen,fem,plur
+(	(	PUNCT	
+Na	Na	PROPN	yes
+)	)	PUNCT	
+и	и	CCONJ	
+калий	калий	NOUN	inan,masc
+(	(	PUNCT	
+К	К	PROPN	inan,nom,masc,sing
+)	)	PUNCT	
+,	,	PUNCT	
+щелочноземельные	щелочноземельный	ADJ	inan,acc,pos,plur
+металлы	металл	NOUN	inan,acc,masc,plur
+магний	магний	NOUN	inan,nom,masc,sing
+(	(	PUNCT	
+Мg	Мg	PROPN	yes
+)	)	PUNCT	
+и	и	CCONJ	
+кальций	кальций	NOUN	inan,acc,masc,sing
+(	(	PUNCT	
+Са	С	PROPN	
+)	)	PUNCT	
+.	.	PUNCT	
+Это	это	PRON	inan,nom,neut,sing
+сразу	сразу	ADV	pos
+говорит	говорить	VERB	imp,ind,sing,3,pres,fin,act
+нам	мы	PRON	dat,plur,1
+,	,	PUNCT	
+что	что	PRON	nom
+такое	такой	DET	nom,neut,sing
+момент	момент	NOUN	inan,nom,masc,sing
+количественно	количественно	ADV	pos
+.	.	PUNCT	
+Собачка	собачка	NOUN	inan,nom,fem,sing
+нужна	нужный	ADJ	pos,fem,sing,short
+к	к	ADP	
+празднику	праздник	NOUN	anim,dat,masc,sing
+!	!	PUNCT	
+Он	он	PRON	nom,masc,sing,3
+полагал	полагать	VERB	imp,masc,ind,sing,past,fin,act
+,	,	PUNCT	
+что	что	SCONJ	
+римлян	римлянин	NOUN	anim,acc,masc,plur
+сгубило	губить	VERB	perf,neut,ind,sing,past,fin,act
+избыточное	избыточный	ADJ	acc,pos,neut,sing
+честолюбие	честолюбие	NOUN	inan,acc,neut,sing
+.	.	PUNCT	
+ЕНЛ	Енл	NOUN	inan,nom,masc,sing
+-	-	PUNCT	
+1	1	NUM	
+получают	получать	VERB	imp,ind,plur,3,pres,fin,act
+общенациональные	общенациональный	ADJ	nom,pos,plur
+и	и	CCONJ	
+крупные	крупный	ADJ	nom,pos,plur
+региональные	региональный	ADJ	nom,pos,plur
+газеты	газета	NOUN	inan,nom,fem,plur
+и	и	CCONJ	
+телекомпании	телекомпания	NOUN	inan,nom,fem,plur
+,	,	PUNCT	
+агентства	агентство	NOUN	inan,nom,neut,plur
+,	,	PUNCT	
+иностранные	иностранный	ADJ	nom,pos,plur
+дипломатические	дипломатический	ADJ	nom,pos,plur
+представительства	представительство	NOUN	inan,nom,neut,plur
+в	в	ADP	
+России	Россия	PROPN	inan,loc,fem,sing
+.	.	PUNCT	
+Телевизионные	телевизионный	ADJ	nom,pos,plur
+Web	Веб	PROPN	inan,nom,masc,sing
+-	-	PUNCT	
+технологии	технология	NOUN	inan,nom,fem,plur
+развиваются	развиваться	VERB	imp,ind,plur,3,pres,fin,mid
+в	в	ADP	
+нашей	наш	DET	loc,fem,sing
+стране	страна	NOUN	inan,loc,fem,sing
+с	с	ADP	
+некоторым	некоторый	DET	ins,neut,sing
+опозданием	опоздание	NOUN	inan,ins,neut,sing
+.	.	PUNCT	
+Недели	неделя	VERB	perf,ind,plur,past,fin,act
+через	через	ADP	
+две	два	NUM	inan,acc,fem
+-	-	PUNCT	
+три	три	NUM	inan,acc
+,	,	PUNCT	
+не	не	PART	
+раньше	рано	ADV	cmp
+.	.	PUNCT	
+Такой	такой	DET	gen,fem,sing
+птицы	птица	NOUN	anim,gen,fem,sing
+не	не	PART	
+водилось	водиться	VERB	imp,neut,ind,sing,past,fin,mid
+в	в	ADP	
+здешних	здешний	ADJ	loc,pos,plur
+местах	место	NOUN	inan,loc,neut,plur
+.	.	PUNCT	
+Здесь	здесь	ADV	pos
+он	он	PRON	nom,masc,sing,3
+не	не	PART	
+отказал	отказывать	VERB	perf,masc,ind,sing,past,fin,act
+себе	себя	PRON	dat
+в	в	ADP	
+удовольствии	удовольствие	NOUN	inan,loc,neut,sing
+заранее	заранее	ADV	pos
+злорадно	злорадно	ADJ	pos,neut,sing,short
+вообразить	вообразить	VERB	perf,inf,act
+,	,	PUNCT	
+как	как	ADV	pos
+будет	быть	AUX	imp,ind,sing,3,pres,fin,act
+сходить	сойти	VERB	imp,inf,act
+со	с	ADP	
+сцены	сцена	NOUN	inan,gen,fem,sing
+премьер	премьер	NOUN	anim,nom,masc,sing
+Борзых	Борзый	ADJ	gen,pos,plur
+.	.	PUNCT	
+Булькнуло	булькнуть	VERB	perf,neut,ind,sing,past,fin,act
+,	,	PUNCT	
+екнуло	екнуть	VERB	perf,neut,ind,sing,past,fin,act
+,	,	PUNCT	
+порскнуло	порскнуть	VERB	perf,neut,ind,sing,past,fin,act
+,	,	PUNCT	
+ахнуло	ахнуть	VERB	perf,neut,ind,sing,past,fin,act
+-	-	PUNCT	
+лучше	хорошо	ADV	cmp
+гляди	глядеть	VERB	imp,imp,sing,2,fin,act
+!	!	PUNCT	
+-	-	PUNCT	
+сзади	сзади	ADV	pos
+,	,	PUNCT	
+наверху	наверху	ADV	pos
+,	,	PUNCT	
+вниз	вниз	ADV	pos
+головой	голова	NOUN	inan,ins,fem,sing
+,	,	PUNCT	
+пропало	пропасть	VERB	perf,neut,ind,sing,past,fin,act
+,	,	PUNCT	
+нету	нет	VERB	imp,ind,sing,3,pres,fin,act
+!	!	PUNCT	
+И	и	CCONJ	
+Пэт	Пэт	PROPN	anim,nom,fem,sing
+выла	выть	VERB	imp,fem,ind,sing,past,fin,act
+от	от	ADP	
+злости	злость	NOUN	inan,gen,fem,sing
+:	:	PUNCT	
+ее	ее	DET	
+Грегори	Грегори	PROPN	anim,nom,masc,sing
+-	-	PUNCT	
+-	-	PUNCT	
+ее	она	PRON	gen,fem,sing,3
+лучезарный	лучезарный	ADJ	nom,pos,masc,sing
+муж	муж	NOUN	anim,nom,masc,sing
+-	-	PUNCT	
+-	-	PUNCT	
+был	быть	AUX	imp,masc,ind,sing,past,fin,act
+тоже	тоже	PART	
+во	в	ADP	
+власти	власть	NOUN	inan,loc,fem,sing
+этого	этот	DET	gen,masc,sing
+всемогущего	всемогущий	ADJ	gen,pos,masc,sing
+микрооргазма	микрооргазм	NOUN	inan,gen,masc,sing
+.	.	PUNCT	
+Он	он	PRON	nom,masc,sing,3
+засыпал	засыпать	VERB	perf,masc,ind,sing,past,fin,act
+,	,	PUNCT	
+ухватившись	ухватиться	VERB	perf,past,conv,mid
+за	за	ADP	
+ее	ее	DET	
+пальцы	палец	NOUN	inan,acc,masc,plur
+,	,	PUNCT	
+и	и	CCONJ	
+,	,	PUNCT	
+оставляя	оставлять	VERB	imp,pres,conv,act
+его	он	PRON	acc,masc,sing,3
+,	,	PUNCT	
+надо	надо	ADV	pos
+было	быть	AUX	imp,neut,ind,sing,past,fin,act
+с	с	ADP	
+величайшей	большой	ADJ	ins,pos,fem,sing
+осторожностью	осторожность	NOUN	inan,ins,fem,sing
+высвобождать	высвобождать	VERB	imp,inf,act
+руку	рука	NOUN	inan,acc,fem,sing
+,	,	PUNCT	
+чтобы	чтобы	SCONJ	cnd
+он	он	PRON	nom,masc,sing,3
+не	не	PART	
+проснулся	проснуться	VERB	perf,masc,ind,sing,past,fin,mid
+с	с	ADP	
+криком	крик	NOUN	inan,ins,masc,sing
+ужаса	ужас	NOUN	inan,gen,masc,sing
+.	.	PUNCT	
+-	-	PUNCT	
+-	-	PUNCT	
+Хотел	хотеть	VERB	imp,masc,ind,sing,past,fin,act
+бы	бы	AUX	
+добавить	добавить	VERB	perf,inf,act
+разумное	разумный	ADJ	acc,pos,neut,sing
+:	:	PUNCT	
+как	как	ADV	pos
+может	мочь	VERB	imp,ind,sing,3,pres,fin,act
+инженер	инженер	NOUN	anim,nom,masc,sing
+что-нибудь	что-нибудь	PRON	acc
+портить	портить	VERB	imp,inf,act
+?	?	PUNCT	
+Не	не	PART	
+сотвори	сотвореть	VERB	imp,imp,sing,2,fin,act
+себе	себя	PRON	dat
+кумира	кумир	NOUN	anim,acc,masc,sing
+,	,	PUNCT	
+Но	но	CCONJ	
+лишь	лишь	PART	
+люби	любить	VERB	imp,imp,sing,2,fin,act
+,	,	PUNCT	
+как	как	SCONJ	
+Я	я	PRON	nom,sing,1
+люблю	любить	VERB	imp,ind,sing,1,pres,fin,act
+-	-	PUNCT	
+-	-	PUNCT	
+В	в	ADP	
+твоем	твой	DET	loc,neut,sing
+подобье	подобие	NOUN	inan,loc,neut,sing
+-	-	PUNCT	
+-	-	PUNCT	
+Образ	образ	NOUN	inan,nom,masc,sing
+Мира	мир	PROPN	inan,gen,masc,sing
+,	,	PUNCT	
+И	и	CCONJ	
+не	не	PART	
+скорби	скорбь	NOUN	inan,gen,masc,sing
+,	,	PUNCT	
+как	как	SCONJ	
+Я	я	PRON	nom,sing,1
+скорблю	скорбить	VERB	imp,ind,sing,1,pres,fin,act
+.	.	PUNCT	
+Я	я	PRON	nom,sing,1
+заставил	заставить	VERB	perf,masc,ind,sing,past,fin,act
+ее	она	PRON	acc,fem,sing,3
+повторить	повторить	VERB	perf,inf,act
+задание	задание	NOUN	inan,acc,neut,sing
+.	.	PUNCT	
+Тут	тут	ADV	pos
+на	на	ADP	
+кухню	кухня	NOUN	inan,acc,fem,sing
+явилась	явиться	VERB	perf,fem,ind,sing,past,fin,mid
+Майка	Майк	PROPN	inan,nom,fem,sing
+.	.	PUNCT	
+-	-	PUNCT	
+-	-	PUNCT	
+А	а	CCONJ	
+вы	вы	PRON	nom,plur,2
+разбудите	разбудить	VERB	imp,ind,plur,2,pres,fin,act
+нас	мы	PRON	acc,plur,1
+,	,	PUNCT	
+если	если	SCONJ	
+новый	новый	ADJ	nom,pos,masc,sing
+цыпленок	цыпленка	NOUN	inan,nom,masc,sing
+выведется	выведться	VERB	perf,ind,sing,3,fut,fin,mid
+?	?	PUNCT	
+Но	но	CCONJ	
+на	на	ADP	
+этот	этот	DET	acc,masc,sing
+раз	раз	NOUN	inan,acc,masc,sing
+его	он	PRON	acc,masc,sing,3
+совсем	совсем	ADV	pos
+не	не	PART	
+было	быть	VERB	imp,neut,ind,sing,past,fin,act
+.	.	PUNCT	
+-	-	PUNCT	
+-	-	PUNCT	
+Тартасов	Тартасов	PROPN	anim,nom,masc,sing
+хитрец	хитрец	NOUN	anim,nom,masc,sing
+.	.	PUNCT	
+Как	как	SCONJ	
+все	весь	DET	nom,plur
+писатели	писатель	NOUN	anim,nom,masc,plur
+.	.	PUNCT	
+.	.	PUNCT	
+.	.	PUNCT	
+Таков	таков	ADJ	pos,masc,sing,short
+их	их	DET	
+удел	удел	NOUN	inan,nom,masc,sing
+.	.	PUNCT	
+Стояли	стоять	VERB	imp,ind,plur,past,fin,act
+в	в	ADP	
+кружок	кружка	NOUN	inan,acc,masc,sing
+и	и	CCONJ	
+по-честному	по-честному	ADV	pos
+рассуждали	рассуждать	VERB	imp,ind,plur,past,fin,act
+.	.	PUNCT	
+Небо	небо	NOUN	inan,nom,neut,sing
+,	,	PUNCT	
+в	в	ADP	
+которое	который	PRON	acc
+можно	можно	ADV	pos
+глядеть	глядеть	VERB	imp,inf,act
+.	.	PUNCT	
+.	.	PUNCT	
+.	.	PUNCT	
+Задрав	задрать	VERB	perf,past,conv,act
+голову	голова	NOUN	inan,acc,fem,sing
+.	.	PUNCT	
+.	.	PUNCT	
+.	.	PUNCT	
+Идти	идти	VERB	imp,inf,act
+и	и	CCONJ	
+думать	думать	VERB	imp,inf,act
+о	о	ADP	
+синеве	синева	NOUN	inan,loc,masc,sing
+.	.	PUNCT	
+Внеконфессиональное	Внеконфессиональный	ADJ	nom,pos,neut,sing
+государство	государство	NOUN	inan,nom,neut,sing
+представляет	представлять	VERB	imp,ind,sing,3,pres,fin,act
+собой	себя	PRON	ins
+государство	государство	NOUN	inan,nom,neut,sing
+,	,	PUNCT	
+которое	который	PRON	nom
+сознательно	сознательно	ADV	pos
+отстраняет	отстранявать	VERB	imp,ind,sing,3,pres,fin,act
+себя	себя	PRON	acc
+от	от	ADP	
+всего	все	PRON	inan,gen,neut,sing
+,	,	PUNCT	
+что	что	PRON	nom
+происходит	происходить	VERB	imp,ind,sing,3,pres,fin,act
+в	в	ADP	
+лоне	лоно	NOUN	inan,loc,masc,sing
+религии	религия	NOUN	inan,gen,fem,sing
+,	,	PUNCT	
+позволяя	позволять	VERB	imp,pres,conv,act
+решать	решать	VERB	imp,inf,act
+эти	этот	DET	acc,plur
+вопросы	вопрос	NOUN	inan,acc,masc,plur
+гражданскому	гражданский	ADJ	dat,pos,neut,sing
+обществу	общество	NOUN	inan,dat,neut,sing
+.	.	PUNCT	
+Неуведомление	Неуведомление	NOUN	inan,nom,neut,sing
+или	или	CCONJ	
+несвоевременное	несвоевременный	ADJ	nom,pos,neut,sing
+уведомление	уведомление	NOUN	inan,nom,neut,sing
+об	о	ADP	
+указанных	указать	ADJ	loc,pos,plur
+обстоятельствах	обстоятельство	NOUN	inan,loc,neut,plur
+лишает	лишить	VERB	imp,ind,sing,3,pres,fin,act
+Стороны	Сторона	PROPN	inan,nom,fem,plur
+права	право	NOUN	inan,gen,neut,sing
+ссылаться	ссылаться	VERB	imp,inf,mid
+на	на	ADP	
+любые	любой	DET	acc,plur
+из	из	ADP	
+этих	этот	DET	gen,plur
+обстоятельств	обстоятельство	NOUN	inan,gen,neut,plur
+и	и	CCONJ	
+не	не	PART	
+освобождает	освобождать	VERB	imp,ind,sing,3,pres,fin,act
+от	от	ADP	
+ответственности	ответственность	NOUN	inan,gen,fem,sing
+по	по	ADP	
+настоящему	настоящий	ADJ	dat,pos,masc,sing
+Договору	договор	PROPN	inan,dat,masc,sing
+.	.	PUNCT	
+Президиум	президиум	NOUN	inan,nom,masc,sing
+Высшего	высший	ADJ	gen,pos,masc,sing
+Арбитражного	арбитражный	ADJ	gen,pos,masc,sing
+Суда	суд	PROPN	inan,gen,masc,sing
+РФ	РФ	PROPN	inan,gen,fem,sing
+в	в	ADP	
+информационном	информационный	ADJ	loc,pos,neut,sing
+письме	письмо	NOUN	inan,loc,neut,sing
+от	от	ADP	
+29	29	NUM	
+сентября	сентябрь	NOUN	inan,gen,masc,sing
+1999	1999	NUM	
+г	год	NOUN	inan,gen,masc,sing
+.	.	PUNCT	
+№	№	SYM	
+48	48	NUM	
+"	"	PUNCT	
+О	о	ADP	
+некоторых	некоторый	DET	loc,plur
+вопросах	вопрос	NOUN	inan,loc,masc,plur
+судебной	судебный	ADJ	gen,pos,fem,sing
+практики	практика	NOUN	inan,gen,fem,sing
+,	,	PUNCT	
+возникающих	возникать	VERB	imp,gen,plur,pres,part,act
+при	при	ADP	
+рассмотрении	рассмотрение	NOUN	inan,loc,neut,sing
+споров	спор	NOUN	inan,gen,masc,plur
+,	,	PUNCT	
+связанных	связать	VERB	perf,gen,plur,past,part,pass
+с	с	ADP	
+договорами	договор	NOUN	inan,ins,masc,plur
+на	на	ADP	
+оказание	оказание	NOUN	inan,acc,neut,sing
+правовых	правовой	ADJ	gen,pos,plur
+услуг	услуга	NOUN	inan,gen,fem,plur
+"	"	PUNCT	
+,	,	PUNCT	
+отметил	отметить	VERB	perf,masc,ind,sing,past,fin,act
+,	,	PUNCT	
+что	что	SCONJ	
+не	не	PART	
+подлежат	подлежать	VERB	imp,ind,plur,3,pres,fin,act
+удовлетворению	удовлетворение	NOUN	inan,dat,neut,sing
+требования	требование	NOUN	inan,gen,neut,sing
+исполнителя	исполнитель	NOUN	anim,gen,masc,sing
+о	о	ADP	
+выплате	выплата	NOUN	inan,loc,fem,sing
+вознаграждения	вознаграждение	NOUN	inan,gen,neut,sing
+,	,	PUNCT	
+если	если	SCONJ	
+истец	истец	NOUN	anim,nom,masc,sing
+обосновывает	обосновывавать	VERB	imp,ind,sing,3,pres,fin,act
+их	их	PRON	acc,plur,3
+условием	условие	NOUN	inan,ins,neut,sing
+договора	договор	NOUN	inan,gen,masc,sing
+,	,	PUNCT	
+ставящим	ставить	VERB	imp,ins,masc,sing,pres,part,act
+размер	размер	NOUN	inan,acc,masc,sing
+оплаты	оплата	NOUN	inan,gen,fem,sing
+услуг	услуга	NOUN	inan,gen,fem,plur
+в	в	ADP	
+зависимость	зависимость	NOUN	inan,acc,fem,sing
+от	от	ADP	
+решения	решение	NOUN	inan,gen,neut,sing
+суда	суд	NOUN	inan,gen,masc,sing
+или	или	CCONJ	
+государственного	государственный	ADJ	gen,pos,masc,sing
+органа	орган	NOUN	inan,gen,masc,sing
+,	,	PUNCT	
+которое	который	PRON	nom
+будет	быть	AUX	imp,ind,sing,3,pres,fin,act
+принято	принять	VERB	perf,neut,sing,past,short,part,pass
+в	в	ADP	
+будущем	будущее	NOUN	inan,loc,neut,sing
+.	.	PUNCT	
+После	после	ADP	
+произнесения	произнесение	NOUN	inan,gen,neut,sing
+речей	речь	NOUN	anim,gen,masc,plur
+всеми	весь	DET	ins,plur
+лицами	лицо	NOUN	inan,ins,neut,plur
+,	,	PUNCT	
+участвующими	участвовать	VERB	imp,ins,plur,pres,part,act
+в	в	ADP	
+деле	дело	NOUN	inan,loc,neut,sing
+,	,	PUNCT	
+их	их	DET	
+представителями	представитель	NOUN	anim,ins,masc,plur
+они	они	PRON	nom,plur,3
+могут	мочь	VERB	imp,ind,plur,3,pres,fin,act
+выступить	выступить	VERB	perf,inf,act
+с	с	ADP	
+репликами	реплика	NOUN	inan,ins,fem,plur
+в	в	ADP	
+связи	связь	NOUN	inan,loc,fem,sing
+со	с	ADP	
+сказанным	сказать	VERB	perf,ins,neut,sing,past,part,pass
+.	.	PUNCT	
+Протокол	протокости	NOUN	inan,nom,masc,sing
+судебного	судебный	ADJ	gen,pos,neut,sing
+заседания	заседание	NOUN	inan,gen,neut,sing
+или	или	CCONJ	
+совершенного	совершить	VERB	perf,gen,neut,sing,past,part,pass
+вне	вне	ADP	
+судебного	судебный	ADJ	gen,pos,neut,sing
+заседания	заседание	NOUN	inan,gen,neut,sing
+отдельного	отдельный	ADJ	gen,pos,neut,sing
+процессуального	процессуальный	ADJ	gen,pos,neut,sing
+действия	действие	NOUN	inan,gen,neut,sing
+должен	должен	ADJ	pos,masc,sing,short
+отражать	отражать	VERB	imp,inf,act
+все	весь	DET	acc,plur
+существенные	существенный	ADJ	inan,acc,pos,plur
+сведения	сведение	NOUN	inan,acc,neut,plur
+о	о	ADP	
+разбирательстве	разбирательство	NOUN	inan,loc,neut,sing
+дела	дело	NOUN	inan,gen,neut,sing
+или	или	CCONJ	
+совершении	совершение	NOUN	inan,loc,neut,sing
+отдельного	отдельный	ADJ	gen,pos,neut,sing
+процессуального	процессуальный	ADJ	gen,pos,neut,sing
+действия	действие	NOUN	inan,gen,neut,sing
+.	.	PUNCT	
+Лицо	лицо	NOUN	inan,nom,neut,sing
+,	,	PUNCT	
+представляющее	представлять	VERB	imp,nom,neut,sing,pres,part,act
+аудио	аудио	NOUN	inan,ins,neut,sing
+-	-	PUNCT	
+и	и	CCONJ	
+(	(	PUNCT	
+или	или	CCONJ	
+)	)	PUNCT	
+видеозаписи	видеозапись	NOUN	inan,nom,fem,plur
+на	на	ADP	
+электронном	электронный	ADJ	loc,pos,masc,sing
+или	или	CCONJ	
+ином	иной	ADJ	loc,pos,masc,sing
+носителе	носитель	NOUN	inan,loc,masc,sing
+либо	либо	CCONJ	
+ходатайствующее	ходатайствовать	VERB	imp,nom,neut,sing,pres,part,act
+об	о	ADP	
+их	их	DET	
+истребовании	истребование	NOUN	inan,loc,neut,sing
+,	,	PUNCT	
+обязано	обязать	ADJ	pos,neut,sing,short
+указать	указать	VERB	perf,inf,act
+,	,	PUNCT	
+когда	когда	SCONJ	
+,	,	PUNCT	
+кем	кто	PRON	ins
+и	и	PART	
+в	в	ADP	
+каких	какой	DET	loc,plur
+условиях	условие	NOUN	inan,loc,neut,plur
+осуществлялись	осуществляться	VERB	imp,ind,plur,past,fin,pass
+записи	запись	NOUN	inan,nom,fem,plur
+.	.	PUNCT	
+Решения	решение	NOUN	inan,nom,neut,plur
+нижестоящей	нижестоящий	ADJ	gen,pos,fem,sing
+комиссии	комиссия	NOUN	inan,gen,fem,sing
+по	по	ADP	
+проведению	проведение	NOUN	inan,dat,neut,sing
+референдума	референдум	NOUN	inan,gen,masc,sing
+Российской	российский	ADJ	gen,pos,fem,sing
+Федерации	Федерация	PROPN	inan,gen,fem,sing
+могут	мочь	VERB	imp,ind,plur,3,pres,fin,act
+быть	быть	AUX	imp,inf,act
+отменены	отменить	VERB	perf,plur,past,short,part,pass
+,	,	PUNCT	
+а	а	CCONJ	
+ее	ее	DET	
+действия	действие	NOUN	inan,nom,neut,plur
+могут	мочь	VERB	imp,ind,plur,3,pres,fin,act
+быть	быть	AUX	imp,inf,act
+приостановлены	приостановить	VERB	perf,plur,past,short,part,pass
+вышестоящей	вышестоящий	ADJ	ins,pos,fem,sing
+комиссией	комиссия	NOUN	inan,ins,fem,sing
+по	по	ADP	
+проведению	проведение	NOUN	inan,dat,neut,sing
+референдума	референдум	NOUN	inan,gen,masc,sing
+Российской	российский	ADJ	gen,pos,fem,sing
+Федерации	Федерация	PROPN	inan,gen,fem,sing
+.	.	PUNCT	
+Решение	решение	NOUN	inan,nom,neut,sing
+,	,	PUNCT	
+принятое	принять	VERB	perf,nom,neut,sing,past,part,pass
+на	на	ADP	
+референдуме	референдум	NOUN	inan,loc,masc,sing
+Российской	российский	ADJ	gen,pos,fem,sing
+Федерации	Федерация	PROPN	inan,gen,fem,sing
+,	,	PUNCT	
+является	являться	VERB	imp,ind,sing,3,pres,fin,mid
+общеобязательным	общеобязательный	ADJ	ins,pos,neut,sing
+и	и	CCONJ	
+не	не	PART	
+нуждается	нуждаться	VERB	imp,ind,sing,3,pres,fin,mid
+в	в	ADP	
+дополнительном	дополнительный	ADJ	loc,pos,neut,sing
+утверждении	утверждений	NOUN	inan,loc,neut,sing
+.	.	PUNCT	
+Статья	статья	NOUN	inan,nom,fem,sing
+86.3.	86.3	NUM	
+3	3	NUM	
+.	.	PUNCT	
+Обособленные	Обособлеть	VERB	perf,nom,plur,past,part,pass
+водные	водный	ADJ	nom,pos,plur
+объекты	объект	NOUN	inan,nom,masc,plur
+,	,	PUNCT	
+находящиеся	находиться	VERB	imp,nom,plur,pres,part,mid
+в	в	ADP	
+собственности	собственность	NOUN	inan,loc,fem,sing
+граждан	гражданин	NOUN	anim,gen,masc,plur
+или	или	CCONJ	
+юридических	юридический	ADJ	gen,pos,plur
+лиц	лицо	NOUN	anim,gen,neut,plur
+,	,	PUNCT	
+в	в	ADP	
+установленном	установить	VERB	perf,loc,masc,sing,past,part,pass
+порядке	порядок	NOUN	inan,loc,masc,sing
+могут	мочь	VERB	imp,ind,plur,3,pres,fin,act
+использоваться	использовать	VERB	imp,inf,pass
+как	как	SCONJ	
+водные	водный	ADJ	nom,pos,plur
+объекты	объект	NOUN	inan,nom,masc,plur
+общего	общий	ADJ	gen,pos,neut,sing
+пользования	пользование	NOUN	inan,gen,neut,sing
+только	только	PART	
+при	при	ADP	
+условиях	условие	NOUN	inan,loc,neut,plur
+регистрации	регистрация	NOUN	inan,gen,fem,sing
+данного	данный	ADJ	gen,pos,neut,sing
+ограничения	ограничение	NOUN	inan,gen,neut,sing
+права	право	NOUN	inan,gen,neut,sing
+собственности	собственность	NOUN	inan,gen,fem,sing
+на	на	ADP	
+обособленные	обособленный	VERB	inan,perf,acc,plur,past,part,pass
+водные	водный	ADJ	inan,acc,pos,plur
+объекты	объект	NOUN	inan,acc,masc,plur
+в	в	ADP	
+едином	единый	ADJ	loc,pos,masc,sing
+государственном	государственный	ADJ	loc,pos,masc,sing
+реестре	реестр	NOUN	inan,loc,masc,sing
+и	и	CCONJ	
+выплаты	выплата	NOUN	inan,acc,fem,plur
+вознаграждения	вознаграждение	NOUN	inan,gen,neut,sing
+собственнику	собственник	NOUN	anim,dat,masc,sing
+.	.	PUNCT	
+Государственный	государственный	ADJ	nom,pos,masc,sing
+мониторинг	мониторинг	NOUN	inan,nom,masc,sing
+водных	водный	ADJ	gen,pos,plur
+объектов	объект	NOUN	inan,gen,masc,plur
+ведется	вести	VERB	imp,ind,sing,3,pres,fin,pass
+специально	специально	ADV	pos
+уполномоченным	уполномочить	VERB	perf,ins,masc,sing,past,part,pass
+государственным	государственный	ADJ	ins,pos,masc,sing
+органом	орган	NOUN	inan,ins,masc,sing
+управления	управление	NOUN	inan,gen,neut,sing
+использованием	использование	NOUN	inan,ins,neut,sing
+и	и	CCONJ	
+охраной	охрана	NOUN	inan,ins,fem,sing
+водного	водный	ADJ	gen,pos,masc,sing
+фонда	фонд	NOUN	inan,gen,masc,sing
+совместно	совместно	ADV	pos
+со	с	ADP	
+специально	специально	ADV	pos
+уполномоченными	уполномочить	VERB	perf,ins,plur,past,part,pass
+государственными	государственный	ADJ	ins,pos,plur
+органами	орган	NOUN	inan,ins,masc,plur
+в	в	ADP	
+области	область	NOUN	inan,loc,fem,sing
+охраны	охрана	NOUN	inan,gen,fem,sing
+окружающей	окружать	VERB	imp,gen,fem,sing,pres,part,act
+природной	природный	ADJ	gen,pos,fem,sing
+среды	среда	NOUN	inan,gen,fem,sing
+,	,	PUNCT	
+с	с	ADP	
+государственным	государственный	ADJ	ins,pos,masc,sing
+органом	орган	NOUN	inan,ins,masc,sing
+управления	управление	NOUN	inan,gen,neut,sing
+в	в	ADP	
+области	область	NOUN	inan,loc,fem,sing
+гидрометеорологии	гидрометеорология	NOUN	inan,gen,fem,sing
+и	и	CCONJ	
+мониторинга	мониторинг	NOUN	inan,gen,masc,sing
+окружающей	окружать	VERB	imp,gen,fem,sing,pres,part,act
+среды	среда	NOUN	inan,gen,fem,sing
+(	(	PUNCT	
+по	по	ADP	
+поверхностным	поверхностной	ADJ	dat,pos,plur
+водным	водный	ADJ	dat,pos,plur
+объектам	объект	NOUN	inan,dat,masc,plur
+)	)	PUNCT	
+и	и	CCONJ	
+государственным	государственный	ADJ	ins,pos,masc,sing
+органом	орган	NOUN	inan,ins,masc,sing
+управления	управление	NOUN	inan,gen,neut,sing
+использованием	использование	NOUN	inan,ins,neut,sing
+и	и	CCONJ	
+охраной	охрана	NOUN	inan,ins,fem,sing
+недр	недра	NOUN	inan,gen,neut,plur
+(	(	PUNCT	
+по	по	ADP	
+подземным	подземный	ADJ	dat,pos,plur
+водным	водный	ADJ	dat,pos,plur
+объектам	объект	NOUN	inan,dat,masc,plur
+)	)	PUNCT	
+.	.	PUNCT	
+Фиктивное	Фиктивный	ADJ	nom,pos,neut,sing
+или	или	CCONJ	
+преднамеренное	преднамеренный	ADJ	nom,pos,neut,sing
+банкротство	банкротство	NOUN	inan,nom,neut,sing
+Осуществление	осуществление	NOUN	inan,nom,neut,sing
+дисквалифицированным	дисквалифицировать	VERB	perf,ins,neut,sing,past,part,pass
+лицом	лицо	NOUN	inan,ins,neut,sing
+в	в	ADP	
+течение	течение	NOUN	inan,acc,neut,sing
+срока	срок	NOUN	inan,gen,masc,sing
+дисквалификации	дисквалификация	NOUN	inan,gen,fem,sing
+деятельности	деятельность	NOUN	inan,gen,fem,sing
+по	по	ADP	
+управлению	управление	NOUN	inan,dat,neut,sing
+юридическим	юридический	ADJ	ins,pos,neut,sing
+лицом	лицо	NOUN	inan,ins,neut,sing
+-	-	PUNCT	
+-	-	PUNCT	
+влечет	влечь	VERB	imp,ind,sing,3,pres,fin,act
+наложение	наложение	NOUN	inan,nom,neut,sing
+административного	административный	ADJ	gen,pos,masc,sing
+штрафа	штраф	NOUN	inan,gen,masc,sing
+в	в	ADP	
+размере	размер	NOUN	inan,loc,masc,sing
+пятидесяти	пятьдесят	NUM	gen
+минимальных	минимальный	ADJ	gen,pos,plur
+размеров	размер	NOUN	inan,gen,masc,plur
+оплаты	оплата	NOUN	inan,gen,fem,sing
+труда	труд	NOUN	inan,gen,masc,sing
+.	.	PUNCT	
+В	в	ADP	
+ИСПАНИИ	Испания	PROPN	inan,loc,fem,sing
+Я	я	PRON	nom,sing,1
+ДУМАЮ	Думай	VERB	imp,ind,sing,1,pres,fin,act
+У	у	ADP	
+УНИКАХИ	УНИКАХИ	PROPN	inan,acc,masc,sing
+,	,	PUNCT	
+ТАУ	ТАУ	PROPN	inan,acc,masc,sing
+И	и	CCONJ	
+БАРСЫ	БАРСА	PROPN	
+ШАНСЫ	шанс	PROPN	
+ОДИНАКОВЫЕ	одинаковый	ADJ	nom,pos,plur
+-	-	PUNCT	
+НО	но	CCONJ	
+СТАВЛЮ	ставить	VERB	imp,ind,sing,1,pres,fin,act
+НА	на	ADP	
+УНИКАХУ	УНИКАХУ	NOUN	inan,acc,fem,sing
+-	-	PUNCT	
+БРАУН	Браун	PROPN	anim,nom,masc,sing
+ВПЕРЁД	вперёд	PROPN	anim,nom,masc,sing
+!	!	PUNCT	
+!	!	PUNCT	
+!	!	PUNCT	
+Чувство	чувство	NOUN	inan,nom,neut,sing
+ностальгии	ностальгия	NOUN	inan,gen,fem,sing
+охватило	охватить	VERB	perf,neut,ind,sing,past,fin,act
+с	с	ADP	
+особенной	особенный	ADJ	ins,pos,fem,sing
+силой	сила	NOUN	inan,ins,fem,sing
+.	.	PUNCT	
+.	.	PUNCT	
+.	.	PUNCT	
+скачал	скачать	VERB	perf,masc,ind,sing,past,fin,act
+эмулятор	эмулятор	NOUN	inan,acc,masc,sing
+Денди	Денди	PROPN	anim,gen,masc,sing
+и	и	CCONJ	
+пяток	пятка	NOUN	inan,gen,fem,plur
+диснеевских	диснеевский	ADJ	gen,pos,plur
+игр	игра	NOUN	inan,gen,fem,plur
+.	.	PUNCT	
+.	.	PUNCT	
+.	.	PUNCT	
+Плачу	плач	VERB	perf,ind,sing,1,fut,fin,act
+от	от	ADP	
+умиления	умиление	NOUN	inan,gen,neut,sing
+.	.	PUNCT	
+СКАЖИ	скажи	NOUN	anim,nom,masc,plur
+НАРКОТИКАМ	наркотик	NOUN	anim,dat,masc,plur
+НЕТ	нет	VERB	imp,ind,sing,3,pres,fin,act
+Скажи	Скажи	VERB	perf,imp,sing,2,fin,act
+наркотикам	наркотик	NOUN	inan,dat,masc,plur
+:	:	PUNCT	
+«Трям	«Трь	NOUN	inan,dat,fem,plur
+!	!	PUNCT	
+»	»	PUNCT	
+Скажи	сказать	VERB	perf,imp,sing,2,fin,act
+наркотикам	наркотик	NOUN	inan,dat,masc,plur
+:	:	PUNCT	
+«Чпок!	«чпок!	PUNCT	
+»	»	PUNCT	
+Своди	Сводя	VERB	perf,imp,sing,2,fin,act
+наркотики	наркотик	NOUN	inan,acc,masc,plur
+в	в	ADP	
+цирк	цирк	NOUN	inan,acc,masc,sing
+.	.	PUNCT	
+Муж	муж	NOUN	anim,nom,masc,sing
+работает	работать	VERB	imp,ind,sing,3,pres,fin,act
+на	на	ADP	
+дому	дом	NOUN	inan,par,masc,sing
+(	(	PUNCT	
+программер	программер	NOUN	inan,nom,masc,sing
+)	)	PUNCT	
+,	,	PUNCT	
+часто	часто	ADV	pos
+выезжает	выезжать	VERB	imp,ind,sing,3,pres,fin,act
+по	по	ADP	
+делам	дело	NOUN	inan,dat,neut,plur
+или	или	CCONJ	
+просто	просто	PART	
+потусить	тусить	VERB	perf,inf,act
+.	.	PUNCT	
+"	"	PUNCT	
+Прежде	прежде	ADV	pos
+мы	мы	PRON	nom,plur,1
+оперировали	оперировать	VERB	imp,ind,plur,past,fin,act
+категориями	категория	NOUN	inan,ins,fem,plur
+товаров	товар	NOUN	inan,gen,masc,plur
+,	,	PUNCT	
+которые	который	PRON	acc
+необходимо	необходимый	ADJ	pos,neut,sing,short
+продвигать	продвигать	VERB	imp,inf,act
+.	.	PUNCT	
+Теперь	теперь	ADV	pos
+стремимся	стремиться	VERB	imp,ind,plur,1,pres,fin,mid
+оперировать	оперировать	VERB	imp,inf,act
+финансовыми	финансовый	ADJ	ins,pos,plur
+показателями	показатель	NOUN	inan,ins,masc,plur
+,	,	PUNCT	
+чтобы	чтобы	SCONJ	cnd
+лучше	хорошо	ADV	cmp
+видеть	видеть	VERB	imp,inf,act
+выгодность	выгодность	NOUN	inan,acc,fem,sing
+и	и	CCONJ	
+перспективность	перспективность	NOUN	inan,acc,fem,sing
+того	тот	DET	gen,neut,sing
+или	или	CCONJ	
+иного	иной	ADJ	gen,pos,neut,sing
+направления	направление	NOUN	inan,gen,neut,sing
+.	.	PUNCT	
+Мы	мы	PRON	nom,plur,1
+уже	уже	ADV	pos
+выяснили	выяснить	VERB	perf,ind,plur,past,fin,act
+,	,	PUNCT	
+что	что	SCONJ	
+некоторые	некоторый	DET	nom,plur
+из	из	ADP	
+них	они	PRON	gen,plur,3
+не	не	PART	
+настолько	настолько	ADV	pos
+выгодны	выгодный	ADJ	pos,plur,short
+,	,	PUNCT	
+как	как	SCONJ	
+казалось	казаться	VERB	imp,neut,ind,sing,past,fin,mid
+раньше	ранее	ADV	cmp
+"	"	PUNCT	
+,	,	PUNCT	
+пояснил	пояснить	VERB	perf,masc,ind,sing,past,fin,act
+Краснов	Краснов	PROPN	anim,nom,masc,sing
+новую	новый	ADJ	acc,pos,fem,sing
+стратегию	стратегия	NOUN	inan,acc,fem,sing
+.	.	PUNCT	
+Какими	какой	DET	ins,plur
+вы	вы	PRON	nom,plur,2
+видите	видеть	VERB	imp,ind,plur,2,pres,fin,act
+свои	свой	DET	acc,plur
+перспективы	перспектива	NOUN	inan,acc,fem,plur
+в	в	ADP	
+этой	этот	DET	loc,fem,sing
+области	область	NOUN	inan,loc,fem,sing
+?	?	PUNCT	
+В	в	ADP	
+двух	два	NUM	loc
+72	72	NUM	
+-	-	PUNCT	
+часовых	часовой	ADJ	loc,pos,plur
+сессиях	сессия	NOUN	inan,loc,fem,plur
+InnovationJam	InnovationJam	PROPN	yes
+,	,	PUNCT	
+проведенных	провести	VERB	perf,gen,plur,past,part,pass
+по	по	ADP	
+Internet	Internet	PROPN	yes
+,	,	PUNCT	
+приняло	принять	VERB	perf,neut,ind,sing,past,fin,act
+участие	участие	NOUN	inan,acc,neut,sing
+около	около	ADP	
+105	105	NUM	
+тыс	тысяча	NOUN	inan,gen,fem,plur
+.	.	PUNCT	
+человек	человек	NOUN	anim,gen,masc,plur
+из	из	ADP	
+104	104	NUM	
+стран	страна	NOUN	inan,gen,fem,plur
+,	,	PUNCT	
+в	в	ADP	
+том	тот	DET	loc,neut,sing
+числе	число	NOUN	inan,loc,neut,sing
+служащие	служащий	NOUN	anim,nom,masc,plur
+IBM	ИБМ	PROPN	yes
+,	,	PUNCT	
+члены	член	NOUN	anim,nom,masc,plur
+их	их	DET	
+семей	семья	NOUN	inan,gen,fem,plur
+,	,	PUNCT	
+а	а	CCONJ	
+также	также	PART	
+сотрудники	сотрудник	NOUN	anim,nom,masc,plur
+университетов	университет	NOUN	inan,gen,masc,plur
+,	,	PUNCT	
+клиенты	клиент	NOUN	anim,nom,masc,plur
+корпорации	корпорация	NOUN	inan,gen,fem,sing
+и	и	CCONJ	
+ее	она	DET	
+бизнес	бизнес	NOUN	inan,nom,masc,sing
+-	-	PUNCT	
+партнеры	партнер	NOUN	anim,nom,masc,plur
+.	.	PUNCT	
+Особые	особый	ADJ	nom,pos,plur
+экономические	экономический	ADJ	nom,pos,plur
+зоны	зона	NOUN	inan,nom,fem,plur
+-	-	PUNCT	
+новый	новый	ADJ	nom,pos,masc,sing
+механизм	механизм	NOUN	inan,nom,masc,sing
+государственно-частного	государственно-частный	ADJ	gen,pos,neut,sing
+партнерства	партнерство	NOUN	inan,gen,neut,sing
+.	.	PUNCT	
+Заставить	заставить	VERB	perf,inf,act
+все	весь	DET	acc,neut,sing
+это	это	PRON	inan,acc,neut,sing
+работать	работать	VERB	imp,inf,act
+на	на	ADP	
+медном	медный	ADJ	loc,pos,masc,sing
+кабеле	кабель	NOUN	inan,loc,masc,sing
+окажется	оказаться	VERB	perf,ind,sing,3,fut,fin,mid
+еще	еще	ADV	pos
+труднее	трудный	ADJ	cmp
+,	,	PUNCT	
+чем	чем	SCONJ	
+раньше	раньше	ADV	pos
+,	,	PUNCT	
+но	но	CCONJ	
+и	и	PART	
+говорить	говорить	VERB	imp,inf,act
+о	о	ADP	
+невозможности	невозможность	NOUN	inan,loc,fem,sing
+получения	получение	NOUN	inan,gen,neut,sing
+подобных	подобный	ADJ	gen,pos,plur
+решений	решение	NOUN	inan,gen,neut,plur
+пока	пока	ADV	pos
+преждевременно	преждевременный	ADV	pos
+,	,	PUNCT	
+поскольку	поскольку	SCONJ	
+технологии	технология	NOUN	inan,nom,fem,plur
+совершенствуются	совершенствовать	VERB	imp,ind,plur,3,pres,fin,pass
+непрерывно	непрерывно	ADV	pos
+.	.	PUNCT	
+Вследствие	вследствие	NOUN	inan,nom,neut,sing
+своей	свой	DET	gen,fem,sing
+важности	важность	NOUN	inan,gen,fem,sing
+деятельность	деятельность	NOUN	inan,nom,fem,sing
+метрополитена	метрополитен	NOUN	inan,nom,fem,sing
+жестко	жестко	ADV	pos
+регламентирована	регламентировать	VERB	perf,fem,sing,past,short,part,pass
+российским	российский	ADJ	ins,pos,neut,sing
+законодательством	законодательство	NOUN	inan,ins,neut,sing
+.	.	PUNCT	
+Она	она	PRON	nom,fem,sing,3
+была	быть	AUX	imp,fem,ind,sing,past,fin,act
+представлена	представить	VERB	perf,fem,sing,past,short,part,pass
+как	как	SCONJ	
+оптимальное	оптимальный	ADJ	acc,pos,neut,sing
+решение	решение	NOUN	inan,acc,neut,sing
+для	для	ADP	
+небольших	небольшой	ADJ	gen,pos,plur
+центров	центр	NOUN	inan,gen,masc,plur
+обработки	обработка	NOUN	inan,gen,fem,sing
+данных	данные	NOUN	inan,gen,plur
+либо	либо	CCONJ	
+как	как	SCONJ	
+дополнение	дополнение	NOUN	inan,nom,neut,sing
+к	к	ADP	
+уже	уже	ADV	pos
+существующей	существовать	VERB	imp,dat,fem,sing,pres,part,act
+системе	система	NOUN	inan,dat,fem,sing
+охлаждения	охлаждение	NOUN	inan,gen,neut,sing
+,	,	PUNCT	
+не	не	PART	
+изменяющее	изменять	VERB	imp,nom,neut,sing,pres,part,act
+инфраструктуру	инфраструктура	NOUN	inan,acc,fem,sing
+.	.	PUNCT	
+По	по	ADP	
+словам	слово	NOUN	inan,dat,neut,plur
+Кеоуэна	Кеоуэн	PROPN	anim,gen,masc,sing
+,	,	PUNCT	
+производители	производитель	NOUN	anim,nom,masc,plur
+начнут	начать	VERB	perf,ind,plur,3,fut,fin,act
+продавать	продавать	VERB	imp,inf,act
+телевизоры	телевизор	NOUN	inan,acc,masc,plur
+и	и	CCONJ	
+телекоммуникационные	телекоммуникационный	ADJ	inan,acc,pos,plur
+устройства	устройство	NOUN	inan,acc,neut,plur
+с	с	ADP	
+поддержкой	поддержка	NOUN	inan,ins,fem,sing
+технологии	технология	NOUN	inan,gen,fem,sing
+UWB	UWB	PROPN	yes
+уже	уже	ADV	pos
+в	в	ADP	
+текущем	текущий	ADJ	loc,pos,masc,sing
+году	год	NOUN	inan,loc,masc,sing
+.	.	PUNCT	
+При	при	ADP	
+этом	это	PRON	inan,loc,neut,sing
+мы	мы	PRON	nom,plur,1
+-	-	PUNCT	
+глобальная	глобальный	ADJ	nom,pos,fem,sing
+компания	компания	NOUN	inan,nom,fem,sing
+со	с	ADP	
+штаб-квартирой	штаб-квартира	NOUN	inan,ins,fem,sing
+в	в	ADP	
+США	США	PROPN	inan,loc,plur
+.	.	PUNCT	
+На	на	ADP	
+глобальном	глобальный	ADJ	loc,pos,masc,sing
+уровне	уровень	NOUN	inan,loc,masc,sing
+HP	HP	PROPN	yes
+блестяще	блестяще	ADV	pos
+справляется	справляться	VERB	imp,ind,sing,3,pres,fin,mid
+со	с	ADP	
+снижением	снижение	NOUN	inan,ins,neut,sing
+операционных	операционный	ADJ	gen,pos,plur
+расходов	расход	NOUN	inan,gen,masc,plur
+:	:	PUNCT	
+на	на	ADP	
+ИТ	ИТ	PROPN	inan,nom,neut,sing
+,	,	PUNCT	
+помещения	помещение	NOUN	inan,nom,neut,plur
+,	,	PUNCT	
+управление	управление	NOUN	inan,nom,neut,sing
+.	.	PUNCT	
+Кроме	кроме	ADP	
+того	то	PRON	inan,gen,neut,sing
+,	,	PUNCT	
+на	на	ADP	
+первую	первый	ADJ	acc,pos,fem,sing
+половину	половина	NOUN	inan,acc,fem,sing
+2007	2007	NUM	
+года	год	NOUN	inan,gen,masc,sing
+дополнительно	дополнительно	ADV	pos
+запланировано	планировать	VERB	perf,neut,sing,past,short,part,pass
+получение	получение	NOUN	inan,nom,neut,sing
+специализации	специализация	NOUN	inan,gen,fem,sing
+Advanced	Advanced	PROPN	yes
+Routing	Routing	PROPN	yes
+and	and	X	yes
+Switching	Switching	PROPN	yes
+и	и	CCONJ	
+обновление	обновление	NOUN	inan,nom,neut,sing
+VPN	VPN	PROPN	yes
+Security	Security	PROPN	yes
+Specialization	Specialization	PROPN	yes
+до	до	ADP	
+новой	новый	ADJ	gen,pos,fem,sing
+специализации	специализация	NOUN	inan,gen,fem,sing
+Advanced	Advanced	PROPN	yes
+Security	Security	PROPN	yes
+,	,	PUNCT	
+что	что	PRON	nom
+будет	быть	AUX	imp,ind,sing,3,pres,fin,act
+соответствовать	соответствовать	VERB	imp,inf,act
+уровню	уровень	NOUN	inan,dat,masc,sing
+требований	требование	NOUN	inan,gen,neut,plur
+,	,	PUNCT	
+предъявляемых	предъявлять	VERB	imp,gen,plur,pres,part,pass
+к	к	ADP	
+"	"	PUNCT	
+Золотым	золотой	ADJ	dat,pos,plur
+"	"	PUNCT	
+партнерам	партнер	NOUN	inan,dat,masc,plur
+Cisco	Cisco	PROPN	yes
+Systems	Systems	PROPN	yes
+.	.	PUNCT	
+Полиция	полиция	NOUN	inan,nom,fem,sing
+сообщила	сообщить	VERB	perf,fem,ind,sing,past,fin,act
+,	,	PUNCT	
+что	что	SCONJ	
+самоубийца	самоубийца	NOUN	anim,nom,masc,sing
+тяжело	тяжело	ADV	pos
+ранен	ранить	VERB	imp,masc,sing,past,short,part,pass
+,	,	PUNCT	
+а	а	CCONJ	
+его	его	PRON	gen,masc,sing,3
+сосед	сосед	NOUN	anim,nom,masc,sing
+по	по	ADP	
+этажу	этаж	NOUN	inan,dat,masc,sing
+погиб	погибнуть	VERB	perf,masc,ind,sing,past,fin,act
+в	в	ADP	
+огне	огонь	NOUN	inan,loc,masc,sing
+.	.	PUNCT	
+Таким	такой	DET	ins,masc,sing
+образом	образ	NOUN	inan,ins,masc,sing
+,	,	PUNCT	
+угрозы	угроза	NOUN	inan,nom,fem,plur
+,	,	PUNCT	
+нависшей	нависша	VERB	perf,loc,fem,sing,past,part,act
+над	над	ADP	
+знаменитым	знаменитый	ADJ	ins,pos,neut,sing
+дворцом	дворц	NOUN	inan,ins,neut,sing
+Цвингер	Цвингер	PROPN	anim,nom,fem,sing
+,	,	PUNCT	
+в	в	ADP	
+котором	который	PRON	loc
+расположена	расположенный	ADJ	pos,fem,sing,short
+Дрезденская	дрезденский	ADJ	nom,pos,fem,sing
+картинная	картинный	ADJ	nom,pos,fem,sing
+галерея	галерея	NOUN	inan,nom,fem,sing
+,	,	PUNCT	
+больше	больше	ADV	cmp
+не	не	PART	
+существует	существовать	VERB	imp,ind,sing,3,pres,fin,act
+.	.	PUNCT	
+На	на	ADP	
+севере	север	NOUN	inan,loc,masc,sing
+сектора	сектор	NOUN	inan,gen,masc,sing
+Газа	газ	PROPN	inan,nom,fem,sing
+проходит	проходить	VERB	imp,ind,sing,3,pres,fin,act
+ожесточенная	ожесточенный	ADJ	nom,pos,fem,sing
+перестрелка	перестрелка	NOUN	inan,nom,fem,sing
+между	между	ADP	
+израильскими	израильский	ADJ	ins,pos,plur
+военнослужащими	военнослужащий	NOUN	anim,ins,masc,plur
+и	и	CCONJ	
+палестинцами	палестинец	NOUN	anim,ins,masc,plur
+2002	2002	NUM	
+/	/	PUNCT	
+08	08	NUM	
+/	/	PUNCT	
+11	11	NUM	
+/	/	PUNCT	
+На	на	ADP	
+севере	север	NOUN	inan,loc,masc,sing
+сектора	сектор	NOUN	inan,gen,masc,sing
+Газа	газ	PROPN	inan,gen,masc,sing
+,	,	PUNCT	
+вблизи	вблизи	ADP	
+еврейского	еврейский	ADJ	gen,pos,neut,sing
+поселения	поселение	NOUN	inan,gen,neut,sing
+Дугид	Дугид	PROPN	anim,nom,masc,sing
+,	,	PUNCT	
+в	в	ADP	
+настоящее	настоящий	ADJ	inan,acc,pos,neut,sing
+время	время	NOUN	inan,acc,neut,sing
+проходит	проходить	VERB	imp,ind,sing,3,pres,fin,act
+ожесточенная	ожесточить	ADJ	nom,pos,fem,sing
+перестрелка	перестрелка	NOUN	inan,nom,fem,sing
+между	между	ADP	
+израильскими	израильский	ADJ	ins,pos,plur
+военнослужащими	военнослужащий	NOUN	anim,ins,masc,plur
+и	и	CCONJ	
+палестинцами	палестинец	NOUN	anim,ins,masc,plur
+.	.	PUNCT	
+Склады	склад	NOUN	inan,nom,masc,plur
+крупнейшей	крупный	ADJ	gen,sup,fem,sing
+в	в	ADP	
+Благовещенске	Благовещенск	PROPN	inan,loc,masc,sing
+торговой	торговый	ADJ	gen,pos,fem,sing
+сети	сеть	NOUN	inan,gen,fem,sing
+"	"	PUNCT	
+Домострой	Домостра	NOUN	inan,nom,masc,sing
+"	"	PUNCT	
+почти	почти	ADV	pos
+полностью	полностью	ADV	pos
+сгорели	сгореть	VERB	perf,ind,plur,past,fin,act
+в	в	ADP	
+субботу	суббота	NOUN	inan,acc,fem,sing
+.	.	PUNCT	
+Президентом	президент	NOUN	inan,ins,masc,sing
+может	мочь	VERB	imp,ind,sing,3,pres,fin,act
+быть	быть	AUX	imp,inf,act
+избран	избрать	VERB	perf,masc,sing,past,short,part,pass
+любой	любой	DET	nom,masc,sing
+гражданин	гражданин	NOUN	anim,nom,masc,sing
+Нагорно-Карабахской	Нагорно-Карабахский	PROPN	
+Республики	Республика	PROPN	inan,gen,fem,sing
+,	,	PUNCT	
+достигший	достичь	VERB	perf,nom,masc,sing,past,part,act
+35	35	NUM	
+лет	год	NOUN	inan,gen,masc,plur
+,	,	PUNCT	
+обладающий	обладать	VERB	imp,nom,masc,sing,pres,part,act
+избирательным	избирательный	ADJ	ins,pos,neut,sing
+правом	право	NOUN	inan,ins,neut,sing
+и	и	CCONJ	
+постоянно	постоянно	ADV	pos
+или	или	CCONJ	
+преимущественно	преимущественно	ADV	pos
+проживающий	проживать	VERB	imp,nom,masc,sing,pres,part,act
+в	в	ADP	
+НКР	НКР	PROPN	inan,acc,masc,sing
+в	в	ADP	
+течение	течение	NOUN	inan,acc,neut,sing
+последних	последний	ADJ	gen,pos,plur
+10	10	NUM	
+лет	год	NOUN	inan,gen,masc,plur
+.	.	PUNCT	
+Для	для	ADP	
+охраны	охрана	NOUN	inan,gen,fem,sing
+задействованы	задействовать	VERB	perf,plur,past,short,part,pass
+офицеры	офицер	NOUN	anim,nom,masc,plur
+Национальной	национальный	ADJ	gen,pos,fem,sing
+гвардии	гвардия	NOUN	inan,gen,fem,sing
+,	,	PUNCT	
+представители	представитель	NOUN	anim,nom,masc,plur
+служб	служба	NOUN	inan,gen,fem,plur
+безопасности	безопасность	NOUN	inan,gen,fem,sing
+и	и	CCONJ	
+ВВС	ВВС	PROPN	inan,gen,fem,plur
+США	США	PROPN	inan,gen,plur
+.	.	PUNCT	
+Индекс	индекс	NOUN	inan,nom,masc,sing
+"	"	PUNCT	
+Нового	новый	ADJ	gen,pos,masc,sing
+рынка	рынок	NOUN	inan,gen,masc,sing
+"	"	PUNCT	
+сопротивлялся	сопротивляться	VERB	imp,masc,ind,sing,past,fin,mid
+больше	больше	ADV	cmp
+.	.	PUNCT	
+Потоки	поток	NOUN	inan,nom,masc,plur
+дождя	дождь	NOUN	inan,gen,masc,sing
+обрушились	обрушиться	VERB	perf,ind,plur,past,fin,mid
+в	в	ADP	
+воскресенье	воскресенье	NOUN	inan,acc,neut,sing
+и	и	CCONJ	
+на	на	ADP	
+Берлин	Берлин	PROPN	inan,acc,masc,sing
+,	,	PUNCT	
+с	с	ADP	
+окружающей	окружать	VERB	imp,ins,fem,sing,pres,part,act
+его	он	DET	
+землей	земля	NOUN	inan,ins,fem,sing
+Бранденбург	Бранденбург	PROPN	inan,nom,masc,sing
+,	,	PUNCT	
+где	где	ADV	pos
+ситуация	ситуация	NOUN	inan,nom,fem,sing
+,	,	PUNCT	
+конечно	конечно	ADV	pos
+,	,	PUNCT	
+не	не	PART	
+такая	такой	DET	nom,fem,sing
+сложная	сложный	ADJ	nom,pos,fem,sing
+,	,	PUNCT	
+как	как	SCONJ	
+в	в	ADP	
+других	другой	ADJ	loc,pos,plur
+регионах	регион	NOUN	inan,loc,masc,plur
+,	,	PUNCT	
+однако	однако	ADV	pos
+в	в	ADP	
+течение	течение	NOUN	inan,acc,neut,sing
+сегодняшнего	сегодняшний	ADJ	gen,pos,masc,sing
+дня	день	NOUN	inan,gen,masc,sing
+и	и	CCONJ	
+здесь	здесь	ADV	pos
+зарегистрировано	регистрировать	VERB	perf,neut,sing,past,short,part,pass
+выпадение	выпадение	NOUN	inan,nom,neut,sing
+почти	почти	ADV	pos
+50	50	NUM	
+литров	литр	NOUN	inan,gen,masc,plur
+осадков	осадки	NOUN	inan,gen,masc,plur
+на	на	ADP	
+1	1	NUM	
+кв	квадратный	ADJ	gen,pos,plur
+метр	метр	NOUN	inan,gen,fem,plur
+площади	площадь	NOUN	inan,gen,fem,sing
+.	.	PUNCT	
+Точных	точный	ADJ	gen,pos,plur
+данных	данные	NOUN	inan,gen,plur
+об	о	ADP	
+их	их	PRON	gen,plur,3
+местонахождении	местонахождение	NOUN	inan,loc,neut,sing
+,	,	PUNCT	
+за	за	ADP	
+исключением	исключение	NOUN	inan,ins,neut,sing
+обнаруженной	обнаружить	VERB	perf,dat,fem,sing,past,part,pass
+в	в	ADP	
+1996	1996	NUM	
+году	год	NOUN	inan,loc,masc,sing
+"	"	PUNCT	
+Ловисы	Ловис	NOUN	inan,nom,masc,plur
+-	-	PUNCT	
+Ульрики	Ульрика	NOUN	inan,nom,masc,plur
+"	"	PUNCT	
+,	,	PUNCT	
+не	не	PART	
+было	быть	VERB	imp,neut,ind,sing,past,fin,act
+.	.	PUNCT	
+Для	для	ADP	
+47	47	NUM	
+гостей	гость	NOUN	anim,gen,masc,plur
+фестиваля	фестиваль	NOUN	inan,gen,masc,sing
+праздник	праздник	NOUN	inan,nom,masc,sing
+завершился	завершиться	VERB	perf,masc,ind,sing,past,fin,mid
+в	в	ADP	
+вытрезвителях	вытрезвитель	NOUN	anim,loc,masc,plur
+.	.	PUNCT	
+Полиция	полиция	NOUN	inan,nom,fem,sing
+считает	считать	VERB	imp,ind,sing,3,pres,fin,act
+,	,	PUNCT	
+что	что	SCONJ	
+"	"	PUNCT	
+холд-	холд-	PUNCT	
+ап	ап	NOUN	inan,nom,masc,sing
+"	"	PUNCT	
+совершили	совершить	VERB	perf,ind,plur,past,fin,act
+"	"	PUNCT	
+гастролеры	гастролер	NOUN	anim,nom,masc,plur
+"	"	PUNCT	
+,	,	PUNCT	
+несколько	несколько	NUM	inan,acc
+дней	день	NOUN	inan,gen,masc,plur
+наблюдавшие	наблюдать	VERB	imp,nom,plur,past,part,act
+за	за	ADP	
+супермаркетом	супермаркет	NOUN	inan,ins,masc,sing
+и	и	CCONJ	
+за	за	ADP	
+передвижениями	передвижение	NOUN	inan,ins,neut,plur
+его	его	PRON	gen,masc,sing,3
+директора	директор	NOUN	anim,gen,masc,sing
+.	.	PUNCT	
+Этому	этот	DET	dat,neut,sing
+преобразованию	преобразование	NOUN	inan,dat,neut,sing
+также	также	ADV	pos
+препятствует	препятствовать	VERB	imp,ind,sing,3,pres,fin,act
+дефицит	дефицит	NOUN	inan,nom,masc,sing
+различных	различный	ADJ	gen,pos,plur
+витаминов	витамин	NOUN	inan,gen,masc,plur
+и	и	CCONJ	
+микроэлементов	микроэлемент	NOUN	inan,gen,masc,plur
+,	,	PUNCT	
+необходимых	необходимый	ADJ	gen,pos,plur
+для	для	ADP	
+катализирующих	катализируть	NOUN	anim,gen,masc,plur
+его	он	PRON	gen,masc,sing,3
+ферментов	фермент	NOUN	anim,gen,masc,plur
+,	,	PUNCT	
+включая	включая	ADV	pos
+витамин	витамин	NOUN	inan,acc,masc,sing
+B3	B3	PROPN	
+(	(	PUNCT	
+никотиновая	никотиновый	ADJ	nom,pos,fem,sing
+кислота	кислота	NOUN	inan,nom,fem,sing
+)	)	PUNCT	
+,	,	PUNCT	
+B6	B6	PROPN	yes
+,	,	PUNCT	
+C	C	PROPN	yes
+,	,	PUNCT	
+биотин	биотина	ADJ	nom,pos,masc,sing
+,	,	PUNCT	
+цинк	цинк	NOUN	inan,nom,masc,sing
+и	и	CCONJ	
+магний	магний	NOUN	inan,nom,masc,sing
+.	.	PUNCT	
+Вызвать	вызвать	VERB	perf,inf,act
+ее	она	PRON	acc,fem,sing,3
+можно	можно	ADV	pos
+с	с	ADP	
+помощью	помощь	NOUN	inan,ins,fem,sing
+php3_ini.	php3_ini.	PROPN	anim,ins,fem,sing
+directive	directive	X	yes
+.	.	PUNCT	
+Вот	вот	PART	
+пример	пример	NOUN	inan,nom,masc,sing
+двойной	двойной	ADJ	gen,pos,fem,sing
+суммы	сумма	NOUN	inan,gen,fem,sing
+из	из	ADP	
+девяти	девять	NUM	gen
+членов	член	NOUN	anim,gen,masc,plur
+,	,	PUNCT	
+управляемой	управлять	VERB	imp,gen,fem,sing,pres,part,pass
+двумя	два	NUM	ins
+индексами	индекс	NOUN	inan,ins,masc,plur
+j	j	NOUN	inan,gen,fem,sing
+и	и	CCONJ	
+к	к	ADP	
+:	:	PUNCT	
+Обычно	обычно	ADV	pos
+правление	правление	NOUN	inan,nom,neut,sing
+бывает	бывать	VERB	imp,ind,sing,3,pres,fin,act
+из	из	ADP	
+девяти	девять	NUM	gen
+членов	член	NOUN	anim,gen,masc,plur
+.	.	PUNCT	
+-	-	PUNCT	
+Я	я	PRON	nom,sing,1
+пришла	прийти	VERB	perf,fem,ind,sing,past,fin,act
+за	за	ADP	
+своими	свой	DET	ins,plur
+документами	документ	NOUN	inan,ins,masc,plur
+,	,	PUNCT	
+товарищ	товарищ	NOUN	anim,nom,masc,sing
+начальник	начальник	NOUN	anim,nom,masc,sing
+,	,	PUNCT	
+-	-	PUNCT	
+сказала	сказать	VERB	perf,fem,ind,sing,past,fin,act
+Ефимова	Ефимова	PROPN	anim,nom,fem,sing
+,	,	PUNCT	
+отстраняясь	отстраняться	VERB	imp,pres,conv,mid
+от	от	ADP	
+него	он	PRON	gen,masc,sing,3
+.	.	PUNCT	
+А	а	CCONJ	
+кругом	кругом	ADV	pos
+-	-	PUNCT	
+-	-	PUNCT	
+в	в	ADP	
+пиццерии	пиццерия	NOUN	inan,loc,fem,sing
+-	-	PUNCT	
+-	-	PUNCT	
+ели	есть	VERB	imp,ind,plur,past,fin,act
+и	и	CCONJ	
+жрали	жрать	VERB	imp,ind,plur,past,fin,act
+толпы	толпа	NOUN	inan,nom,fem,plur
+людей	человек	NOUN	anim,gen,masc,plur
+-	-	PUNCT	
+-	-	PUNCT	
+стоя	стоять	VERB	imp,pres,conv,act
+,	,	PUNCT	
+сидя	сидеть	VERB	imp,pres,conv,act
+,	,	PUNCT	
+посреди	посреди	ADP	
+узкого	узкий	ADJ	gen,pos,masc,sing
+прохода	проход	NOUN	inan,gen,masc,sing
+.	.	PUNCT	
+И	и	CCONJ	
+наконец	наконец	ADV	pos
+,	,	PUNCT	
+он	он	PRON	nom,masc,sing,3
+жалел	жалеть	VERB	imp,masc,ind,sing,past,fin,act
+свой	свой	DET	acc,masc,sing
+потерянный	потерянный	ADJ	inan,acc,pos,masc,sing
+ум	ум	NOUN	inan,acc,masc,sing
+,	,	PUNCT	
+который	который	PRON	nom
+-	-	PUNCT	
+-	-	PUNCT	
+после	после	ADP	
+смерти	смерть	NOUN	inan,gen,fem,sing
+-	-	PUNCT	
+-	-	PUNCT	
+уже	уже	ADV	pos
+не	не	PART	
+сможет	мочь	VERB	perf,ind,sing,3,fut,fin,act
+ни	ни	PART	
+о	о	ADP	
+чем	что	PRON	loc
+думать	думать	VERB	imp,inf,act
+.	.	PUNCT	
+Либо	либо	CCONJ	
+об	о	ADP	
+акулах	акула	NOUN	anim,loc,masc,plur
+,	,	PUNCT	
+что	что	SCONJ	
+кому	кто	PRON	dat
+понятней	понятный	ADJ	cmp
+.	.	PUNCT	
+Вода	вода	NOUN	inan,nom,fem,sing
+в	в	ADP	
+банке	банк	NOUN	inan,loc,masc,sing
+начала	начать	VERB	perf,fem,ind,sing,past,fin,act
+нагреваться	нагревать	VERB	imp,inf,mid
+.	.	PUNCT	
+Светлана	Светлана	PROPN	anim,nom,fem,sing
+Багатурия	Багатурий	PROPN	anim,nom,fem,sing
+подперла	подперть	VERB	perf,fem,ind,sing,past,fin,act
+кулачком	кулачок	NOUN	inan,ins,masc,sing
+подбородок	подбородок	NOUN	inan,acc,masc,sing
+и	и	CCONJ	
+даже	даже	PART	
+рот	рот	NOUN	inan,acc,masc,sing
+открыла	открыть	VERB	perf,fem,ind,sing,past,fin,act
+от	от	ADP	
+проникновения	проникновение	NOUN	inan,gen,neut,sing
+.	.	PUNCT	
+А	а	CCONJ	
+что	что	PRON	nom
+дальше	далее	ADV	pos
+?	?	PUNCT	
+Но	но	CCONJ	
+начлага	начлаг	NOUN	inan,nom,fem,sing
+опять	опять	ADV	pos
+и	и	CCONJ	
+опять	опять	ADV	pos
+не	не	PART	
+мог	мочь	VERB	imp,masc,ind,sing,past,fin,act
+.	.	PUNCT	
+А	а	CCONJ	
+директор	директор	NOUN	anim,nom,masc,sing
+посмеивался	посмеиваться	VERB	imp,masc,ind,sing,past,fin,mid
+.	.	PUNCT	
+Бывают	бывать	VERB	imp,ind,plur,3,pres,fin,act
+же	же	PART	
+ужасы	ужас	NOUN	inan,nom,masc,plur
+.	.	PUNCT	
+.	.	PUNCT	
+.	.	PUNCT	
+У	у	ADP	
+меня	я	PRON	gen,sing,1
+есть	быть	VERB	imp,ind,sing,3,pres,fin,act
+такой	такой	DET	nom,masc,sing
+вопрос	вопрос	NOUN	inan,nom,masc,sing
+:	:	PUNCT	
+платят	платить	VERB	imp,ind,plur,3,pres,fin,act
+ли	ли	PART	
+в	в	ADP	
+июле	июль	NOUN	inan,loc,masc,sing
+-	-	PUNCT	
+августе	август	VERB	imp,imp,plur,2,fin,act
+стипендию	стипендия	NOUN	inan,acc,fem,sing
+?	?	PUNCT	
+А	а	CCONJ	
+это	это	PRON	inan,nom,neut,sing
+ссылка	ссылка	NOUN	inan,nom,fem,sing
+на	на	ADP	
+предварительные	предварительный	ADJ	inan,acc,pos,plur
+итоги	итог	NOUN	inan,acc,masc,plur
+по	по	ADP	
+каждой	каждый	DET	dat,fem,sing
+позиции	позиция	NOUN	inan,dat,fem,sing
+,	,	PUNCT	
+кто	кто	PRON	nom
+скока	скока	NUM	gen
+голосов	голос	NOUN	inan,gen,masc,plur
+набрал	набрать	VERB	perf,masc,ind,sing,past,fin,act
+к	к	ADP	
+этому	этот	DET	dat,masc,sing
+моменту	момент	NOUN	inan,dat,masc,sing
+.	.	PUNCT	
+http://www.nba.com/news/allstar_031211.html	http://www.nba.com/news/allstar_031211.html	X	yes
+Кириленко	Кириленко	PROPN	anim,nom,masc,sing
+-	-	PUNCT	
+-	-	PUNCT	
+в	в	ADP	
+основу	основа	NOUN	inan,acc,fem,sing
+!	!	PUNCT	
+Давайте	давать	VERB	imp,imp,plur,2,fin,act
+-	-	PUNCT	
+ка	ка	PART	
+поразмыслим	размыслить	VERB	perf,ind,plur,1,fut,fin,act
+.	.	PUNCT	
+.	.	PUNCT	
+.	.	PUNCT	
+Ну	ну	PART	
+я	я	PRON	nom,sing,1
+бы	бы	AUX	
+не	не	PART	
+сказал	сказать	VERB	perf,masc,ind,sing,past,fin,act
+что	что	SCONJ	
+все	все	PRON	inan,nom,neut,sing
+таки	таки	PART	
+уровень	уровень	NOUN	inan,nom,masc,sing
+падает	падать	VERB	imp,ind,sing,3,pres,fin,act
+.	.	PUNCT	
+.	.	PUNCT	
+.	.	PUNCT	
+.	.	PUNCT	
+Как	как	ADV	pos
+это	это	PRON	inan,nom,neut,sing
+Петрович	Петрович	PROPN	anim,nom,masc,sing
+собирается	собираться	VERB	imp,ind,sing,3,pres,fin,mid
+строить	строить	VERB	imp,inf,act
+игру	игра	NOUN	inan,acc,fem,sing
+команды	команда	NOUN	inan,gen,fem,sing
+вокруг	вокруг	ADP	
+неиграющего	неиграющий	ADJ	gen,pos,masc,sing
+Ковенаги	Ковенага	PROPN	anim,gen,masc,sing
+?	?	PUNCT	
+Созданная	создать	VERB	perf,nom,fem,sing,past,part,pass
+в	в	ADP	
+процессе	процесс	NOUN	inan,loc,masc,sing
+диверсификации	диверсификация	NOUN	inan,gen,fem,sing
+бизнеса	бизнес	NOUN	inan,gen,masc,sing
+"	"	PUNCT	
+ПроСофт	ПроСофт	PROPN	
+"	"	PUNCT	
+,	,	PUNCT	
+эта	этот	DET	nom,fem,sing
+компания	компания	NOUN	inan,nom,fem,sing
+занимается	заниматься	VERB	imp,ind,sing,3,pres,fin,mid
+разработкой	разработка	NOUN	inan,ins,fem,sing
+и	и	CCONJ	
+производством	производство	NOUN	inan,ins,neut,sing
+одноплатных	одноплатный	ADJ	gen,pos,plur
+компьютеров	компьютер	NOUN	inan,gen,masc,plur
+и	и	CCONJ	
+других	другой	ADJ	gen,pos,plur
+электронных	электронный	ADJ	gen,pos,plur
+блоков	блок	NOUN	inan,gen,masc,plur
+,	,	PUNCT	
+а	а	CCONJ	
+также	также	PART	
+разработкой	разработка	NOUN	inan,ins,fem,sing
+и	и	CCONJ	
+изготовлением	изготовление	NOUN	inan,ins,neut,sing
+по	по	ADP	
+контракту	контракт	NOUN	inan,dat,masc,sing
+электронного	электронный	ADJ	gen,pos,neut,sing
+оборудования	оборудование	NOUN	inan,gen,neut,sing
+для	для	ADP	
+систем	система	NOUN	inan,gen,fem,plur
+промышленной	промышленный	ADJ	gen,pos,fem,sing
+автоматизации	автоматизация	NOUN	inan,gen,fem,sing
+(	(	PUNCT	
+доходы	доход	NOUN	inan,nom,masc,plur
+от	от	ADP	
+этих	этот	DET	gen,plur
+видов	вид	NOUN	inan,gen,masc,plur
+деятельности	деятельность	NOUN	inan,gen,fem,sing
+приблизительно	приблизительно	ADV	pos
+одинаковы	одинаковый	ADJ	pos,plur,short
+)	)	PUNCT	
+.	.	PUNCT	
+По	по	ADP	
+словам	слово	NOUN	inan,dat,neut,plur
+Девида	Девид	PROPN	anim,gen,masc,sing
+Ги	га	PROPN	anim,gen,masc,sing
+,	,	PUNCT	
+вице-президента	вице-президент	NOUN	anim,gen,masc,sing
+HP	HP	PROPN	yes
+Software	Software	PROPN	yes
+по	по	ADP	
+маркетингу	маркетинг	NOUN	inan,dat,masc,sing
+,	,	PUNCT	
+новое	новый	ADJ	nom,pos,neut,sing
+подразделение	подразделение	NOUN	inan,nom,neut,sing
+,	,	PUNCT	
+получившее	получить	VERB	perf,nom,neut,sing,past,part,act
+название	название	NOUN	inan,acc,neut,sing
+Business	Business	PROPN	yes
+Information	Information	PROPN	yes
+Optimization	Optimization	PROPN	yes
+(	(	PUNCT	
+BIO	BIO	PROPN	yes
+)	)	PUNCT	
+,	,	PUNCT	
+будет	быть	AUX	imp,ind,sing,3,pres,fin,act
+состоять	состоять	VERB	imp,inf,act
+из	из	ADP	
+двух	два	NUM	gen
+групп	группа	NOUN	inan,gen,fem,plur
+.	.	PUNCT	
+Основной	основной	ADJ	nom,pos,masc,sing
+продукт	продукт	NOUN	inan,nom,masc,sing
+компании	компания	NOUN	inan,gen,fem,sing
+-	-	PUNCT	
+разработчика	разработчик	NOUN	inan,nom,fem,sing
+антивирусного	антивирусный	ADJ	gen,pos,masc,sing
+ПО	ПО	ADP	
+Eset	Eset	PROPN	yes
+-	-	PUNCT	
+Eset	Eset	PROPN	yes
+NOD32	NOD32	PROPN	yes
+закуплен	закупить	VERB	perf,masc,sing,past,short,part,pass
+для	для	ADP	
+парламента	парламент	NOUN	inan,gen,masc,sing
+республики	республика	NOUN	inan,gen,fem,sing
+Узбекистан	Узбекистан	PROPN	inan,nom,masc,sing
+(	(	PUNCT	
+Олий	Олий	ADJ	nom,pos,masc,sing
+Мажлис	Мажлис	PROPN	inan,nom,masc,sing
+)	)	PUNCT	
+.	.	PUNCT	
+Еще	еще	ADV	pos
+один	один	NUM	nom,masc
+проект	проект	NOUN	inan,nom,masc,sing
+,	,	PUNCT	
+который	который	PRON	nom
+мне	я	PRON	dat,sing,1
+очень	очень	ADV	pos
+импонирует	импонировать	VERB	imp,ind,sing,3,pres,fin,act
+-	-	PUNCT	
+это	это	PRON	
+наше	наш	DET	nom,neut,sing
+сотрудничество	сотрудничество	NOUN	inan,nom,neut,sing
+со	с	ADP	
+Школой	школа	NOUN	inan,ins,fem,sing
+изящных	изящный	ADJ	gen,pos,plur
+искусств	искусство	NOUN	inan,gen,neut,plur
+Фаберже	Фаберж	ADV	cmp
+:	:	PUNCT	
+для	для	ADP	
+абитуриентов	абитуриент	NOUN	anim,gen,masc,plur
+,	,	PUNCT	
+которые	который	PRON	nom
+в	в	ADP	
+будущем	будущее	NOUN	inan,loc,neut,sing
+создадут	создать	VERB	perf,ind,plur,3,fut,fin,act
+свой	свой	DET	acc,masc,sing
+бизнес	бизнес	NOUN	inan,acc,masc,sing
+,	,	PUNCT	
+став	стать	VERB	perf,past,conv,mid
+ювелирами	ювелир	NOUN	anim,ins,masc,plur
+,	,	PUNCT	
+дизайнерами	дизайнер	NOUN	anim,ins,masc,plur
+одежды	одежда	NOUN	inan,gen,fem,sing
+,	,	PUNCT	
+художниками	художник	NOUN	anim,ins,masc,plur
+,	,	PUNCT	
+мы	мы	PRON	nom,plur,1
+также	также	ADV	pos
+основали	основать	VERB	imp,ind,plur,past,fin,act
+компьютерный	компьютерный	ADJ	inan,acc,pos,masc,sing
+класс	класс	NOUN	inan,acc,masc,sing
+,	,	PUNCT	
+где	где	ADV	pos
+они	они	PRON	nom,plur,3
+изучают	изучать	VERB	imp,ind,plur,3,pres,fin,act
+,	,	PUNCT	
+чем	что	PRON	ins
+им	они	PRON	dat,plur,3
+могут	мочь	VERB	imp,ind,plur,3,pres,fin,act
+быть	быть	AUX	imp,inf,act
+полезны	полезный	ADJ	pos,plur,short
+информационные	информационный	ADJ	nom,pos,plur
+технологии	технология	NOUN	inan,nom,fem,plur
+.	.	PUNCT	
+АСУ	Ас	VERB	perf,ind,sing,1,fut,fin,act
+госзакупками	госзакупка	NOUN	inan,ins,fem,plur
+региона	регион	NOUN	inan,gen,masc,sing
+разработана	разработать	VERB	perf,fem,sing,past,short,part,pass
+на	на	ADP	
+основе	основа	NOUN	inan,loc,fem,sing
+электронного	электронный	ADJ	gen,pos,neut,sing
+решения	решение	NOUN	inan,gen,neut,sing
+компании	компания	NOUN	inan,gen,fem,sing
+"	"	PUNCT	
+НОРБИТ	Норбита	NOUN	inan,nom,masc,sing
+"	"	PUNCT	
+-	-	PUNCT	
+"	"	PUNCT	
+ГосЗаказ	госзаказ	PROPN	
+"	"	PUNCT	
+v.3.0	v.3.0	ADJ	inan,acc,pos,plur
+и	и	CCONJ	
+функционально	функционально	ADV	pos
+охватывает	охватывать	VERB	imp,ind,sing,3,pres,fin,act
+комплексное	комплексный	ADJ	acc,pos,neut,sing
+управление	управление	NOUN	inan,acc,neut,sing
+процессом	процесс	NOUN	inan,ins,masc,sing
+размещения	размещение	NOUN	inan,gen,neut,sing
+государственных	государственный	ADJ	gen,pos,plur
+заказов	заказ	NOUN	inan,gen,masc,plur
+.	.	PUNCT	
+Компания	компания	NOUN	inan,nom,fem,sing
+"	"	PUNCT	
+АйТи	Айти	NOUN	inan,nom,fem,plur
+"	"	PUNCT	
+по	по	ADP	
+запросу	запрос	NOUN	inan,dat,masc,sing
+руководства	руководство	NOUN	inan,gen,neut,sing
+ВолГУ	Волга	PROPN	anim,dat,masc,sing
+предоставила	предоставить	VERB	perf,fem,ind,sing,past,fin,act
+университету	университет	NOUN	inan,dat,masc,sing
+полнофункциональную	полнофункциональный	ADJ	acc,pos,fem,sing
+версию	версия	NOUN	inan,acc,fem,sing
+системы	система	NOUN	inan,gen,fem,sing
+"	"	PUNCT	
+БОСС-	Босс-	NOUN	inan,gen,fem,sing
+Референт	Референт	PROPN	inan,nom,masc,sing
+"	"	PUNCT	
+.	.	PUNCT	
+ЭЦП	Эцп	NOUN	inan,nom,masc,sing
+тормозит	тормозить	VERB	imp,ind,sing,3,pres,fin,act
+ЭДО	Эд	ADP	
+Резюмируя	Резюмируя	VERB	imp,pres,conv,act
+обсуждения	обсуждение	NOUN	inan,acc,neut,plur
+в	в	ADP	
+данной	данный	ADJ	loc,pos,fem,sing
+секции	секция	NOUN	inan,loc,fem,sing
+,	,	PUNCT	
+можно	можно	ADV	pos
+сказать	сказать	VERB	perf,inf,act
+,	,	PUNCT	
+что	что	SCONJ	
+новых	новый	ADJ	gen,pos,plur
+проблем	проблема	NOUN	inan,gen,fem,plur
+за	за	ADP	
+последний	последний	ADJ	inan,acc,pos,masc,sing
+год	год	NOUN	inan,acc,masc,sing
+не	не	PART	
+появилось	появиться	VERB	perf,neut,ind,sing,past,fin,mid
+,	,	PUNCT	
+старые	старый	ADJ	nom,pos,plur
+же	же	PART	
+,	,	PUNCT	
+например	например	ADV	pos
+,	,	PUNCT	
+несовершенство	несовершенство	NOUN	inan,nom,neut,sing
+нормативной	нормативный	ADJ	gen,pos,fem,sing
+базы	база	NOUN	inan,gen,fem,sing
+,	,	PUNCT	
+определяющей	определять	VERB	imp,gen,fem,sing,pres,part,act
+функционирование	функционирование	NOUN	inan,acc,neut,sing
+удостоверяющих	удостоверять	VERB	imp,gen,plur,pres,part,act
+центров	центр	NOUN	inan,gen,masc,plur
+,	,	PUNCT	
+решаются	решаться	VERB	imp,ind,plur,3,pres,fin,mid
+чрезвычайно	чрезвычайно	ADV	pos
+медленно	медленно	ADV	pos
+.	.	PUNCT	
+Вечные	вечный	ADJ	nom,pos,plur
+барьеры	барьер	NOUN	inan,nom,masc,plur
+Наиболее	наиболее	ADV	pos
+заметный	заметный	ADJ	nom,pos,masc,sing
+прогресс	прогресс	NOUN	inan,nom,masc,sing
+наблюдается	наблюдать	VERB	imp,ind,sing,3,pres,fin,pass
+там	там	ADV	pos
+,	,	PUNCT	
+где	где	ADV	pos
+бизнес	бизнес	NOUN	inan,nom,masc,sing
+может	мочь	VERB	imp,ind,sing,3,pres,fin,act
+что-то	что-то	PRON	acc
+сделать	делать	VERB	perf,inf,act
+самостоятельно	самостоятельно	ADV	pos
+-	-	PUNCT	
+эта	этот	DET	nom,fem,sing
+мысль	мысль	NOUN	inan,nom,fem,sing
+,	,	PUNCT	
+мимоходом	мимоходом	ADV	pos
+прозвучавшая	прозвучать	VERB	perf,nom,fem,sing,past,part,act
+в	в	ADP	
+выступлении	выступление	NOUN	inan,loc,neut,sing
+одного	один	NUM	gen,masc
+из	из	ADP	
+докладчиков	докладчик	NOUN	anim,gen,masc,plur
+,	,	PUNCT	
+ясно	ясно	ADV	pos
+характеризует	характеризовать	VERB	imp,ind,sing,3,pres,fin,act
+отношение	отношение	NOUN	inan,nom,neut,sing
+бизнеса	бизнес	NOUN	inan,gen,masc,sing
+к	к	ADP	
+работе	работа	NOUN	inan,dat,fem,sing
+в	в	ADP	
+госсекторе	госсектор	NOUN	inan,loc,masc,sing
+.	.	PUNCT	
+В	в	ADP	
+операции	операция	NOUN	inan,loc,fem,sing
+задействовано	задействовать	VERB	perf,neut,sing,past,short,part,pass
+80	80	NUM	
+автомашин	автомашина	NOUN	inan,gen,fem,plur
+и	и	CCONJ	
+бронетранспортеров	бронетранспортер	NOUN	inan,gen,masc,plur
+,	,	PUNCT	
+8	8	NUM	
+вертолетов	вертолет	NOUN	inan,gen,masc,plur
+,	,	PUNCT	
+а	а	CCONJ	
+также	также	PART	
+артиллерия	артиллерия	NOUN	inan,nom,fem,sing
+и	и	CCONJ	
+танки	танк	NOUN	inan,nom,masc,plur
+.	.	PUNCT	
+Несмотря	несмотря	ADV	neg
+на	на	ADP	
+прибытие	прибытие	NOUN	inan,acc,neut,sing
+в	в	ADP	
+на	на	ADP	
+место	место	NOUN	inan,acc,neut,sing
+инцидента	инцидент	NOUN	inan,gen,masc,sing
+специалистов	специалист	NOUN	anim,gen,masc,plur
+из	из	ADP	
+Бангкока	Бангкок	PROPN	inan,gen,masc,sing
+,	,	PUNCT	
+лайнер	лайнер	NOUN	inan,nom,masc,sing
+пока	пока	ADV	pos
+не	не	PART	
+удалось	удаться	VERB	perf,neut,ind,sing,past,fin,mid
+вытащить	вытащить	VERB	perf,inf,act
+из	из	ADP	
+глины	глина	NOUN	inan,gen,fem,sing
+,	,	PUNCT	
+что	что	PRON	nom
+не	не	PART	
+позволяет	позволять	VERB	imp,ind,sing,3,pres,fin,act
+возобновить	возобновить	VERB	perf,inf,act
+работу	работа	NOUN	inan,acc,fem,sing
+аэропорта	аэропорт	NOUN	inan,gen,masc,sing
+.	.	PUNCT	
+Так	так	ADV	pos
+,	,	PUNCT	
+оказалось	оказаться	VERB	perf,neut,ind,sing,past,fin,mid
+полностью	полностью	ADV	pos
+отрезанным	отрезать	VERB	perf,ins,masc,sing,past,part,pass
+от	от	ADP	
+внешнего	внешний	ADJ	gen,pos,masc,sing
+мира	мир	NOUN	inan,gen,masc,sing
+местечко	местечко	NOUN	inan,nom,neut,sing
+Кирхомфельд	Кирхомфельд	PROPN	inan,nom,masc,sing
+.	.	PUNCT	
+Благодаря	благодаря	ADP	
+личности	личность	NOUN	inan,gen,fem,sing
+основателя	основатель	NOUN	anim,gen,masc,sing
+,	,	PUNCT	
+монастырь	монастырь	NOUN	inan,nom,masc,sing
+скоро	скоро	ADV	pos
+приобрел	приобрести	VERB	perf,masc,ind,sing,past,fin,act
+большую	большой	ADJ	acc,pos,fem,sing
+славу	слава	NOUN	inan,acc,fem,sing
+и	и	CCONJ	
+стал	стать	VERB	perf,masc,ind,sing,past,fin,act
+играть	играть	VERB	imp,inf,act
+роль	роль	NOUN	inan,acc,fem,sing
+в	в	ADP	
+княжеских	княжеский	ADJ	loc,pos,plur
+отношениях	отношение	NOUN	inan,loc,neut,plur
+.	.	PUNCT	
+По	по	ADP	
+его	его	DET	
+мнению	мнение	NOUN	inan,dat,neut,sing
+,	,	PUNCT	
+необходимо	необходимый	ADJ	pos,neut,sing,short
+усилить	усилить	VERB	perf,inf,act
+координацию	координация	NOUN	inan,acc,fem,sing
+между	между	ADP	
+другими	другой	ADJ	ins,pos,plur
+министерствами	министерство	NOUN	inan,ins,neut,plur
+и	и	CCONJ	
+ведомствами	ведомство	NOUN	inan,ins,neut,plur
+,	,	PUNCT	
+в	в	ADP	
+частности	частность	NOUN	inan,loc,fem,sing
+,	,	PUNCT	
+МВД	МВД	PROPN	inan,acc,neut,sing
+,	,	PUNCT	
+Минобороны	Минобороны	PROPN	inan,acc,neut,sing
+и	и	CCONJ	
+Минздрава	Минздрав	PROPN	inan,gen,masc,sing
+с	с	ADP	
+МЧС	МЧС	PROPN	inan,gen,neut,sing
+и	и	CCONJ	
+региональными	региональный	ADJ	ins,pos,plur
+властями	власть	NOUN	inan,ins,fem,plur
+.	.	PUNCT	
+Жители	житель	NOUN	anim,nom,masc,plur
+поселка	поселок	NOUN	inan,gen,masc,sing
+Невская	Невский	ADJ	nom,pos,fem,sing
+Дубровка	Дубровка	PROPN	inan,nom,fem,sing
+могут	мочь	VERB	imp,ind,plur,3,pres,fin,act
+остаться	остаться	VERB	perf,inf,mid
+без	без	ADP	
+света	свет	NOUN	inan,gen,masc,sing
+из-за	из-за	ADP	
+того	то	PRON	inan,gen,neut,sing
+,	,	PUNCT	
+что	что	SCONJ	
+администрация	администрация	NOUN	inan,nom,fem,sing
+Всеволжского	Всеволжский	ADJ	gen,pos,masc,sing
+района	район	NOUN	inan,gen,masc,sing
+Ленинградской	ленинградский	ADJ	gen,pos,fem,sing
+области	область	NOUN	inan,gen,fem,sing
+задерживает	задерживать	VERB	imp,ind,sing,3,pres,fin,act
+выплату	выплата	NOUN	inan,acc,fem,sing
+долга	долг	NOUN	inan,gen,masc,sing
+за	за	ADP	
+электроэнергию	электроэнергия	NOUN	inan,acc,fem,sing
+АО	АО	PROPN	inan,acc,neut,sing
+"	"	PUNCT	
+Ленэнерго	Ленэнерго	PROPN	
+"	"	PUNCT	
+.	.	PUNCT	
+В	в	ADP	
+поселке	поселок	NOUN	inan,loc,masc,sing
+Видяево	Видяево	PROPN	inan,nom,neut,sing
+/	/	PUNCT	
+Мурманская	мурманский	ADJ	nom,pos,fem,sing
+область	область	NOUN	inan,nom,fem,sing
+/	/	PUNCT	
+,	,	PUNCT	
+откуда	откуда	ADV	pos
+два	два	NUM	inan,acc,masc
+года	год	NOUN	inan,gen,masc,sing
+назад	назад	ADV	pos
+в	в	ADP	
+последний	последний	ADJ	inan,acc,pos,masc,sing
+поход	поход	NOUN	inan,acc,masc,sing
+ушел	уйти	VERB	perf,masc,ind,sing,past,fin,act
+"	"	PUNCT	
+Курск	Курск	PROPN	inan,nom,masc,sing
+"	"	PUNCT	
+,	,	PUNCT	
+был	быть	AUX	imp,masc,ind,sing,past,fin,act
+открыт	открыть	VERB	perf,masc,sing,past,short,part,pass
+Мемориал	мемориал	NOUN	inan,nom,masc,sing
+морякам	моряк	NOUN	anim,dat,masc,plur
+-	-	PUNCT	
+подводникам	подводник	NOUN	anim,dat,masc,plur
+,	,	PUNCT	
+погибшим	погибнуть	VERB	perf,dat,plur,past,part,act
+в	в	ADP	
+океане	океан	NOUN	inan,loc,masc,sing
+.	.	PUNCT	
+Руководство	руководство	NOUN	inan,nom,neut,sing
+газового	газовый	ADJ	gen,pos,masc,sing
+концерна	концерн	NOUN	inan,gen,masc,sing
+заявило	заявить	VERB	perf,neut,ind,sing,past,fin,act
+,	,	PUNCT	
+что	что	SCONJ	
+в	в	ADP	
+результате	результат	NOUN	inan,loc,masc,sing
+планируемой	планировать	VERB	imp,gen,fem,sing,pres,part,pass
+допэмиссии	допэмиссия	NOUN	inan,gen,fem,sing
+акций	акция	NOUN	inan,gen,fem,plur
+"	"	PUNCT	
+СИБУРа	СИБУР	NOUN	inan,gen,masc,sing
+"	"	PUNCT	
+был	быть	AUX	imp,masc,ind,sing,past,fin,act
+размыт	размыть	VERB	perf,masc,sing,past,short,part,pass
+пакет	пакет	NOUN	inan,nom,masc,sing
+акций	акция	NOUN	inan,gen,fem,plur
+"	"	PUNCT	
+Газпрома	Газпром	PROPN	
+"	"	PUNCT	
+.	.	PUNCT	
+Женщина	женщина	NOUN	anim,nom,fem,sing
+необыкновенной	необыкновенный	ADJ	gen,pos,fem,sing
+красоты	красота	NOUN	inan,gen,fem,sing
+,	,	PUNCT	
+талантливая	талантливый	ADJ	nom,pos,fem,sing
+актриса	актриса	NOUN	anim,nom,fem,sing
+и	и	CCONJ	
+педагог	педагог	NOUN	anim,nom,masc,sing
+она	она	PRON	nom,fem,sing,3
+занимает	занимать	VERB	imp,ind,sing,3,pres,fin,act
+достойное	достойный	ADJ	acc,pos,neut,sing
+место	место	NOUN	inan,acc,neut,sing
+в	в	ADP	
+прославленной	прославить	VERB	perf,loc,fem,sing,past,part,pass
+галерее	галерея	NOUN	inan,loc,fem,sing
+портретов	портрет	NOUN	inan,gen,masc,plur
+,	,	PUNCT	
+где	где	ADV	pos
+пляшет	плясать	VERB	imp,ind,sing,3,pres,fin,act
+сверкающая	сверкать	ADJ	nom,pos,fem,sing
+Золушка	Золушка	PROPN	inan,nom,fem,sing
+Любови	Любовь	PROPN	anim,gen,fem,sing
+Орловой	Орлова	PROPN	anim,gen,fem,sing
+,	,	PUNCT	
+где	где	ADV	pos
+поют	петь	VERB	imp,ind,plur,3,pres,fin,act
+наивные	наивный	ADJ	nom,pos,plur
+Марьяны	Марьяна	PROPN	anim,gen,fem,sing
+и	и	CCONJ	
+Глаши	Глаша	PROPN	anim,gen,fem,sing
+Марины	Марина	PROPN	anim,gen,fem,sing
+Ладыниной	Ладынина	PROPN	anim,gen,fem,sing
+,	,	PUNCT	
+где	где	ADV	pos
+страдает	страдать	VERB	imp,ind,sing,3,pres,fin,act
+великая	великий	ADJ	nom,pos,fem,sing
+Вера	Вера	PROPN	anim,nom,fem,sing
+Марецкая	Марецкая	PROPN	anim,nom,fem,sing
+.	.	PUNCT	
+Между	между	ADP	
+тем	то	PRON	inan,ins,neut,sing
+в	в	ADP	
+этом	этот	DET	loc,masc,sing
+же	же	PART	
+районе	район	NOUN	inan,loc,masc,sing
+"	"	PUNCT	
+всплыла	всплыть	VERB	perf,fem,ind,sing,past,fin,act
+"	"	PUNCT	
+еще	еще	ADV	pos
+одна	один	NUM	nom,fem
+поддельная	поддельный	ADJ	nom,pos,fem,sing
+пятисотрублевка	пятисотрублевка	NOUN	inan,nom,fem,sing
+.	.	PUNCT	
+В	в	ADP	
+минувший	минувший	ADJ	inan,acc,pos,masc,sing
+четверг	четверг	NOUN	inan,acc,masc,sing
+суд	суд	NOUN	inan,nom,masc,sing
+по	по	ADP	
+ходатайству	ходатайство	NOUN	inan,dat,neut,sing
+защиты	защита	NOUN	inan,gen,fem,sing
+изменил	изменить	VERB	perf,masc,ind,sing,past,fin,act
+меру	мера	NOUN	inan,acc,fem,sing
+пресечения	пресечение	NOUN	inan,gen,neut,sing
+другому	другой	ADJ	dat,pos,masc,sing
+обвиняемому	обвинять	VERB	imp,dat,masc,sing,pres,part,pass
+по	по	ADP	
+этому	этот	DET	dat,neut,sing
+делу	дело	NOUN	inan,dat,neut,sing
+-	-	PUNCT	
+бывшему	бывший	ADJ	dat,pos,masc,sing
+вице-президенту	вице-президент	NOUN	inan,dat,masc,sing
+компании	компания	NOUN	inan,gen,fem,sing
+Евгению	Евгений	PROPN	inan,dat,neut,sing
+Кощицу	Кощиц	PROPN	anim,dat,masc,sing
+.	.	PUNCT	
+Санитарной	санитарный	ADJ	dat,pos,fem,sing
+обработке	обработка	NOUN	inan,dat,fem,sing
+будут	быть	AUX	imp,ind,plur,3,pres,fin,act
+подвергнуты	подвергнуть	VERB	perf,plur,past,short,part,pass
+территории	территория	NOUN	inan,nom,fem,plur
+двенадцати	двенадцать	NUM	gen
+баз	база	NOUN	inan,gen,fem,plur
+отдыха	отдых	NOUN	inan,gen,masc,sing
+,	,	PUNCT	
+расположенных	расположенный	ADJ	gen,pos,plur
+в	в	ADP	
+районе	район	NOUN	inan,loc,masc,sing
+поселка	поселок	NOUN	inan,gen,masc,sing
+.	.	PUNCT	
+В	в	ADP	
+то	тот	DET	acc,neut,sing
+же	же	PART	
+время	время	NOUN	inan,acc,neut,sing
+санитарно	санитарный	ADJ	pos
+-	-	PUNCT	
+эпидемиологическая	эпидемиологический	ADJ	nom,pos,fem,sing
+служба	служба	NOUN	inan,nom,fem,sing
+Краснодарского	краснодарский	ADJ	gen,pos,masc,sing
+края	край	NOUN	inan,gen,masc,sing
+настаивает	настаивать	VERB	imp,ind,sing,3,pres,fin,act
+на	на	ADP	
+закрытии	закрытие	NOUN	inan,loc,neut,sing
+оздоровительных	оздоровительный	ADJ	gen,pos,plur
+лагерей	лагерь	NOUN	inan,gen,masc,plur
+в	в	ADP	
+поселках	поселок	NOUN	inan,loc,masc,plur
+Южная	Южный	PROPN	
+Озереевка	Озереевка	PROPN	inan,nom,fem,sing
+и	и	CCONJ	
+Широкая	широкий	ADJ	nom,pos,fem,sing
+Балка	Балк	PROPN	inan,gen,masc,sing
+,	,	PUNCT	
+где	где	ADV	pos
+в	в	ADP	
+настоящее	настоящий	ADJ	inan,acc,pos,neut,sing
+время	время	NOUN	inan,acc,neut,sing
+находятся	находиться	VERB	imp,ind,plur,3,pres,fin,mid
+1	1	NUM	
+тыс	тысяча	NOUN	inan,gen,fem,plur
+470	470	NUM	
+детей	ребенок	NOUN	anim,gen,masc,plur
+,	,	PUNCT	
+прибывших	прибыть	VERB	perf,gen,plur,past,part,act
+на	на	ADP	
+отдых	отдых	NOUN	inan,acc,masc,sing
+.	.	PUNCT	
+В	в	ADP	
+июле	июль	NOUN	inan,loc,masc,sing
+на	на	ADP	
+автодорогах	автодорога	NOUN	inan,loc,masc,plur
+Франции	Франция	PROPN	inan,gen,fem,sing
+погибло	погибнуть	VERB	perf,neut,ind,sing,past,fin,act
+665	665	NUM	
+человек	человек	NOUN	anim,gen,masc,plur
+.	.	PUNCT	
+При	при	ADP	
+нападении	нападение	NOUN	inan,loc,neut,sing
+на	на	ADP	
+ювелирный	ювелирный	ADJ	inan,acc,pos,masc,sing
+магазин	магазин	NOUN	inan,acc,masc,sing
+из	из	ADP	
+пистолета	пистолет	NOUN	inan,gen,masc,sing
+был	быть	AUX	imp,masc,ind,sing,past,fin,act
+тяжело	тяжело	ADV	pos
+ранен	ранить	VERB	imp,masc,sing,past,short,part,pass
+охранник	охранник	NOUN	anim,nom,masc,sing
+,	,	PUNCT	
+а	а	CCONJ	
+при	при	ADP	
+ограблении	ограбление	NOUN	inan,loc,neut,sing
+магазина	магазин	NOUN	inan,gen,masc,sing
+компьютерной	компьютерный	ADJ	gen,pos,fem,sing
+техники	техника	NOUN	inan,gen,fem,sing
+-	-	PUNCT	
+двое	двое	NUM	nom
+контролеров	контролер	NOUN	anim,gen,masc,plur
+-	-	PUNCT	
+администраторов	администратор	NOUN	anim,gen,masc,plur
+.	.	PUNCT	
+Спецпредставитель	спецпредставитель	NOUN	anim,nom,masc,sing
+МИД	МИД	PROPN	inan,gen,masc,sing
+РФ	РФ	PROPN	inan,gen,fem,sing
+считает	считать	VERB	imp,ind,sing,3,pres,fin,act
+,	,	PUNCT	
+что	что	SCONJ	
+,	,	PUNCT	
+нагнетая	нагнетать	VERB	imp,pres,conv,act
+атмосферу	атмосфера	NOUN	inan,acc,fem,sing
+конфронтации	конфронтация	NOUN	inan,gen,fem,sing
+,	,	PUNCT	
+Тбилиси	Тбилиси	PROPN	inan,nom,masc,sing
+Абхазию	Абхазия	PROPN	inan,acc,fem,sing
+не	не	PART	
+вернет	вернуть	VERB	perf,ind,sing,3,fut,fin,act
+2002	2002	NUM	
+/	/	PUNCT	
+08	08	NUM	
+/12	/12	NOUN	inan,gen,masc,plur
+/	/	PUNCT	
+Если	если	SCONJ	
+Тбилиси	Тбилиси	PROPN	inan,nom,masc,sing
+будет	быть	AUX	imp,ind,sing,3,pres,fin,act
+нагнетать	нагнетать	VERB	imp,inf,act
+атмосферу	атмосфера	NOUN	inan,acc,fem,sing
+конфронтации	конфронтация	NOUN	inan,gen,fem,sing
+,	,	PUNCT	
+"	"	PUNCT	
+то	то	SCONJ	
+совершенно	совершенно	ADV	pos
+ясно	ясный	ADJ	pos,neut,sing,short
+,	,	PUNCT	
+что	что	SCONJ	
+таким	такой	DET	ins,masc,sing
+методом	метод	NOUN	inan,ins,masc,sing
+Абхазию	Абхазия	PROPN	inan,acc,fem,sing
+Грузии	Грузия	PROPN	inan,gen,fem,sing
+не	не	PART	
+вернуть	вернуть	VERB	perf,inf,act
+"	"	PUNCT	
+.	.	PUNCT	
+А	а	CCONJ	
+7	7	NUM	
+апреля	апрель	NOUN	inan,gen,masc,sing
+началась	начаться	VERB	perf,fem,ind,sing,past,fin,mid
+серия	серия	NOUN	inan,nom,fem,sing
+диверсионно	диверсионный	ADJ	pos
+-	-	PUNCT	
+террористических	террористический	ADJ	gen,pos,plur
+актов	акт	NOUN	inan,gen,masc,plur
+со	со	ADP	
+стороны	сторона	NOUN	inan,gen,fem,sing
+групп	группа	NOUN	inan,gen,fem,plur
+,	,	PUNCT	
+приходивших	приходить	VERB	perf,gen,plur,past,part,act
+с	с	ADP	
+территории	территория	NOUN	inan,gen,fem,sing
+Грузии	Грузия	PROPN	inan,gen,fem,sing
+.	.	PUNCT	
+Компания	компания	NOUN	inan,nom,fem,sing
+"	"	PUNCT	
+Сибнефть	Сибнефть	PROPN	
+"	"	PUNCT	
+,	,	PUNCT	
+получив	получить	VERB	perf,past,conv,act
+37-процентный	37-процентный	ADJ	inan,acc,pos,masc,sing
+пакет	пакет	NOUN	inan,acc,masc,sing
+акций	акция	NOUN	inan,gen,fem,plur
+завода	завод	NOUN	inan,gen,masc,sing
+,	,	PUNCT	
+стремится	стремиться	VERB	imp,ind,sing,3,pres,fin,mid
+"	"	PUNCT	
+влиять	влиять	VERB	imp,inf,act
+на	на	ADP	
+ситуацию	ситуация	NOUN	inan,acc,fem,sing
+на	на	ADP	
+рынке	рынок	NOUN	inan,loc,masc,sing
+Москвы	Москва	PROPN	inan,gen,fem,sing
+"	"	PUNCT	
+.	.	PUNCT	
+Как	как	SCONJ	
+сообщили	сообщить	VERB	perf,ind,plur,past,fin,act
+РИА	РИА	PROPN	inan,dat,neut,sing
+"	"	PUNCT	
+Новости	новость	NOUN	inan,nom,fem,plur
+"	"	PUNCT	
+в	в	ADP	
+понедельник	понедельник	NOUN	inan,acc,masc,sing
+в	в	ADP	
+суде	суд	NOUN	inan,loc,masc,sing
+,	,	PUNCT	
+19-летние	19-летний	ADJ	nom,pos,plur
+подсудимые	подсудимый	NOUN	anim,nom,masc,plur
+из	из	ADP	
+города	город	NOUN	inan,gen,masc,sing
+Долгопрудный	Долгопрудный	ADJ	inan,acc,pos,masc,sing
+были	быть	AUX	imp,ind,plur,past,fin,act
+признаны	признать	VERB	perf,plur,past,short,part,pass
+виновными	виновный	ADJ	ins,pos,plur
+в	в	ADP	
+"	"	PUNCT	
+бандитизме	бандитизм	NOUN	inan,loc,masc,sing
+"	"	PUNCT	
+/ст	/ст	NOUN	inan,nom,masc,sing
+209	209	NUM	
+УК	ук	NOUN	inan,gen,masc,sing
+РФ	РФ	PROPN	inan,gen,fem,sing
+/	/	PUNCT	
+и	и	CCONJ	
+"	"	PUNCT	
+разбое	разбой	ADJ	nom,pos,neut,sing
+"	"	PUNCT	
+/	/	PUNCT	
+ст.	статья	NOUN	inan,dat,fem,sing
+162	162	NUM	
+УК	ук	NOUN	inan,gen,masc,sing
+РФ	РФ	PROPN	inan,gen,fem,sing
+/	/	PUNCT	
+.	.	PUNCT	
+В	в	ADP	
+экономической	экономический	ADJ	loc,pos,fem,sing
+столице	столица	NOUN	inan,loc,fem,sing
+Танзании	Танзания	PROPN	inan,gen,fem,sing
+Дар-эс-Саламе	Дар-эс-Саламе	PROPN	anim,dat,masc,sing
+начались	начаться	VERB	perf,ind,plur,past,fin,mid
+переговоры	переговоры	NOUN	inan,nom,masc,plur
+между	между	ADP	
+правительством	правительство	NOUN	inan,ins,neut,sing
+Бурунди	Бурунди	PROPN	anim,gen,masc,sing
+и	и	CCONJ	
+представителями	представитель	NOUN	anim,ins,masc,plur
+самой	самый	ADJ	gen,pos,fem,sing
+значительной	значительный	ADJ	gen,pos,fem,sing
+организации	организация	NOUN	inan,gen,fem,sing
+вооруженной	вооружить	VERB	perf,gen,fem,sing,past,part,pass
+оппозиции	оппозиция	NOUN	inan,gen,fem,sing
+-	-	PUNCT	
+Сил	Сила	PROPN	inan,gen,fem,plur
+в	в	ADP	
+защиту	защита	NOUN	inan,acc,fem,sing
+демократии	демократия	NOUN	inan,gen,fem,sing
+(	(	PUNCT	
+ФДД	ФДД	PROPN	inan,nom,fem,sing
+)	)	PUNCT	
+.	.	PUNCT	
+Как	как	SCONJ	
+передает	передавать	VERB	imp,ind,sing,3,pres,fin,act
+корреспондент	корреспондент	NOUN	anim,nom,masc,sing
+РИА	РИА	PROPN	inan,gen,neut,sing
+"	"	PUNCT	
+Новости	новость	NOUN	inan,nom,fem,plur
+"	"	PUNCT	
+,	,	PUNCT	
+открывая	открывать	VERB	imp,pres,conv,act
+сегодняшнюю	сегодняшний	ADJ	acc,pos,fem,sing
+встречу	встреча	NOUN	inan,acc,fem,sing
+,	,	PUNCT	
+президент	президент	NOUN	anim,nom,masc,sing
+Танзании	Танзания	PROPN	inan,gen,fem,sing
+Бенджамин	Бенджамин	PROPN	anim,nom,masc,sing
+Мкапа	Мкап	PROPN	anim,nom,masc,sing
+призвал	призвать	VERB	perf,masc,ind,sing,past,fin,act
+ее	она	PRON	acc,fem,sing,3
+участников	участник	NOUN	anim,acc,masc,plur
+в	в	ADP	
+качестве	качество	NOUN	inan,loc,neut,sing
+"	"	PUNCT	
+жеста	жест	NOUN	anim,nom,fem,sing
+доброй	добрый	ADJ	gen,pos,fem,sing
+воли	воля	NOUN	inan,gen,fem,sing
+и	и	CCONJ	
+доказательства	доказательство	NOUN	inan,gen,neut,sing
+приверженности	приверженность	NOUN	inan,gen,fem,sing
+обеих	оба	NUM	gen,fem
+сторон	сторона	NOUN	inan,gen,fem,plur
+миротворческому	миротворческий	ADJ	dat,pos,masc,sing
+процессу	процесс	NOUN	inan,dat,masc,sing
+"	"	PUNCT	
+объявить	объявить	VERB	perf,inf,act
+мораторий	мораторий	NOUN	inan,acc,masc,sing
+на	на	ADP	
+военные	военный	ADJ	inan,acc,pos,plur
+действия	действие	NOUN	inan,acc,neut,plur
+на	на	ADP	
+весь	весь	DET	acc,masc,sing
+срок	срок	NOUN	inan,acc,masc,sing
+переговоров	переговоры	NOUN	inan,gen,masc,plur
+.	.	PUNCT	
+Российскую	российский	ADJ	acc,pos,fem,sing
+делегацию	делегация	NOUN	inan,acc,fem,sing
+возглавляет	возглавлять	VERB	imp,ind,sing,3,pres,fin,act
+заместитель	заместитель	NOUN	anim,nom,masc,sing
+научно-технической	научно-технический	ADJ	gen,pos,fem,sing
+комиссии	комиссия	NOUN	inan,gen,fem,sing
+МАК	МАК	PROPN	anim,nom,masc,sing
+Сергей	Сергей	PROPN	anim,nom,masc,sing
+Зайко	Зайко	PROPN	anim,nom,masc,sing
+.	.	PUNCT	
+Об	о	ADP	
+этом	это	PRON	inan,loc,neut,sing
+корреспонденту	корреспондент	NOUN	anim,dat,masc,sing
+РИА	РИА	PROPN	inan,gen,neut,sing
+"	"	PUNCT	
+Новости	новость	NOUN	inan,nom,fem,plur
+"	"	PUNCT	
+сообщил	сообщить	VERB	perf,masc,ind,sing,past,fin,act
+пресс-секретарь	пресс-секретарь	NOUN	anim,nom,masc,sing
+межгосударственного	межгосударственный	ADJ	gen,pos,masc,sing
+авиационного	авиационный	ADJ	gen,pos,masc,sing
+комитета	комитет	NOUN	inan,gen,masc,sing
+/	/	PUNCT	
+МАК	МАК	PROPN	anim,nom,masc,sing
+/	/	PUNCT	
+Олег	Олег	PROPN	anim,nom,masc,sing
+Ермолов	Ермолов	PROPN	anim,nom,masc,sing
+.	.	PUNCT	
+Российские	российский	ADJ	nom,pos,plur
+специалисты	специалист	NOUN	anim,nom,masc,plur
+проведут	провести	VERB	perf,ind,plur,3,fut,fin,act
+исследования	исследование	NOUN	inan,acc,neut,plur
+в	в	ADP	
+США	США	PROPN	inan,loc,plur
+бортовой	бортовой	ADJ	gen,pos,fem,sing
+системы	система	NOUN	inan,gen,fem,sing
+"	"	PUNCT	
+Текас	Текас	PROPN	
+"	"	PUNCT	
+,	,	PUNCT	
+устанавливаемой	устанавливать	VERB	imp,loc,fem,sing,pres,part,pass
+на	на	ADP	
+самолетах	самолет	NOUN	inan,loc,masc,plur
+"	"	PUNCT	
+Боинг	Боинг	PROPN	inan,nom,masc,sing
+"	"	PUNCT	
+для	для	ADP	
+предотвращения	предотвращение	NOUN	inan,gen,neut,sing
+столкновений	столкновение	NOUN	inan,gen,neut,plur
+в	в	ADP	
+воздухе	воздух	NOUN	inan,loc,masc,sing
+и	и	CCONJ	
+с	с	ADP	
+землей	земля	NOUN	inan,ins,fem,sing
+.	.	PUNCT	
+Вместе	вместе	ADV	pos
+с	с	ADP	
+тем	то	PRON	inan,ins,neut,sing
+,	,	PUNCT	
+Ермолов	Ермолов	PROPN	anim,nom,masc,sing
+отметил	отметить	VERB	perf,masc,ind,sing,past,fin,act
+,	,	PUNCT	
+что	что	SCONJ	
+работа	работа	NOUN	inan,nom,fem,sing
+германской	германский	ADJ	gen,pos,fem,sing
+комиссии	комиссия	NOUN	inan,gen,fem,sing
+по	по	ADP	
+расследованию	расследование	NOUN	inan,dat,neut,sing
+причин	причина	NOUN	inan,gen,fem,plur
+этого	этот	DET	gen,neut,sing
+авиапроисшествия	авиапроисшествие	NOUN	inan,gen,neut,sing
+ведется	вести	VERB	imp,ind,sing,3,pres,fin,pass
+по	по	ADP	
+плану	план	NOUN	inan,dat,masc,sing
+.	.	PUNCT	
