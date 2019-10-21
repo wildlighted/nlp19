@@ -4,4 +4,7 @@
 :---:|:---:
 hw1|—
 hw2|[here](../master/hw%20foma) 
-project|[here](../master/project)
+project|[Папка] (../master/project)
+[Отчет](../master/project/Отчет%20о%20бритье%20автоматом.pdf)
+[Код](..master/project/main_tester.ipynb)
+
