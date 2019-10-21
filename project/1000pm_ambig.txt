@@ -1,0 +1,2542 @@
+цветки	цветок	NOUN	inan,masc,plur,nomn
+цветки	цветок	NOUN	inan,masc,plur,accs
+дикорастущих	дикорастущий	ADJF	plur,gent
+дикорастущих	дикорастущий	ADJF	anim,plur,accs
+дикорастущих	дикорастущий	ADJF	plur,loct
+форм	форма	NOUN	inan,femn,plur,gent
+обыкновенной	обыкновенный	ADJF	Qual,femn,sing,gent
+обыкновенной	обыкновенный	ADJF	Qual,femn,sing,datv
+обыкновенной	обыкновенный	ADJF	Qual,femn,sing,ablt
+обыкновенной	обыкновенный	ADJF	Qual,femn,sing,loct
+сирени	сирень	NOUN	inan,femn,sing,gent
+сирени	сирень	NOUN	inan,femn,sing,datv
+сирени	сирень	NOUN	inan,femn,sing,loct
+сирени	сирень	NOUN	inan,femn,plur,nomn
+сирени	сирень	NOUN	inan,femn,plur,accs
+мелкие	мелкий	ADJF	Qual,plur,nomn
+мелкие	мелкий	ADJF	Qual,inan,plur,accs
+,	,	PNCT	
+собраны	собрать	PRTS	perf,past,pssv,plur
+парными	парный	ADJF	plur,ablt
+парными	парная	NOUN	inan,femn,plur,ablt
+парными	парной	ADJF	plur,ablt
+пучками	пучок	NOUN	inan,masc,plur,ablt
+(	(	PNCT	
+по	по	PREP	
+3	3	NUMB	intg
+-	-	PNCT	
+5	5	NUMB	intg
+цветков	цветковый	ADJS	Qual,masc,sing
+цветков	цветков	NOUN	anim,masc,Sgtm,Surn,sing,nomn
+цветков	цветок	NOUN	inan,masc,plur,gent
+в	в	PREP	
+пучке	пучок	NOUN	inan,masc,sing,loct
+,	,	PNCT	
+отдельные	отдельный	ADJF	Qual,plur,nomn
+отдельные	отдельный	ADJF	Qual,inan,plur,accs
+сорта	сорт	NOUN	inan,masc,sing,gent
+сорта	сорт	NOUN	inan,masc,plur,nomn
+сорта	сорт	NOUN	inan,masc,plur,accs
+по	по	PREP	
+7	7	NUMB	intg
+-	-	PNCT	
+9	9	NUMB	intg
+цветков	цветковый	ADJS	Qual,masc,sing
+цветков	цветков	NOUN	anim,masc,Sgtm,Surn,sing,nomn
+цветков	цветок	NOUN	inan,masc,plur,gent
+)	)	PNCT	
+.	.	PNCT	
+в	в	PREP	
+конце	конец	NOUN	inan,masc,sing,loct
+осени	осень	NOUN	inan,femn,sing,gent
+осени	осень	NOUN	inan,femn,sing,datv
+осени	осень	NOUN	inan,femn,sing,loct
+осени	осень	NOUN	inan,femn,plur,nomn
+осени	осень	NOUN	inan,femn,plur,accs
+осени	осенить	VERB	perf,tran,sing,impr,excl
+кора	кора	NOUN	inan,femn,Sgtm,sing,nomn
+побегов	побег	NOUN	inan,masc,plur,gent
+становится	становиться	VERB	impf,intr,sing,3per,pres,indc
+серой	сера	NOUN	inan,femn,sing,ablt
+серой	серый	ADJF	Qual,femn,sing,gent
+серой	серый	ADJF	Qual,femn,sing,datv
+серой	серый	ADJF	Qual,femn,sing,ablt
+серой	серый	ADJF	Qual,femn,sing,loct
+.	.	PNCT	
+в	в	PREP	
+центре	центр	NOUN	inan,masc,sing,loct
+цветка	цветок	NOUN	inan,masc,sing,gent
+бело-кремовое	бело-кремовый	ADJF	Qual,neut,sing,nomn
+бело-кремовое	бело-кремовый	ADJF	Qual,neut,sing,accs
+пятнышко	пятнышко	NOUN	inan,neut,sing,nomn
+пятнышко	пятнышко	NOUN	inan,neut,sing,accs
+в	в	PREP	
+виде	вид	NOUN	inan,masc,sing,loct
+звёздочки	звёздочка	NOUN	inan,femn,sing,gent
+звёздочки	звёздочка	NOUN	inan,femn,plur,nomn
+звёздочки	звёздочка	NOUN	inan,femn,plur,accs
+.	.	PNCT	
+при	при	PREP	
+уплотнении	уплотнение	NOUN	inan,neut,sing,loct
+почвы	почва	NOUN	inan,femn,sing,gent
+почвы	почва	NOUN	inan,femn,plur,nomn
+почвы	почва	NOUN	inan,femn,plur,accs
+и	и	CONJ	
+асфальтировании	асфальтирование	NOUN	inan,neut,sing,loct
+суховершинит	суховершинить	VERB	perf,tran,sing,3per,futr,indc
+суховершинит	суховершинит	NOUN	inan,masc,sing,nomn
+суховершинит	суховершинит	NOUN	inan,masc,sing,accs
+.	.	PNCT	
+морозостоек	морозостойкий	ADJS	masc,sing
+.	.	PNCT	
+родина	родина	NOUN	inan,femn,sing,nomn
+-	-	PNCT	
+горные	горный	ADJF	Qual,plur,nomn
+горные	горный	ADJF	Qual,inan,plur,accs
+леса	леса	NOUN	inan,femn,sing,nomn
+леса	лес	NOUN	inan,masc,sing,gent
+леса	лес	NOUN	inan,masc,plur,nomn
+леса	лес	NOUN	inan,masc,plur,accs
+тянь-шаня	тянь-шань	NOUN	inan,masc,Sgtm,Geox,sing,gent
+.	.	PNCT	
+дико	дико	ADVB	
+дико	дикий	ADJS	Qual,neut,sing
+растёт	расти	VERB	impf,intr,sing,3per,pres,indc
+на	на	PREP	
+сухих	сухой	ADJF	Qual,plur,gent
+сухих	сухой	ADJF	Qual,anim,plur,accs
+сухих	сухой	ADJF	Qual,plur,loct
+сухих	сухой	NOUN	anim,GNdr,Ms-f,Pltm,Surn,plur,gent
+сухих	сухой	NOUN	anim,GNdr,Ms-f,Pltm,Surn,plur,accs
+сухих	сухой	NOUN	anim,GNdr,Ms-f,Pltm,Surn,plur,loct
+склонах	склон	NOUN	inan,masc,plur,loct
+в	в	PREP	
+умеренно	умеренно	ADVB	
+умеренно	умеренный	ADJS	Qual,neut,sing
+тёплых	тёплый	ADJF	Qual,plur,gent
+тёплых	тёплый	ADJF	Qual,anim,plur,accs
+тёплых	тёплый	ADJF	Qual,plur,loct
+районах	район	NOUN	inan,masc,plur,loct
+на	на	PREP	
+обширной	обширный	ADJF	Qual,femn,sing,gent
+обширной	обширный	ADJF	Qual,femn,sing,datv
+обширной	обширный	ADJF	Qual,femn,sing,ablt
+обширной	обширный	ADJF	Qual,femn,sing,loct
+территории	территория	NOUN	inan,femn,sing,loct
+территории	территория	NOUN	inan,femn,sing,gent
+территории	территория	NOUN	inan,femn,sing,datv
+территории	территория	NOUN	inan,femn,plur,nomn
+территории	территория	NOUN	inan,femn,plur,accs
+от	от	PREP	
+западной	западный	ADJF	Qual,femn,sing,gent
+западной	западный	ADJF	Qual,femn,sing,loct
+западной	западный	ADJF	Qual,femn,sing,datv
+западной	западный	ADJF	Qual,femn,sing,ablt
+европы	европа	NOUN	inan,femn,Sgtm,Geox,sing,gent
+до	до	PREP	
+восточной	восточный	ADJF	Qual,femn,sing,gent
+восточной	восточный	ADJF	Qual,femn,sing,loct
+восточной	восточный	ADJF	Qual,femn,sing,datv
+восточной	восточный	ADJF	Qual,femn,sing,ablt
+азии	азия	NOUN	inan,femn,Sgtm,Geox,sing,gent
+азии	азия	NOUN	inan,femn,Sgtm,Geox,sing,loct
+азии	азия	NOUN	inan,femn,Sgtm,Geox,sing,datv
+.	.	PNCT	
+полученное	получить	PRTF	perf,tran,past,pssv,neut,sing,nomn
+полученное	получить	PRTF	perf,tran,past,pssv,neut,sing,accs
+количество	количество	NOUN	inan,neut,sing,nomn
+количество	количество	NOUN	inan,neut,sing,accs
+саженцев	саженцевый	ADJS	Qual,masc,sing
+саженцев	саженец	NOUN	inan,masc,plur,gent
+затем	затем	ADVB	Dmns
+распределяют	распределять	VERB	impf,tran,plur,3per,pres,indc
+пропорционально	пропорциональный	ADJS	Qual,neut,sing
+пропорционально	пропорционально	ADVB	
+объёму	объём	NOUN	inan,masc,sing,datv
+работ	работа	NOUN	inan,femn,plur,gent
+по	по	PREP	
+годам	год	NOUN	inan,masc,plur,datv
+перспективного	перспективный	ADJF	Qual,neut,sing,gent
+перспективного	перспективный	ADJF	Qual,masc,sing,gent
+перспективного	перспективный	ADJF	Qual,anim,masc,sing,accs
+периода	период	NOUN	inan,masc,sing,gent
+и	и	CONJ	
+вычисляют	вычислять	VERB	impf,tran,plur,3per,pres,indc
+среднегодовую	среднегодовой	ADJF	femn,sing,accs
+потребность	потребность	NOUN	inan,femn,sing,nomn
+потребность	потребность	NOUN	inan,femn,sing,accs
+.	.	PNCT	
+дистальнее	дистальнея	NOUN	inan,femn,Sgtm,Geox,sing,datv
+дистальнее	дистальнея	NOUN	inan,femn,Sgtm,Geox,sing,loct
+дистальнее	дистальный	COMP	
+дистальнее	дистальний	ADJF	neut,sing,nomn
+дистальнее	дистальний	ADJF	neut,sing,accs
+места	место	NOUN	inan,neut,sing,gent
+сужения	сужение	NOUN	inan,neut,sing,gent
+сужения	сужение	NOUN	inan,neut,plur,nomn
+сужения	сужение	NOUN	inan,neut,plur,accs
+проток	проток	NOUN	inan,masc,sing,nomn
+проток	проток	NOUN	inan,masc,sing,accs
+проток	протока	NOUN	inan,femn,plur,gent
+не	не	PRCL	
+визуализируется	визуализироваться	VERB	impf,intr,sing,3per,pres,indc
+.	.	PNCT	
+заключение	заключение	NOUN	inan,neut,sing,accs
+заключение	заключение	NOUN	inan,neut,sing,nomn
+:	:	PNCT	
+инфильтративные	инфильтративный	ADJF	plur,nomn
+инфильтративные	инфильтративный	ADJF	inan,plur,accs
+инфильтративные	инфильтративная	NOUN	inan,femn,plur,nomn
+инфильтративные	инфильтративная	NOUN	inan,femn,plur,accs
+инфильтративные	инфильтративное	NOUN	inan,neut,plur,nomn
+инфильтративные	инфильтративное	NOUN	inan,neut,plur,accs
+изменения	изменение	NOUN	inan,neut,sing,gent
+изменения	изменение	NOUN	inan,neut,plur,nomn
+изменения	изменение	NOUN	inan,neut,plur,accs
+в	в	PREP	
+зоне	зона	NOUN	inan,femn,sing,loct
+гепатикоэнтероанастомоза	гепатикоэнтероанастомоз	NOUN	inan,masc,sing,gent
+,	,	PNCT	
+в	в	PREP	
+воротах	ворот	NOUN	inan,masc,plur,loct
+воротах	ворота	NOUN	inan,GNdr,Pltm,plur,loct
+печени	печень	NOUN	inan,femn,sing,loct
+печени	печень	NOUN	inan,femn,sing,gent
+печени	печень	NOUN	inan,femn,sing,datv
+печени	печень	NOUN	inan,femn,plur,nomn
+печени	печень	NOUN	inan,femn,plur,accs
+,	,	PNCT	
+во	в	PREP	Vpre
+внутрибрюшной	внутрибрюшной	ADJF	masc,sing,nomn
+внутрибрюшной	внутрибрюшной	ADJF	inan,masc,sing,accs
+внутрибрюшной	внутрибрюшной	ADJF	femn,sing,gent
+внутрибрюшной	внутрибрюшной	ADJF	femn,sing,datv
+внутрибрюшной	внутрибрюшной	ADJF	femn,sing,ablt
+внутрибрюшной	внутрибрюшной	ADJF	femn,sing,loct
+жировой	жиров	NOUN	anim,femn,Sgtm,Surn,sing,gent
+жировой	жиров	NOUN	anim,femn,Sgtm,Surn,sing,datv
+жировой	жиров	NOUN	anim,femn,Sgtm,Surn,sing,ablt
+жировой	жиров	NOUN	anim,femn,Sgtm,Surn,sing,loct
+жировой	жировой	ADJF	masc,sing,nomn
+жировой	жировой	ADJF	inan,masc,sing,accs
+жировой	жировой	ADJF	femn,sing,gent
+жировой	жировой	ADJF	femn,sing,datv
+жировой	жировой	ADJF	femn,sing,ablt
+жировой	жировой	ADJF	femn,sing,loct
+клетчатке	клетчатка	NOUN	inan,femn,sing,datv
+клетчатке	клетчатка	NOUN	inan,femn,sing,loct
+.	.	PNCT	
+золотовалютные	золотовалютный	ADJF	plur,nomn
+золотовалютные	золотовалютный	ADJF	inan,plur,accs
+резервы	резерв	NOUN	inan,masc,plur,nomn
+резервы	резерв	NOUN	inan,masc,plur,accs
+увеличились	увеличиться	VERB	perf,intr,plur,past,indc
+на	на	PREP	
+170	170	NUMB	intg
+миллиардов	миллиард	NOUN	inan,masc,plur,gent
+долларов	доллар	NOUN	inan,masc,plur,gent
+и	и	CONJ	
+приближаются	приближаться	VERB	impf,intr,plur,3per,pres,indc
+к	к	PREP	
+отметке	отметка	NOUN	inan,femn,sing,loct
+отметке	отметка	NOUN	inan,femn,sing,datv
+в	в	PREP	
+полтриллиона	полтриллион	NOUN	inan,masc,sing,gent
+полтриллиона	полтриллион	NOUN	inan,masc,sing,gent
+долларов	доллар	NOUN	inan,masc,plur,gent
+сша	сша	NOUN	inan,GNdr,Pltm,Fixd,Geox,plur,gent
+сша	сша	NOUN	inan,GNdr,Pltm,Fixd,Geox,plur,loct
+сша	сша	NOUN	inan,GNdr,Pltm,Fixd,Geox,plur,nomn
+сша	сша	NOUN	inan,GNdr,Pltm,Fixd,Geox,plur,accs
+сша	сша	NOUN	inan,GNdr,Pltm,Fixd,Geox,plur,ablt
+сша	сша	NOUN	inan,GNdr,Pltm,Fixd,Geox,plur,datv
+-	-	PNCT	
+точнее	точнее	CONJ	Prnt
+точнее	точный	COMP	Qual
+,	,	PNCT	
+478,6	478,6	NUMB	real
+,	,	PNCT	
+по	по	PREP	
+последним	последний	ADJF	plur,datv
+последним	последний	ADJF	masc,sing,ablt
+последним	последний	ADJF	neut,sing,ablt
+данным	данные	NOUN	inan,GNdr,Pltm,plur,datv
+данным	дать	PRTF	perf,tran,past,pssv,masc,sing,ablt
+данным	дать	PRTF	perf,tran,past,pssv,neut,sing,ablt
+данным	дать	PRTF	perf,tran,past,pssv,plur,datv
+данным	данный	ADJF	Apro,masc,sing,ablt
+данным	данный	ADJF	Apro,neut,sing,ablt
+данным	данный	ADJF	Apro,plur,datv
+(	(	PNCT	
+чуть-чуть	чуть-чуть	ADVB	
+понижение	понижение	NOUN	inan,neut,sing,nomn
+понижение	понижение	NOUN	inan,neut,sing,accs
+произошло	произойти	VERB	perf,intr,neut,sing,past,indc
+в	в	PREP	
+связи	связь	NOUN	inan,femn,sing,loc2
+связи	связь	NOUN	inan,femn,sing,gent
+связи	связь	NOUN	inan,femn,sing,datv
+связи	связь	NOUN	inan,femn,sing,loct
+связи	связь	NOUN	inan,femn,plur,nomn
+связи	связь	NOUN	inan,femn,plur,accs
+с	с	PREP	
+изменением	изменение	NOUN	inan,neut,sing,ablt
+курса	курс	NOUN	inan,masc,sing,gent
+доллара	доллар	NOUN	inan,masc,sing,gent
+)	)	PNCT	
+.	.	PNCT	
+это	это	PRCL	
+это	это	NPRO	neut,sing,nomn
+это	это	NPRO	neut,sing,accs
+это	этот	ADJF	Apro,Subx,Anph,neut,sing,accs
+это	этот	ADJF	Apro,Subx,Anph,neut,sing,nomn
+вершина	вершина	NOUN	inan,femn,sing,nomn
+тесного	тесный	ADJF	Qual,masc,sing,gent
+тесного	тесный	ADJF	Qual,anim,masc,sing,accs
+тесного	тесный	ADJF	Qual,neut,sing,gent
+и	и	CONJ	
+плодотворного	плодотворный	ADJF	Qual,masc,sing,gent
+плодотворного	плодотворный	ADJF	Qual,anim,masc,sing,accs
+плодотворного	плодотворный	ADJF	Qual,neut,sing,gent
+сотрудничества	сотрудничество	NOUN	inan,neut,sing,gent
+между	между	PREP	
+нашими	наш	ADJF	Apro,plur,ablt
+странами	страна	NOUN	inan,femn,plur,ablt
+.	.	PNCT	
+мы	мы	NPRO	1per,plur,nomn
+ещё	ещё	PRCL	
+ещё	ещё	ADVB	
+некоторое	некоторый	ADJF	Apro,neut,sing,accs
+некоторое	некоторый	ADJF	Apro,neut,sing,nomn
+время	время	NOUN	inan,neut,sing,accs
+время	время	NOUN	inan,neut,sing,nomn
+разговариваем	разговаривать	VERB	impf,intr,plur,1per,pres,indc
+с	с	PREP	
+епископом	епископ	NOUN	anim,masc,sing,ablt
+лукианом	лукиан	NOUN	anim,masc,Name,sing,ablt
+,	,	PNCT	
+потом	потом	ADVB	
+потом	пот	NOUN	inan,masc,sing,ablt
+он	он	NPRO	masc,3per,Anph,sing,nomn
+провожает	провожать	VERB	impf,tran,sing,3per,pres,indc
+меня	я	NPRO	1per,sing,accs
+меня	я	NPRO	1per,sing,gent
+до	до	PREP	
+ворот	ворота	NOUN	inan,GNdr,Pltm,plur,gent
+ворот	ворот	NOUN	inan,masc,sing,nomn
+ворот	ворот	NOUN	inan,masc,sing,accs
+резиденции	резиденция	NOUN	inan,femn,sing,gent
+резиденции	резиденция	NOUN	inan,femn,sing,datv
+резиденции	резиденция	NOUN	inan,femn,sing,loct
+резиденции	резиденция	NOUN	inan,femn,plur,nomn
+резиденции	резиденция	NOUN	inan,femn,plur,accs
+,	,	PNCT	
+откуда	откуда	ADVB	Ques
+навстречу	навстречу	ADVB	
+нам	мы	NPRO	1per,plur,datv
+идёт	идти	VERB	impf,intr,sing,3per,pres,indc
+многочисленный	многочисленный	ADJF	Qual,masc,sing,nomn
+многочисленный	многочисленный	ADJF	Qual,inan,masc,sing,accs
+и	и	CONJ	
+многоязычный	многоязычный	ADJF	Qual,masc,sing,nomn
+многоязычный	многоязычный	ADJF	Qual,inan,masc,sing,accs
+поток	поток	NOUN	inan,masc,sing,accs
+поток	поток	NOUN	inan,masc,sing,nomn
+людей	человек	NOUN	anim,masc,plur,gent
+людей	человек	NOUN	anim,masc,plur,accs
+,	,	PNCT	
+желающих	желающий	NOUN	anim,masc,plur,gent
+желающих	желающий	NOUN	anim,masc,plur,accs
+желающих	желающий	NOUN	anim,masc,plur,loct
+желающих	желать	PRTF	impf,tran,pres,actv,plur,gent
+желающих	желать	PRTF	impf,tran,pres,actv,anim,plur,accs
+желающих	желать	PRTF	impf,tran,pres,actv,plur,loct
+осмотреть	осмотреть	INFN	perf,tran
+экспонаты	экспонат	NOUN	inan,masc,plur,accs
+экспонаты	экспонат	NOUN	inan,masc,plur,nomn
+православного	православный	ADJF	neut,sing,gent
+православного	православный	ADJF	masc,sing,gent
+православного	православный	ADJF	anim,masc,sing,accs
+музея	музей	NOUN	inan,masc,sing,gent
+и	и	CONJ	
+посетить	посетить	INFN	perf,tran
+кафедральный	кафедральный	ADJF	inan,masc,sing,accs
+кафедральный	кафедральный	ADJF	masc,sing,nomn
+собор	собор	NOUN	inan,masc,sing,accs
+собор	собор	NOUN	inan,masc,sing,nomn
+.	.	PNCT	
+многотысячный	многотысячный	ADJF	masc,sing,nomn
+многотысячный	многотысячный	ADJF	inan,masc,sing,accs
+коллектив	коллектив	NOUN	inan,masc,sing,nomn
+коллектив	коллектив	NOUN	inan,masc,sing,accs
+``	``	UNKN	
+газпрома	газпром	NOUN	inan,masc,Orgn,sing,gent
+''	''	PNCT	
+денно	денно	ADVB	
+и	и	CONJ	
+нощно	нощно	ADVB	
+трудился	трудиться	VERB	impf,intr,masc,sing,past,indc
+над	над	PREP	
+поставленной	поставить	PRTF	perf,tran,past,pssv,femn,sing,gent
+поставленной	поставить	PRTF	perf,tran,past,pssv,femn,sing,datv
+поставленной	поставить	PRTF	perf,tran,past,pssv,femn,sing,ablt
+поставленной	поставить	PRTF	perf,tran,past,pssv,femn,sing,loct
+задачей	задача	NOUN	inan,femn,sing,ablt
+.	.	PNCT	
+там	там	ADVB	Dmns
+там	там	PRCL	
+оставалось	оставаться	VERB	impf,intr,neut,sing,past,indc
+ещё	ещё	PRCL	
+ещё	ещё	ADVB	
+60	60	NUMB	intg
+сербских	сербский	ADJF	plur,gent
+сербских	сербский	ADJF	anim,plur,accs
+сербских	сербский	ADJF	plur,loct
+сел	сесть	VERB	perf,intr,masc,sing,past,indc
+сёл	село	NOUN	inan,neut,plur,gent
+.	.	PNCT	
+мы	мы	NPRO	1per,plur,nomn
+шли	идти	VERB	impf,intr,plur,past,indc
+шли	слать	VERB	impf,tran,sing,impr,excl
+в	в	PREP	
+бой	бой	NOUN	inan,masc,sing,accs
+бой	бой	NOUN	anim,masc,sing,nomn
+бой	бой	NOUN	inan,masc,sing,nomn
+вместе	вместе	ADVB	
+и	и	CONJ	
+готовы	готовый	ADJS	Qual,plur
+были	быть	VERB	impf,intr,plur,past,indc
+пролить	пролить	INFN	perf,tran
+кровь	кровь	NOUN	inan,femn,sing,nomn
+кровь	кровь	NOUN	inan,femn,sing,accs
+друг	друг	NOUN	anim,masc,sing,nomn
+за	за	PREP	
+друга	друг	NOUN	anim,masc,sing,gent
+друга	друг	NOUN	anim,masc,sing,accs
+.	.	PNCT	
+-	-	PNCT	
+какие	какой	ADJF	Apro,plur,nomn
+какие	какой	ADJF	Apro,inan,plur,accs
+впечатления	впечатление	NOUN	inan,neut,sing,gent
+впечатления	впечатление	NOUN	inan,neut,plur,nomn
+впечатления	впечатление	NOUN	inan,neut,plur,accs
+у	у	PREP	
+вас	вы	NPRO	2per,plur,accs
+вас	вы	NPRO	2per,plur,gent
+вас	вы	NPRO	2per,plur,loct
+остались	остаться	VERB	perf,intr,plur,past,indc
+от	от	PREP	
+москвы	москва	NOUN	inan,femn,Sgtm,Geox,sing,gent
+в	в	PREP	
+1972	1972	NUMB	intg
+году	год	NOUN	inan,masc,sing,loc2
+?	?	PNCT	
+-	-	PNCT	
+по	по	PREP	
+удивительному	удивительный	ADJF	Qual,masc,sing,datv
+удивительному	удивительный	ADJF	Qual,neut,sing,datv
+стечению	стечение	NOUN	inan,neut,sing,datv
+обстоятельств	обстоятельство	NOUN	inan,neut,plur,gent
+ваш	ваш	ADJF	Apro,masc,sing,nomn
+ваш	ваш	ADJF	Apro,inan,masc,sing,accs
+олимпийский	олимпийский	ADJF	masc,sing,nomn
+олимпийский	олимпийский	ADJF	inan,masc,sing,accs
+триумф	триумф	NOUN	inan,masc,sing,nomn
+триумф	триумф	NOUN	inan,masc,sing,accs
+идеально	идеально	ADVB	
+идеально	идеальный	ADJS	Qual,neut,sing
+совпал	совпасть	VERB	perf,intr,masc,sing,past,indc
+по	по	PREP	
+времени	время	NOUN	inan,neut,sing,gent
+времени	время	NOUN	inan,neut,sing,datv
+времени	время	NOUN	inan,neut,sing,loct
+времени	временить	VERB	impf,intr,sing,impr,excl
+с	с	PREP	
+внедрением	внедрение	NOUN	inan,neut,sing,ablt
+современных	современный	ADJF	Qual,plur,gent
+современных	современный	ADJF	Qual,plur,loct
+современных	современный	ADJF	Qual,anim,plur,accs
+поролоновых	поролоновый	ADJF	plur,gent
+поролоновых	поролоновый	ADJF	anim,plur,accs
+поролоновых	поролоновый	ADJF	plur,loct
+матов	матовый	ADJS	Qual,masc,sing
+матов	мат	NOUN	inan,masc,plur,gent
+.	.	PNCT	
+все	весь	ADJF	Apro,plur,nomn
+всё	весь	ADJF	Apro,neut,sing,nomn
+все	весь	ADJF	Apro,inan,plur,accs
+всё	всё	ADVB	
+всё	весь	ADJF	Apro,neut,sing,accs
+поселение	поселение	NOUN	inan,neut,sing,nomn
+поселение	поселение	NOUN	inan,neut,sing,accs
+можно	можно	PRED	pres
+обойти	обойти	INFN	perf,tran
+неторопливым	неторопливый	ADJF	Qual,masc,sing,ablt
+неторопливым	неторопливый	ADJF	Qual,neut,sing,ablt
+неторопливым	неторопливый	ADJF	Qual,plur,datv
+шагом	шагом	ADVB	
+шагом	шаг	NOUN	inan,masc,sing,ablt
+за	за	PREP	
+10	10	NUMB	intg
+минут	минута	NOUN	inan,femn,plur,gent
+.	.	PNCT	
+стабильное	стабильный	ADJF	Qual,neut,sing,nomn
+стабильное	стабильный	ADJF	Qual,neut,sing,accs
+взаимодействие	взаимодействие	NOUN	inan,neut,sing,nomn
+взаимодействие	взаимодействие	NOUN	inan,neut,sing,accs
+в	в	PREP	
+нефтегазовом	нефтегазовый	ADJF	masc,sing,loct
+нефтегазовом	нефтегазовый	ADJF	neut,sing,loct
+секторе	сектор	NOUN	inan,masc,sing,loct
+является	являться	VERB	impf,intr,sing,3per,pres,indc
+общим	общий	ADJF	plur,datv
+общим	общий	ADJF	masc,sing,ablt
+общим	общий	ADJF	neut,sing,ablt
+вкладом	вклад	NOUN	inan,masc,sing,ablt
+россии	россия	NOUN	inan,femn,Sgtm,Geox,sing,gent
+россии	россия	NOUN	inan,femn,Sgtm,Geox,sing,loct
+россии	россия	NOUN	inan,femn,Sgtm,Geox,sing,datv
+и	и	CONJ	
+венгрии	венгрия	NOUN	inan,femn,Sgtm,Geox,sing,gent
+венгрии	венгрия	NOUN	inan,femn,Sgtm,Geox,sing,loct
+венгрии	венгрия	NOUN	inan,femn,Sgtm,Geox,sing,datv
+в	в	PREP	
+обеспечение	обеспечение	NOUN	inan,neut,sing,nomn
+обеспечение	обеспечение	NOUN	inan,neut,sing,accs
+энергобезопасности	энергобезопасность	NOUN	inan,femn,sing,gent
+энергобезопасности	энергобезопасность	NOUN	inan,femn,sing,loct
+энергобезопасности	энергобезопасность	NOUN	inan,femn,sing,datv
+энергобезопасности	энергобезопасность	NOUN	inan,femn,plur,nomn
+энергобезопасности	энергобезопасность	NOUN	inan,femn,plur,accs
+европы	европа	NOUN	inan,femn,Sgtm,Geox,sing,gent
+.	.	PNCT	
+при	при	PREP	
+этом	это	NPRO	neut,sing,loct
+работа	работа	NOUN	inan,femn,sing,nomn
+над	над	PREP	
+реализаций	реализация	NOUN	inan,femn,plur,gent
+проектов	проект	NOUN	inan,masc,plur,gent
+жёстко	жёстко	ADVB	
+жёстко	жёсткий	ADJS	Qual,neut,sing
+увязывалась	увязываться	VERB	impf,intr,femn,sing,past,indc
+с	с	PREP	
+достижением	достижение	NOUN	inan,neut,sing,ablt
+на	на	PREP	
+каждом	каждый	ADJF	Apro,masc,sing,loct
+каждом	каждый	ADJF	Apro,neut,sing,loct
+этапе	этап	NOUN	inan,masc,sing,loct
+целевых	целевой	ADJF	plur,gent
+целевых	целевой	ADJF	anim,plur,accs
+целевых	целевой	ADJF	plur,loct
+показателей	показатель	NOUN	inan,masc,plur,gent
+.	.	PNCT	
+наверняка	наверняка	ADVB	
+наверняка	наверняка	CONJ	Prnt
+техника	техника	NOUN	inan,femn,sing,nomn
+техника	техник	NOUN	anim,masc,sing,gent
+техника	техник	NOUN	anim,masc,sing,accs
+была	быть	VERB	impf,intr,femn,sing,past,indc
+бы	бы	PRCL	
+уже	уже	ADVB	
+уже	уже	PRCL	
+уже	уж	NOUN	anim,masc,sing,loct
+уже	узкий	COMP	Qual
+не	не	PRCL	
+та	тот	ADJF	Apro,Subx,Anph,femn,sing,nomn
+.	.	PNCT	
+я	я	NPRO	1per,sing,nomn
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,nomn
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,gent
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,datv
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,accs
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,ablt
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,loct
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,nomn
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,gent
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,datv
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,accs
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,ablt
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,loct
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,nomn
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,gent
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,datv
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,accs
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,ablt
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,loct
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,nomn
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,gent
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,datv
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,accs
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,ablt
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,loct
+имею	иметь	VERB	impf,tran,sing,1per,pres,indc
+в	в	PREP	
+виду	вид	NOUN	inan,masc,sing,loc2
+виду	вид	NOUN	inan,masc,sing,datv
+виду	вид	NOUN	inan,masc,sing,gen2
+наше	наш	ADJF	Apro,neut,sing,nomn
+наше	наш	ADJF	Apro,neut,sing,accs
+сотрудничество	сотрудничество	NOUN	inan,neut,sing,accs
+сотрудничество	сотрудничество	NOUN	inan,neut,sing,nomn
+в	в	PREP	
+сфере	сфера	NOUN	inan,femn,sing,loct
+сфере	сфера	NOUN	inan,femn,sing,datv
+энергетики	энергетика	NOUN	inan,femn,sing,gent
+энергетики	энергетик	NOUN	anim,masc,plur,nomn
+энергетики	энергетика	NOUN	inan,femn,plur,nomn
+энергетики	энергетика	NOUN	inan,femn,plur,accs
+-	-	PNCT	
+первый	один	ADJF	Anum,masc,sing,nomn
+первый	один	ADJF	Anum,inan,masc,sing,accs
+блок	блок	NOUN	inan,masc,sing,nomn
+блок	блок	NOUN	inan,masc,sing,accs
+сангтудинской	сангтудинский	ADJF	femn,sing,gent
+сангтудинской	сангтудинский	ADJF	femn,sing,datv
+сангтудинской	сангтудинский	ADJF	femn,sing,ablt
+сангтудинской	сангтудинский	ADJF	femn,sing,loct
+сангтудинской	сангтудинский	NOUN	anim,femn,Sgtm,Surn,sing,gent
+сангтудинской	сангтудинский	NOUN	anim,femn,Sgtm,Surn,sing,datv
+сангтудинской	сангтудинский	NOUN	anim,femn,Sgtm,Surn,sing,ablt
+сангтудинской	сангтудинский	NOUN	anim,femn,Sgtm,Surn,sing,loct
+гэс	гэс	NOUN	inan,femn,Fixd,Orgn,Abbr,sing,nomn
+гэс	гэс	NOUN	inan,femn,Fixd,Orgn,Abbr,sing,gent
+гэс	гэс	NOUN	inan,femn,Fixd,Orgn,Abbr,sing,datv
+гэс	гэс	NOUN	inan,femn,Fixd,Orgn,Abbr,sing,accs
+гэс	гэс	NOUN	inan,femn,Fixd,Orgn,Abbr,sing,ablt
+гэс	гэс	NOUN	inan,femn,Fixd,Orgn,Abbr,sing,loct
+гэс	гэс	NOUN	inan,femn,Fixd,Orgn,Abbr,plur,nomn
+гэс	гэс	NOUN	inan,femn,Fixd,Orgn,Abbr,plur,gent
+гэс	гэс	NOUN	inan,femn,Fixd,Orgn,Abbr,plur,datv
+гэс	гэс	NOUN	inan,femn,Fixd,Orgn,Abbr,plur,accs
+гэс	гэс	NOUN	inan,femn,Fixd,Orgn,Abbr,plur,ablt
+гэс	гэс	NOUN	inan,femn,Fixd,Orgn,Abbr,plur,loct
+станции	станция	NOUN	inan,femn,sing,loct
+станции	станция	NOUN	inan,femn,sing,gent
+станции	станция	NOUN	inan,femn,sing,datv
+станции	станция	NOUN	inan,femn,plur,nomn
+станции	станция	NOUN	inan,femn,plur,accs
+запущен	запустить	PRTS	perf,past,pssv,masc,sing
+запущен	запущенный	ADJS	Qual,masc,sing
+в	в	PREP	
+январе	январь	NOUN	inan,masc,sing,loct
+.	.	PNCT	
+в	в	PREP	
+рамках	рамка	NOUN	inan,femn,plur,loct
+национального	национальный	ADJF	neut,sing,gent
+национального	национальный	ADJF	masc,sing,gent
+национального	национальный	ADJF	anim,masc,sing,accs
+проекта	проект	NOUN	inan,masc,sing,gent
+13	13	NUMB	intg
+миллионов	миллион	NOUN	inan,masc,plur,gent
+человек	человек	NOUN	anim,masc,sing,nomn
+человек	человек	NOUN	anim,masc,plur,gent
+смогли	смочь	VERB	perf,intr,plur,past,indc
+пройти	пройти	INFN	perf,tran
+диспансеризацию	диспансеризация	NOUN	inan,femn,sing,accs
+,	,	PNCT	
+а	а	CONJ	
+60	60	NUMB	intg
+миллионам	миллион	NOUN	inan,masc,plur,datv
+были	быть	VERB	impf,intr,plur,past,indc
+сделаны	сделать	PRTS	perf,past,pssv,plur
+прививки	прививка	NOUN	inan,femn,sing,gent
+прививки	прививка	NOUN	inan,femn,plur,nomn
+прививки	прививка	NOUN	inan,femn,plur,accs
+прививки	прививок	NOUN	inan,masc,plur,nomn
+прививки	прививок	NOUN	inan,masc,plur,accs
+.	.	PNCT	
+оба	оба	NUMR	masc,nomn
+оба	оба	NUMR	inan,masc,accs
+оба	оба	NUMR	neut,nomn
+оба	оба	NUMR	inan,neut,accs
+работают	работать	VERB	impf,intr,plur,3per,pres,indc
+на	на	PREP	
+влиятельную	влиятельный	ADJF	Qual,femn,sing,accs
+и	и	CONJ	
+известную	известный	ADJF	Qual,femn,sing,accs
+адвокатскую	адвокатский	ADJF	femn,sing,accs
+контору	контора	NOUN	inan,femn,sing,accs
+«	«	PNCT	
+bullie	bullie	LATN	
+brake	brake	LATN	
+&	&	PNCT	
+desmay	desmay	LATN	
+»	»	PNCT	
+и	и	CONJ	
+успешно	успешно	ADVB	
+успешно	успешный	ADJS	Qual,neut,sing
+продвигаются	продвигаться	VERB	impf,intr,plur,3per,pres,indc
+по	по	PREP	
+служебной	служебный	ADJF	Qual,femn,sing,gent
+служебной	служебный	ADJF	Qual,femn,sing,datv
+служебной	служебный	ADJF	Qual,femn,sing,ablt
+служебной	служебный	ADJF	Qual,femn,sing,loct
+лестнице	лестница	NOUN	inan,femn,sing,datv
+лестнице	лестница	NOUN	inan,femn,sing,loct
+.	.	PNCT	
+некоторые	некоторый	ADJF	Apro,plur,nomn
+некоторые	некоторые	NPRO	plur,nomn
+некоторые	некоторый	ADJF	Apro,inan,plur,accs
+некоторые	некоторые	NPRO	inan,plur,accs
+люди	человек	NOUN	anim,masc,plur,nomn
+испытывают	испытывать	VERB	impf,tran,plur,3per,pres,indc
+панические	панический	ADJF	plur,nomn
+панические	панический	ADJF	inan,plur,accs
+атаки	атака	NOUN	inan,femn,sing,gent
+атаки	атака	NOUN	inan,femn,plur,nomn
+атаки	атака	NOUN	inan,femn,plur,accs
+,	,	PNCT	
+которые	который	ADJF	Apro,Subx,Anph,plur,nomn
+которые	который	ADJF	Apro,Subx,Anph,inan,plur,accs
+характеризуются	характеризоваться	VERB	impf,intr,plur,3per,pres,indc
+чрезвычайно	чрезвычайно	ADVB	
+чрезвычайно	чрезвычайный	ADJS	neut,sing
+сильным	сильный	ADJF	Qual,plur,datv
+сильным	сильный	ADJF	Qual,masc,sing,ablt
+сильным	сильный	ADJF	Qual,neut,sing,ablt
+чувством	чувство	NOUN	inan,neut,sing,ablt
+страха	страх	NOUN	inan,masc,sing,gent
+.	.	PNCT	
+они	они	NPRO	3per,Anph,plur,nomn
+отнюдь	отнюдь	ADVB	
+не	не	PRCL	
+редки	редкий	ADJS	Qual,plur
+.	.	PNCT	
+к	к	PREP	
+третьей	три	ADJF	Anum,femn,sing,gent
+третьей	три	ADJF	Anum,femn,sing,loct
+третьей	три	ADJF	Anum,femn,sing,ablt
+третьей	три	ADJF	Anum,femn,sing,datv
+неделе	неделя	NOUN	inan,femn,sing,loct
+неделе	неделя	NOUN	inan,femn,sing,datv
+пациенты	пациент	NOUN	anim,masc,plur,nomn
+показывали	показывать	VERB	impf,tran,plur,past,indc
+заметное	заметный	ADJF	Qual,neut,sing,nomn
+заметное	заметный	ADJF	Qual,neut,sing,accs
+улучшение	улучшение	NOUN	inan,neut,sing,accs
+улучшение	улучшение	NOUN	inan,neut,sing,nomn
+настроения	настроение	NOUN	inan,neut,sing,gent
+настроения	настроение	NOUN	inan,neut,plur,nomn
+настроения	настроение	NOUN	inan,neut,plur,accs
+в	в	PREP	
+отличие	отличие	NOUN	inan,neut,sing,accs
+отличие	отличие	NOUN	inan,neut,sing,nomn
+от	от	PREP	
+принимавших	принимать	PRTF	impf,tran,past,actv,plur,gent
+принимавших	принимать	PRTF	impf,tran,past,actv,anim,plur,accs
+принимавших	принимать	PRTF	impf,tran,past,actv,plur,loct
+плацебо	плацебо	NOUN	inan,neut,Fixd,sing,nomn
+плацебо	плацебо	NOUN	inan,neut,Fixd,sing,gent
+плацебо	плацебо	NOUN	inan,neut,Fixd,sing,datv
+плацебо	плацебо	NOUN	inan,neut,Fixd,sing,accs
+плацебо	плацебо	NOUN	inan,neut,Fixd,sing,ablt
+плацебо	плацебо	NOUN	inan,neut,Fixd,sing,loct
+плацебо	плацебо	NOUN	inan,neut,Fixd,plur,nomn
+плацебо	плацебо	NOUN	inan,neut,Fixd,plur,gent
+плацебо	плацебо	NOUN	inan,neut,Fixd,plur,datv
+плацебо	плацебо	NOUN	inan,neut,Fixd,plur,accs
+плацебо	плацебо	NOUN	inan,neut,Fixd,plur,ablt
+плацебо	плацебо	NOUN	inan,neut,Fixd,plur,loct
+.	.	PNCT	
+высокий	высокий	ADJF	Qual,masc,sing,nomn
+высокий	высокий	ADJF	Qual,inan,masc,sing,accs
+уровень	уровень	NOUN	inan,masc,sing,nomn
+уровень	уровень	NOUN	inan,masc,sing,accs
+эстрогена	эстроген	NOUN	inan,masc,sing,gent
+и	и	CONJ	
+низкий	низкий	ADJF	Qual,masc,sing,nomn
+низкий	низкий	ADJF	Qual,inan,masc,sing,accs
+прогестерона	прогестерон	NOUN	inan,masc,sing,gent
+могут	мочь	VERB	impf,intr,plur,3per,pres,indc
+привести	привести	INFN	perf,tran
+к	к	PREP	
+предменструальному	предменструальный	ADJF	masc,sing,datv
+предменструальному	предменструальный	ADJF	neut,sing,datv
+синдрому	синдром	NOUN	inan,masc,sing,datv
+(	(	PNCT	
+пмс	пмс	UNKN	
+)	)	PNCT	
+с	с	PREP	
+цикличной	цикличный	ADJF	Qual,femn,sing,gent
+цикличной	цикличный	ADJF	Qual,femn,sing,datv
+цикличной	цикличный	ADJF	Qual,femn,sing,ablt
+цикличной	цикличный	ADJF	Qual,femn,sing,loct
+депрессией	депрессия	NOUN	inan,femn,sing,ablt
+и	и	CONJ	
+беспокойством	беспокойство	NOUN	inan,neut,sing,ablt
+.	.	PNCT	
+иногда	иногда	ADVB	
+колебания	колебание	NOUN	inan,neut,sing,gent
+колебания	колебание	NOUN	inan,neut,plur,nomn
+колебания	колебание	NOUN	inan,neut,plur,accs
+настроения	настроение	NOUN	inan,neut,sing,gent
+настроения	настроение	NOUN	inan,neut,plur,nomn
+настроения	настроение	NOUN	inan,neut,plur,accs
+и	и	CONJ	
+депрессия	депрессия	NOUN	inan,femn,sing,nomn
+могут	мочь	VERB	impf,intr,plur,3per,pres,indc
+быть	быть	INFN	impf,intr
+результатом	результат	NOUN	inan,masc,sing,ablt
+слишком	слишком	ADVB	
+большого	большой	ADJF	Qual,neut,sing,gent
+большого	большой	ADJF	Qual,masc,sing,gent
+большого	большой	ADJF	Qual,anim,masc,sing,accs
+стресса	стресс	NOUN	inan,masc,sing,gent
+и	и	CONJ	
+истощения	истощение	NOUN	inan,neut,sing,gent
+истощения	истощение	NOUN	inan,neut,plur,nomn
+истощения	истощение	NOUN	inan,neut,plur,accs
+надпочечников	надпочечник	NOUN	inan,masc,plur,gent
+.	.	PNCT	
+первое	первое	NOUN	inan,neut,sing,nomn
+первое	первое	NOUN	inan,neut,sing,accs
+первое	один	ADJF	Anum,neut,sing,nomn
+первое	один	ADJF	Anum,neut,sing,accs
+описание	описание	NOUN	inan,neut,sing,accs
+описание	описание	NOUN	inan,neut,sing,nomn
+этого	это	NPRO	neut,sing,gent
+члена	член	NOUN	anim,masc,sing,accs
+члена	член	NOUN	inan,masc,sing,gent
+члена	член	NOUN	anim,masc,sing,gent
+семейства	семейство	NOUN	inan,neut,sing,gent
+семейства	семейство	NOUN	inan,neut,plur,nomn
+семейства	семейство	NOUN	inan,neut,plur,accs
+перечных	перечный	ADJF	Qual,plur,gent
+перечных	перечный	ADJF	Qual,anim,plur,accs
+перечных	перечный	ADJF	Qual,plur,loct
+появилось	появиться	VERB	perf,intr,neut,sing,past,indc
+в	в	PREP	
+западных	западный	ADJF	Qual,plur,gent
+западных	западный	ADJF	Qual,plur,loct
+западных	западный	ADJF	Qual,anim,plur,accs
+странах	страна	NOUN	inan,femn,plur,loct
+после	после	PREP	
+после	после	ADVB	
+после	посол	NOUN	anim,masc,sing,loct
+знаменитых	знаменитый	ADJF	Qual,plur,gent
+знаменитых	знаменитый	ADJF	Qual,plur,loct
+знаменитых	знаменитый	ADJF	Qual,anim,plur,accs
+рейдов	рейд	NOUN	inan,masc,plur,gent
+капитана	капитан	NOUN	anim,masc,sing,gent
+капитана	капитан	NOUN	anim,masc,sing,accs
+джеймса	джеймс	NOUN	anim,masc,Name,sing,gent
+джеймса	джеймс	NOUN	anim,masc,Name,sing,accs
+кука	кук	NOUN	anim,masc,Sgtm,Surn,sing,gent
+кука	кук	NOUN	anim,masc,Sgtm,Surn,sing,accs
+в	в	PREP	
+южные	южный	ADJF	Qual,plur,nomn
+южные	южный	ADJF	Qual,inan,plur,accs
+моря	море	NOUN	inan,neut,sing,gent
+моря	морить	GRND	impf,tran,pres
+моря	море	NOUN	inan,neut,plur,nomn
+моря	море	NOUN	inan,neut,plur,accs
+.	.	PNCT	
+согласно	согласно	PREP	
+согласно	согласно	ADVB	
+согласно	согласный	ADJS	Qual,neut,sing
+данным	данные	NOUN	inan,GNdr,Pltm,plur,datv
+данным	дать	PRTF	perf,tran,past,pssv,masc,sing,ablt
+данным	дать	PRTF	perf,tran,past,pssv,neut,sing,ablt
+данным	дать	PRTF	perf,tran,past,pssv,plur,datv
+данным	данный	ADJF	Apro,masc,sing,ablt
+данным	данный	ADJF	Apro,neut,sing,ablt
+данным	данный	ADJF	Apro,plur,datv
+национального	национальный	ADJF	neut,sing,gent
+национального	национальный	ADJF	masc,sing,gent
+национального	национальный	ADJF	anim,masc,sing,accs
+аутистического	аутистический	ADJF	masc,sing,gent
+аутистического	аутистический	ADJF	anim,masc,sing,accs
+аутистического	аутистический	ADJF	neut,sing,gent
+аутистического	аутистический	NOUN	anim,masc,Sgtm,Surn,sing,gent
+аутистического	аутистический	NOUN	anim,masc,Sgtm,Surn,sing,accs
+общества	общество	NOUN	inan,neut,sing,gent
+частота	частота	NOUN	inan,femn,sing,nomn
+аутизма	аутизм	NOUN	inan,masc,sing,gent
+сейчас	сейчас	ADVB	
+может	мочь	VERB	impf,intr,sing,3per,pres,indc
+может	может	CONJ	Prnt
+превышать	превышать	INFN	impf,tran
+1	1	NUMB	intg
+случай	случай	NOUN	inan,masc,sing,nomn
+случай	случай	NOUN	inan,masc,sing,accs
+случай	случать	VERB	impf,tran,sing,impr,excl
+на	на	PREP	
+каждые	каждый	ADJF	Apro,inan,plur,accs
+каждые	каждый	ADJF	Apro,plur,nomn
+100	100	NUMB	intg
+детей	ребёнок	NOUN	anim,masc,plur,gent
+детей	ребёнок	NOUN	anim,masc,plur,accs
+.	.	PNCT	
+конечная	конечный	ADJF	Qual,femn,sing,nomn
+цель	цель	NOUN	inan,femn,sing,nomn
+цель	цель	NOUN	inan,femn,sing,accs
+цель	целить	VERB	impf,intr,sing,impr,excl
+математики	математика	NOUN	inan,femn,sing,gent
+математики	математик	NOUN	anim,masc,plur,nomn
+математики	математика	NOUN	inan,femn,plur,nomn
+математики	математика	NOUN	inan,femn,plur,accs
+—	—	PNCT	
+вообще	вообще	ADVB	
+вообще	вообще	CONJ	Prnt
+избавиться	избавиться	INFN	perf,intr
+от	от	PREP	
+необходимости	необходимость	NOUN	inan,femn,sing,loct
+необходимости	необходимость	NOUN	inan,femn,sing,gent
+необходимости	необходимость	NOUN	inan,femn,sing,datv
+необходимости	необходимость	NOUN	inan,femn,plur,nomn
+необходимости	необходимость	NOUN	inan,femn,plur,accs
+о	о	PREP	
+чем-либо	что-либо	NPRO	neut,sing,ablt
+чём-либо	что-либо	NPRO	neut,sing,loct
+думать	думать	INFN	impf,intr
+думать	думать	INFN	impf,tran
+.	.	PNCT	
+в	в	PREP	
+том-то	тот-то	ADJF	Apro,masc,sing,loct
+том-то	тот-то	ADJF	Apro,neut,sing,loct
+и	и	CONJ	
+дело	дело	NOUN	inan,neut,sing,nomn
+дело	дело	NOUN	inan,neut,sing,accs
+дело	деть	VERB	perf,tran,neut,sing,past,indc
+,	,	PNCT	
+что	что	CONJ	
+что	что	NPRO	neut,sing,accs
+что	что	NPRO	neut,sing,nomn
+что	что	PRCL	
+что	что	ADVB	Ques
+,	,	PNCT	
+кроме	кроме	PREP	
+действительных	действительный	ADJF	Qual,plur,loct
+действительных	действительный	ADJF	Qual,plur,gent
+действительных	действительный	ADJF	Qual,anim,plur,accs
+чисел	число	NOUN	inan,neut,plur,gent
+,	,	PNCT	
+достаточно	достаточно	ADVB	Prdx
+изобрести	изобрести	INFN	perf,tran
+только	только	PRCL	
+только	только	CONJ	
+одно	один	ADJF	Apro,neut,sing,accs
+одно	один	ADJF	Apro,neut,sing,nomn
+число	число	NOUN	inan,neut,sing,nomn
+число	число	NOUN	inan,neut,sing,accs
+—	—	PNCT	
+квадратный	квадратный	ADJF	Qual,masc,sing,nomn
+квадратный	квадратный	ADJF	Qual,inan,masc,sing,accs
+корень	корень	NOUN	inan,masc,sing,nomn
+корень	корень	NOUN	inan,masc,sing,accs
+из	из	PREP	
+—1	—1	UNKN	
+,	,	PNCT	
+после	после	PREP	
+после	после	ADVB	
+после	посол	NOUN	anim,masc,sing,loct
+этого	это	NPRO	neut,sing,gent
+можно	можно	PRED	pres
+решить	решить	INFN	perf,tran
+любое	любой	ADJF	Apro,neut,sing,accs
+любое	любой	ADJF	Apro,neut,sing,nomn
+алгебраическое	алгебраический	ADJF	neut,sing,nomn
+алгебраическое	алгебраический	ADJF	neut,sing,accs
+уравнение	уравнение	NOUN	inan,neut,sing,accs
+уравнение	уравнение	NOUN	inan,neut,sing,nomn
+]	]	PNCT	
+возможные	возможный	ADJF	Qual,plur,nomn
+возможные	возможный	ADJF	Qual,inan,plur,accs
+состояния	состояние	NOUN	inan,neut,sing,gent
+электронов	электрон	NOUN	inan,masc,plur,gent
+определяются	определяться	VERB	impf,intr,plur,3per,pres,indc
+различными	различный	ADJF	Qual,plur,ablt
+энергетическими	энергетический	ADJF	plur,ablt
+подуровнями	подуровень	NOUN	inan,masc,plur,ablt
+,	,	PNCT	
+которые	который	ADJF	Apro,Subx,Anph,plur,nomn
+которые	который	ADJF	Apro,Subx,Anph,inan,plur,accs
+носят	носить	VERB	impf,tran,plur,3per,pres,indc
+название	название	NOUN	inan,neut,sing,nomn
+название	название	NOUN	inan,neut,sing,accs
+орбиталей	орбиталь	NOUN	inan,femn,plur,gent
+.	.	PNCT	
+указанный	указанный	ADJF	Qual,masc,sing,nomn
+указанный	указанный	ADJF	Qual,inan,masc,sing,accs
+указанный	указать	PRTF	perf,tran,past,pssv,masc,sing,nomn
+указанный	указать	PRTF	perf,tran,past,pssv,inan,masc,sing,accs
+выше	выше	ADVB	
+выше	высокий	COMP	Qual
+выше	выше	PREP	
+выше	выша	NOUN	inan,femn,Sgtm,Geox,sing,datv
+выше	выша	NOUN	inan,femn,Sgtm,Geox,sing,loct
+вызов	вызов	NOUN	inan,masc,sing,nomn
+вызов	вызов	NOUN	inan,masc,sing,accs
+функции	функция	NOUN	inan,femn,sing,gent
+функции	функция	NOUN	inan,femn,sing,loct
+функции	функция	NOUN	inan,femn,plur,nomn
+функции	функция	NOUN	inan,femn,sing,datv
+функции	функция	NOUN	inan,femn,plur,accs
+вернёт	вернуть	VERB	perf,tran,sing,3per,futr,indc
+все	весь	ADJF	Apro,plur,nomn
+всё	весь	ADJF	Apro,neut,sing,nomn
+все	весь	ADJF	Apro,inan,plur,accs
+всё	всё	ADVB	
+всё	весь	ADJF	Apro,neut,sing,accs
+snmp	snmp	LATN	
+объекты	объект	NOUN	inan,masc,plur,accs
+объекты	объект	NOUN	inan,masc,plur,nomn
+из	из	PREP	
+snmp	snmp	LATN	
+агента	агент	NOUN	inan,masc,sing,gent
+агента	агент	NOUN	anim,masc,sing,gent
+агента	агент	NOUN	anim,masc,sing,accs
+,	,	PNCT	
+напущенного	напустить	PRTF	perf,tran,past,pssv,masc,sing,gent
+напущенного	напустить	PRTF	perf,tran,past,pssv,anim,masc,sing,accs
+напущенного	напустить	PRTF	perf,tran,past,pssv,neut,sing,gent
+на	на	PREP	
+локальном	локальный	ADJF	Qual,masc,sing,loct
+локальном	локальный	ADJF	Qual,neut,sing,loct
+хосте	хост	NOUN	inan,masc,sing,loct
+.	.	PNCT	
+эта	этот	ADJF	Apro,Subx,Anph,femn,sing,nomn
+группа	группа	NOUN	inan,femn,sing,nomn
+включает	включать	VERB	impf,tran,sing,3per,pres,indc
+щелочные	щелочной	ADJF	plur,nomn
+щелочные	щелочной	ADJF	inan,plur,accs
+металлы	металл	NOUN	inan,masc,plur,nomn
+металлы	металл	NOUN	inan,masc,plur,accs
+натрий	натрий	NOUN	inan,masc,sing,nomn
+натрий	натрий	NOUN	inan,masc,sing,accs
+(	(	PNCT	
+na	na	LATN	
+)	)	PNCT	
+и	и	CONJ	
+калий	калия	NOUN	anim,femn,Name,plur,gent
+калий	калия	NOUN	anim,femn,Name,plur,accs
+калий	калий	NOUN	inan,masc,sing,nomn
+калий	калий	NOUN	inan,masc,sing,accs
+(	(	PNCT	
+к	к	PREP	
+)	)	PNCT	
+,	,	PNCT	
+щёлочноземельные	щёлочноземельный	ADJF	plur,nomn
+щёлочноземельные	щёлочноземельный	ADJF	inan,plur,accs
+металлы	металл	NOUN	inan,masc,plur,nomn
+металлы	металл	NOUN	inan,masc,plur,accs
+магний	магний	NOUN	inan,masc,sing,nomn
+магний	магний	NOUN	inan,masc,sing,accs
+(	(	PNCT	
+мg	мg	UNKN	
+)	)	PNCT	
+и	и	CONJ	
+кальций	кальций	NOUN	inan,masc,sing,nomn
+кальций	кальций	NOUN	inan,masc,sing,accs
+(	(	PNCT	
+са	са	UNKN	
+)	)	PNCT	
+.	.	PNCT	
+это	это	PRCL	
+это	это	NPRO	neut,sing,nomn
+это	это	NPRO	neut,sing,accs
+это	этот	ADJF	Apro,Subx,Anph,neut,sing,accs
+это	этот	ADJF	Apro,Subx,Anph,neut,sing,nomn
+сразу	сразу	ADVB	
+говорит	говорить	VERB	impf,tran,sing,3per,pres,indc
+нам	мы	NPRO	1per,plur,datv
+,	,	PNCT	
+что	что	CONJ	
+что	что	NPRO	neut,sing,accs
+что	что	NPRO	neut,sing,nomn
+что	что	PRCL	
+что	что	ADVB	Ques
+такое	такой	ADJF	Apro,neut,sing,nomn
+такое	такой	ADJF	Apro,neut,sing,accs
+момент	момент	NOUN	inan,masc,sing,accs
+момент	момент	NOUN	inan,masc,sing,nomn
+количественно	количественно	ADVB	
+количественно	количественный	ADJS	neut,sing
+.	.	PNCT	
+собачка	собачка	NOUN	inan,femn,sing,nomn
+собачка	собачка	NOUN	anim,femn,sing,nomn
+нужна	нужный	ADJS	Qual,femn,sing
+к	к	PREP	
+празднику	праздник	NOUN	inan,masc,sing,datv
+!	!	PNCT	
+он	он	NPRO	masc,3per,Anph,sing,nomn
+полагал	полагать	VERB	impf,tran,masc,sing,past,indc
+,	,	PNCT	
+что	что	CONJ	
+что	что	NPRO	neut,sing,accs
+что	что	NPRO	neut,sing,nomn
+что	что	PRCL	
+что	что	ADVB	Ques
+римлян	римляна	NOUN	anim,femn,Name,plur,gent
+римлян	римляна	NOUN	anim,femn,Name,plur,accs
+римлян	римлянин	NOUN	anim,masc,plur,gent
+римлян	римлянин	NOUN	anim,masc,plur,accs
+сгубило	сгубить	VERB	perf,tran,neut,sing,past,indc
+избыточное	избыточный	ADJF	Qual,neut,sing,nomn
+избыточное	избыточный	ADJF	Qual,neut,sing,accs
+честолюбие	честолюбие	NOUN	inan,neut,sing,nomn
+честолюбие	честолюбие	NOUN	inan,neut,sing,accs
+.	.	PNCT	
+енл-1	енл-1	UNKN	
+получают	получать	VERB	impf,tran,plur,3per,pres,indc
+общенациональные	общенациональный	ADJF	plur,nomn
+общенациональные	общенациональный	ADJF	inan,plur,accs
+и	и	CONJ	
+крупные	крупный	ADJF	Qual,plur,nomn
+крупные	крупный	ADJF	Qual,inan,plur,accs
+региональные	региональный	ADJF	inan,plur,accs
+региональные	региональный	ADJF	plur,nomn
+газеты	газета	NOUN	inan,femn,sing,gent
+и	и	CONJ	
+телекомпании	телекомпания	NOUN	inan,femn,sing,gent
+телекомпании	телекомпания	NOUN	inan,femn,sing,datv
+телекомпании	телекомпания	NOUN	inan,femn,sing,loct
+телекомпании	телекомпания	NOUN	inan,femn,plur,nomn
+телекомпании	телекомпания	NOUN	inan,femn,plur,accs
+,	,	PNCT	
+агентства	агентство	NOUN	inan,neut,sing,gent
+,	,	PNCT	
+иностранные	иностранный	ADJF	plur,nomn
+иностранные	иностранный	ADJF	inan,plur,accs
+дипломатические	дипломатический	ADJF	plur,nomn
+дипломатические	дипломатический	ADJF	inan,plur,accs
+представительства	представительство	NOUN	inan,neut,sing,gent
+представительства	представительство	NOUN	inan,neut,plur,nomn
+представительства	представительство	NOUN	inan,neut,plur,accs
+в	в	PREP	
+россии	россия	NOUN	inan,femn,Sgtm,Geox,sing,gent
+россии	россия	NOUN	inan,femn,Sgtm,Geox,sing,loct
+россии	россия	NOUN	inan,femn,Sgtm,Geox,sing,datv
+.	.	PNCT	
+телевизионные	телевизионный	ADJF	plur,nomn
+телевизионные	телевизионный	ADJF	inan,plur,accs
+web-технологии	web-технология	NOUN	inan,femn,sing,gent
+web-технологии	web-технология	NOUN	inan,femn,sing,loct
+web-технологии	web-технология	NOUN	inan,femn,sing,datv
+web-технологии	web-технология	NOUN	inan,femn,plur,nomn
+web-технологии	web-технология	NOUN	inan,femn,plur,accs
+развиваются	развиваться	VERB	impf,intr,plur,3per,pres,indc
+в	в	PREP	
+нашей	наш	ADJF	Apro,femn,sing,gent
+нашей	наш	ADJF	Apro,femn,sing,datv
+нашей	наш	ADJF	Apro,femn,sing,ablt
+нашей	наш	ADJF	Apro,femn,sing,loct
+нашей	нашить	VERB	perf,tran,sing,impr,excl
+стране	страна	NOUN	inan,femn,sing,loct
+стране	страна	NOUN	inan,femn,sing,datv
+с	с	PREP	
+некоторым	некоторые	NPRO	plur,datv
+некоторым	некоторый	ADJF	Apro,masc,sing,ablt
+некоторым	некоторый	ADJF	Apro,neut,sing,ablt
+некоторым	некоторый	ADJF	Apro,plur,datv
+опозданием	опоздание	NOUN	inan,neut,sing,ablt
+.	.	PNCT	
+недели	неделя	NOUN	inan,femn,sing,gent
+через	через	PREP	
+две-три	два-три	NUMR	femn,nomn
+две-три	два-три	NUMR	inan,femn,accs
+две-три	две-три	NUMR	inan,accs
+две-три	две-три	NUMR	nomn
+две-три	две-тереть	VERB	impf,tran,sing,impr,excl
+,	,	PNCT	
+не	не	PRCL	
+раньше	ранний	COMP	
+.	.	PNCT	
+такой	такой	ADJF	Apro,femn,sing,gent
+такой	такой	ADJF	Apro,inan,masc,sing,accs
+такой	такой	ADJF	Apro,masc,sing,nomn
+такой	такой	ADJF	Apro,femn,sing,ablt
+такой	такой	ADJF	Apro,femn,sing,datv
+такой	такой	ADJF	Apro,femn,sing,loct
+птицы	птица	NOUN	anim,femn,plur,nomn
+птицы	птица	NOUN	anim,femn,sing,gent
+не	не	PRCL	
+водилось	водиться	VERB	impf,intr,neut,sing,past,indc
+в	в	PREP	
+здешних	здешний	ADJF	Qual,plur,gent
+здешних	здешний	ADJF	Qual,anim,plur,accs
+здешних	здешний	ADJF	Qual,plur,loct
+местах	место	NOUN	inan,neut,plur,loct
+.	.	PNCT	
+здесь	здесь	ADVB	Prdx
+он	он	NPRO	masc,3per,Anph,sing,nomn
+не	не	PRCL	
+отказал	отказать	VERB	perf,tran,masc,sing,past,indc
+отказал	отказать	VERB	perf,intr,masc,sing,past,indc
+себе	себя	NPRO	Anph,sing,datv
+себе	себе	PRCL	
+себе	себя	NPRO	Anph,sing,loct
+в	в	PREP	
+удовольствии	удовольствие	NOUN	inan,neut,sing,loct
+заранее	заранее	ADVB	
+злорадно	злорадно	ADVB	
+злорадно	злорадный	ADJS	Qual,neut,sing
+вообразить	вообразить	INFN	perf,tran
+,	,	PNCT	
+как	как	CONJ	
+как	как	ADVB	Ques
+как	как	PRCL	
+будет	быть	VERB	impf,intr,sing,3per,futr,indc
+сходить	сходить	INFN	perf,intr
+сходить	сходить	INFN	impf,intr
+со	с	PREP	Vpre
+сцены	сцена	NOUN	inan,femn,sing,gent
+сцены	сцена	NOUN	inan,femn,plur,nomn
+сцены	сцена	NOUN	inan,femn,plur,accs
+премьер	премьер	NOUN	anim,masc,sing,nomn
+борзых	борзый	ADJF	Qual,plur,gent
+борзых	борзый	ADJF	Qual,anim,plur,accs
+борзых	борзый	ADJF	Qual,plur,loct
+борзых	борзая	NOUN	anim,femn,plur,gent
+борзых	борзая	NOUN	anim,femn,plur,accs
+борзых	борзая	NOUN	anim,femn,plur,loct
+борзых	борзой	ADJF	Qual,plur,gent
+борзых	борзой	ADJF	Qual,anim,plur,accs
+борзых	борзой	ADJF	Qual,plur,loct
+.	.	PNCT	
+булькнуло	булькнуть	VERB	perf,intr,neut,sing,past,indc
+,	,	PNCT	
+ёкнуло	ёкнуть	VERB	perf,intr,neut,sing,past,indc
+,	,	PNCT	
+порскнуло	порскнуть	VERB	perf,intr,neut,sing,past,indc
+,	,	PNCT	
+ахнуло	ахнуть	VERB	perf,tran,neut,sing,past,indc
+-	-	PNCT	
+лучше	хороший	COMP	Qual
+лучше	лучше	PRCL	
+гляди	глядеть	VERB	impf,tran,sing,impr,excl
+!	!	PNCT	
+-	-	PNCT	
+сзади	сзади	ADVB	
+сзади	сзади	PREP	
+,	,	PNCT	
+наверху	наверху	ADVB	
+,	,	PNCT	
+вниз	вниз	ADVB	
+головой	голова	NOUN	inan,femn,sing,ablt
+головой	голов	NOUN	anim,femn,Sgtm,Surn,sing,gent
+головой	голов	NOUN	anim,femn,Sgtm,Surn,sing,datv
+головой	голов	NOUN	anim,femn,Sgtm,Surn,sing,ablt
+головой	голов	NOUN	anim,femn,Sgtm,Surn,sing,loct
+головой	голова	NOUN	anim,masc,sing,ablt
+,	,	PNCT	
+пропало	пропасть	VERB	perf,intr,neut,sing,past,indc
+,	,	PNCT	
+нету	нету	PRED	pres
+!	!	PNCT	
+и	и	CONJ	
+пэт	пэт	UNKN	
+выла	выть	VERB	impf,intr,femn,sing,past,indc
+от	от	PREP	
+злости	злость	NOUN	inan,femn,sing,gent
+злости	злость	NOUN	inan,femn,sing,datv
+злости	злость	NOUN	inan,femn,sing,loct
+злости	злость	NOUN	inan,femn,plur,nomn
+злости	злость	NOUN	inan,femn,plur,accs
+:	:	PNCT	
+её	она	NPRO	femn,3per,Anph,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,plur,accs
+её	она	NPRO	femn,3per,Anph,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,nomn
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,datv
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,ablt
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,loct
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,nomn
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,datv
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,ablt
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,loct
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,nomn
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,datv
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,ablt
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,loct
+её	её	ADJF	Fixd,Apro,Anph,plur,nomn
+её	её	ADJF	Fixd,Apro,Anph,plur,gent
+её	её	ADJF	Fixd,Apro,Anph,plur,datv
+её	её	ADJF	Fixd,Apro,Anph,plur,ablt
+её	её	ADJF	Fixd,Apro,Anph,plur,loct
+грегори	грегори	NOUN	anim,masc,Sgtm,Fixd,Name,sing,nomn
+грегори	грегори	NOUN	anim,masc,Sgtm,Fixd,Name,sing,gent
+грегори	грегори	NOUN	anim,masc,Sgtm,Fixd,Name,sing,datv
+грегори	грегори	NOUN	anim,masc,Sgtm,Fixd,Name,sing,accs
+грегори	грегори	NOUN	anim,masc,Sgtm,Fixd,Name,sing,ablt
+грегори	грегори	NOUN	anim,masc,Sgtm,Fixd,Name,sing,loct
+--	--	PNCT	
+её	она	NPRO	femn,3per,Anph,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,plur,accs
+её	она	NPRO	femn,3per,Anph,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,nomn
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,datv
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,ablt
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,loct
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,nomn
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,datv
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,ablt
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,loct
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,nomn
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,datv
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,ablt
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,loct
+её	её	ADJF	Fixd,Apro,Anph,plur,nomn
+её	её	ADJF	Fixd,Apro,Anph,plur,gent
+её	её	ADJF	Fixd,Apro,Anph,plur,datv
+её	её	ADJF	Fixd,Apro,Anph,plur,ablt
+её	её	ADJF	Fixd,Apro,Anph,plur,loct
+лучезарный	лучезарный	ADJF	Qual,masc,sing,nomn
+лучезарный	лучезарный	ADJF	Qual,inan,masc,sing,accs
+муж	муж	NOUN	anim,masc,sing,nomn
+муж	муж	NOUN	anim,masc,sing,nomn
+--	--	PNCT	
+был	быть	VERB	impf,intr,masc,sing,past,indc
+тоже	тоже	ADVB	
+тоже	тоже	CONJ	
+тоже	тоже	PRCL	
+во	в	PREP	Vpre
+власти	власть	NOUN	inan,femn,sing,gent
+власти	власть	NOUN	inan,femn,sing,datv
+власти	власть	NOUN	inan,femn,sing,loct
+власти	власть	NOUN	inan,femn,plur,nomn
+власти	власть	NOUN	inan,femn,plur,accs
+этого	это	NPRO	neut,sing,gent
+всемогущего	всемогущий	ADJF	Qual,masc,sing,gent
+всемогущего	всемогущий	ADJF	Qual,anim,masc,sing,accs
+всемогущего	всемогущий	ADJF	Qual,neut,sing,gent
+микрооргазма	микрооргазм	NOUN	inan,masc,sing,gent
+.	.	PNCT	
+он	он	NPRO	masc,3per,Anph,sing,nomn
+засыпал	засыпать	VERB	perf,tran,masc,sing,past,indc
+засыпал	засыпать	VERB	impf,intr,masc,sing,past,indc
+засыпал	засыпать	VERB	impf,tran,masc,sing,past,indc
+,	,	PNCT	
+ухватившись	ухватиться	GRND	perf,intr,past,V-sh
+за	за	PREP	
+её	она	NPRO	femn,3per,Anph,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,plur,accs
+её	она	NPRO	femn,3per,Anph,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,nomn
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,datv
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,ablt
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,loct
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,nomn
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,datv
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,ablt
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,loct
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,nomn
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,datv
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,ablt
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,loct
+её	её	ADJF	Fixd,Apro,Anph,plur,nomn
+её	её	ADJF	Fixd,Apro,Anph,plur,gent
+её	её	ADJF	Fixd,Apro,Anph,plur,datv
+её	её	ADJF	Fixd,Apro,Anph,plur,ablt
+её	её	ADJF	Fixd,Apro,Anph,plur,loct
+пальцы	палец	NOUN	inan,masc,plur,nomn
+пальцы	палец	NOUN	inan,masc,plur,accs
+,	,	PNCT	
+и	и	CONJ	
+,	,	PNCT	
+оставляя	оставлять	GRND	impf,tran,pres
+его	он	NPRO	masc,3per,Anph,sing,accs
+его	оно	NPRO	neut,3per,Anph,sing,gent
+его	оно	NPRO	neut,3per,Anph,sing,accs
+его	его	ADJF	Fixd,Apro,Anph,femn,sing,gent
+его	его	ADJF	Fixd,Apro,Anph,neut,sing,gent
+его	его	ADJF	Fixd,Apro,Anph,plur,nomn
+его	его	ADJF	Fixd,Apro,Anph,plur,datv
+его	он	NPRO	masc,3per,Anph,sing,gent
+его	его	ADJF	Fixd,Apro,Anph,masc,sing,nomn
+его	его	ADJF	Fixd,Apro,Anph,masc,sing,gent
+его	его	ADJF	Fixd,Apro,Anph,masc,sing,datv
+его	его	ADJF	Fixd,Apro,Anph,masc,sing,accs
+его	его	ADJF	Fixd,Apro,Anph,masc,sing,ablt
+его	его	ADJF	Fixd,Apro,Anph,masc,sing,loct
+его	его	ADJF	Fixd,Apro,Anph,femn,sing,nomn
+его	его	ADJF	Fixd,Apro,Anph,femn,sing,datv
+его	его	ADJF	Fixd,Apro,Anph,femn,sing,accs
+его	его	ADJF	Fixd,Apro,Anph,femn,sing,ablt
+его	его	ADJF	Fixd,Apro,Anph,femn,sing,loct
+его	его	ADJF	Fixd,Apro,Anph,neut,sing,nomn
+его	его	ADJF	Fixd,Apro,Anph,neut,sing,datv
+его	его	ADJF	Fixd,Apro,Anph,neut,sing,accs
+его	его	ADJF	Fixd,Apro,Anph,neut,sing,ablt
+его	его	ADJF	Fixd,Apro,Anph,neut,sing,loct
+его	его	ADJF	Fixd,Apro,Anph,plur,gent
+его	его	ADJF	Fixd,Apro,Anph,plur,accs
+его	его	ADJF	Fixd,Apro,Anph,plur,ablt
+его	его	ADJF	Fixd,Apro,Anph,plur,loct
+,	,	PNCT	
+надо	надо	PRED	pres
+надо	над	PREP	Vpre
+было	быть	VERB	impf,intr,neut,sing,past,indc
+с	с	PREP	
+величайшей	великий	ADJF	Supr,femn,sing,gent
+величайшей	великий	ADJF	Supr,femn,sing,datv
+величайшей	великий	ADJF	Supr,femn,sing,ablt
+величайшей	великий	ADJF	Supr,femn,sing,loct
+осторожностью	осторожность	NOUN	inan,femn,sing,ablt
+высвобождать	высвобождать	INFN	impf,tran
+руку	рука	NOUN	inan,femn,sing,accs
+,	,	PNCT	
+чтобы	чтобы	CONJ	
+чтобы	чтобы	PRCL	
+он	он	NPRO	masc,3per,Anph,sing,nomn
+не	не	PRCL	
+проснулся	проснуться	VERB	perf,intr,masc,sing,past,indc
+с	с	PREP	
+криком	крик	NOUN	inan,masc,sing,ablt
+ужаса	ужас	NOUN	inan,masc,sing,gent
+.	.	PNCT	
+--	--	PNCT	
+хотел	хотеть	VERB	impf,tran,masc,sing,past,indc
+бы	бы	PRCL	
+добавить	добавить	INFN	perf,tran
+разумное	разумный	ADJF	Qual,neut,sing,nomn
+разумное	разумный	ADJF	Qual,neut,sing,accs
+:	:	PNCT	
+как	как	CONJ	
+как	как	ADVB	Ques
+как	как	PRCL	
+может	мочь	VERB	impf,intr,sing,3per,pres,indc
+может	может	CONJ	Prnt
+инженер	инженер	NOUN	anim,masc,sing,nomn
+что-нибудь	что-нибудь	NPRO	neut,sing,accs
+что-нибудь	что-нибудь	NPRO	neut,sing,nomn
+портить	портить	INFN	impf,tran
+?	?	PNCT	
+не	не	PRCL	
+сотвори	сотворить	VERB	perf,tran,sing,impr,excl
+себе	себя	NPRO	Anph,sing,datv
+себе	себе	PRCL	
+себе	себя	NPRO	Anph,sing,loct
+кумира	кумир	NOUN	anim,masc,sing,gent
+кумира	кумир	NOUN	anim,masc,sing,accs
+,	,	PNCT	
+но	но	CONJ	
+лишь	лишь	PRCL	
+лишь	лишь	CONJ	
+люби	любить	VERB	impf,tran,sing,impr,excl
+,	,	PNCT	
+как	как	CONJ	
+как	как	ADVB	Ques
+как	как	PRCL	
+я	я	NPRO	1per,sing,nomn
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,nomn
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,gent
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,datv
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,accs
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,ablt
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,loct
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,nomn
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,gent
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,datv
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,accs
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,ablt
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,loct
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,nomn
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,gent
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,datv
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,accs
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,ablt
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,loct
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,nomn
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,gent
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,datv
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,accs
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,ablt
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,loct
+люблю	любить	VERB	impf,tran,sing,1per,pres,indc
+--	--	PNCT	
+в	в	PREP	
+твоём	твой	ADJF	Apro,masc,sing,loct
+твоём	твой	ADJF	Apro,neut,sing,loct
+подобье	подобие	NOUN	inan,neut,sing,nomn,V-be
+подобье	подобие	NOUN	inan,neut,sing,accs,V-be
+подобье	подобие	NOUN	inan,neut,sing,loct,V-be
+подобье	подобье	NOUN	inan,neut,sing,nomn
+подобье	подобье	NOUN	inan,neut,sing,accs
+подобье	подобье	NOUN	inan,neut,sing,loct
+--	--	PNCT	
+образ	образ	NOUN	inan,masc,sing,nomn
+образ	образ	NOUN	inan,masc,sing,accs
+мира	мир	NOUN	inan,masc,sing,gent
+мира	миро	NOUN	inan,neut,sing,gent
+мира	миро	NOUN	inan,neut,plur,nomn
+мира	миро	NOUN	inan,neut,plur,accs
+,	,	PNCT	
+и	и	CONJ	
+не	не	PRCL	
+скорби	скорбь	NOUN	inan,femn,sing,gent
+скорби	скорбь	NOUN	inan,femn,sing,datv
+скорби	скорбь	NOUN	inan,femn,sing,loct
+скорби	скорбь	NOUN	inan,femn,plur,nomn
+скорби	скорбь	NOUN	inan,femn,plur,accs
+скорби	скорбеть	VERB	impf,intr,sing,impr,excl
+,	,	PNCT	
+как	как	CONJ	
+как	как	ADVB	Ques
+как	как	PRCL	
+я	я	NPRO	1per,sing,nomn
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,nomn
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,gent
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,datv
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,accs
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,ablt
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,loct
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,nomn
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,gent
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,datv
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,accs
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,ablt
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,loct
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,nomn
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,gent
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,datv
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,accs
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,ablt
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,loct
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,nomn
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,gent
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,datv
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,accs
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,ablt
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,loct
+скорблю	скорбеть	VERB	impf,intr,sing,1per,pres,indc
+.	.	PNCT	
+я	я	NPRO	1per,sing,nomn
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,nomn
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,gent
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,datv
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,accs
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,ablt
+я	я	NOUN	anim,masc,Sgtm,Name,Fixd,Abbr,Init,sing,loct
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,nomn
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,gent
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,datv
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,accs
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,ablt
+я	я	NOUN	anim,femn,Sgtm,Name,Fixd,Abbr,Init,sing,loct
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,nomn
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,gent
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,datv
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,accs
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,ablt
+я	я	NOUN	anim,masc,Sgtm,Patr,Fixd,Abbr,Init,sing,loct
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,nomn
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,gent
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,datv
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,accs
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,ablt
+я	я	NOUN	anim,femn,Sgtm,Patr,Fixd,Abbr,Init,sing,loct
+заставил	заставить	VERB	perf,tran,masc,sing,past,indc
+её	она	NPRO	femn,3per,Anph,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,plur,accs
+её	она	NPRO	femn,3per,Anph,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,nomn
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,datv
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,ablt
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,loct
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,nomn
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,datv
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,ablt
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,loct
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,nomn
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,datv
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,ablt
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,loct
+её	её	ADJF	Fixd,Apro,Anph,plur,nomn
+её	её	ADJF	Fixd,Apro,Anph,plur,gent
+её	её	ADJF	Fixd,Apro,Anph,plur,datv
+её	её	ADJF	Fixd,Apro,Anph,plur,ablt
+её	её	ADJF	Fixd,Apro,Anph,plur,loct
+повторить	повторить	INFN	perf,tran
+задание	задание	NOUN	inan,neut,sing,nomn
+задание	задание	NOUN	inan,neut,sing,accs
+.	.	PNCT	
+тут	тут	ADVB	Dmns
+тут	тут	NOUN	inan,masc,sing,nomn
+тут	тут	NOUN	inan,masc,sing,accs
+тут	тута	NOUN	inan,femn,plur,gent
+на	на	PREP	
+кухню	кухня	NOUN	inan,femn,sing,accs
+явилась	явиться	VERB	perf,intr,femn,sing,past,indc
+майка	майк	NOUN	anim,masc,Name,sing,gent
+майка	майк	NOUN	anim,masc,Name,sing,accs
+майка	майка	NOUN	inan,femn,sing,nomn
+.	.	PNCT	
+--	--	PNCT	
+а	а	CONJ	
+вы	вы	NPRO	2per,plur,nomn
+разбудите	разбудить	VERB	perf,tran,plur,2per,futr,indc
+разбудите	разбудить	VERB	perf,tran,plur,impr,excl
+нас	мы	NPRO	1per,plur,gent
+нас	мы	NPRO	1per,plur,accs
+нас	мы	NPRO	1per,plur,loct
+,	,	PNCT	
+если	если	CONJ	
+новый	новый	ADJF	Qual,inan,masc,sing,accs
+новый	новый	ADJF	Qual,masc,sing,nomn
+цыплёнок	цыплёнок	NOUN	anim,masc,sing,nomn
+выведется	вывестись	VERB	perf,intr,sing,3per,futr,indc
+?	?	PNCT	
+но	но	CONJ	
+на	на	PREP	
+этот	этот	ADJF	Apro,Subx,Anph,inan,masc,sing,accs
+этот	этот	ADJF	Apro,Subx,Anph,masc,sing,nomn
+раз	раз	NOUN	inan,masc,sing,accs
+раз	раз	ADVB	
+раз	раз	CONJ	
+раз	раз	NOUN	inan,masc,sing,nomn
+раз	раз	NOUN	inan,masc,plur,gent
+его	он	NPRO	masc,3per,Anph,sing,accs
+его	оно	NPRO	neut,3per,Anph,sing,gent
+его	оно	NPRO	neut,3per,Anph,sing,accs
+его	его	ADJF	Fixd,Apro,Anph,femn,sing,gent
+его	его	ADJF	Fixd,Apro,Anph,neut,sing,gent
+его	его	ADJF	Fixd,Apro,Anph,plur,nomn
+его	его	ADJF	Fixd,Apro,Anph,plur,datv
+его	он	NPRO	masc,3per,Anph,sing,gent
+его	его	ADJF	Fixd,Apro,Anph,masc,sing,nomn
+его	его	ADJF	Fixd,Apro,Anph,masc,sing,gent
+его	его	ADJF	Fixd,Apro,Anph,masc,sing,datv
+его	его	ADJF	Fixd,Apro,Anph,masc,sing,accs
+его	его	ADJF	Fixd,Apro,Anph,masc,sing,ablt
+его	его	ADJF	Fixd,Apro,Anph,masc,sing,loct
+его	его	ADJF	Fixd,Apro,Anph,femn,sing,nomn
+его	его	ADJF	Fixd,Apro,Anph,femn,sing,datv
+его	его	ADJF	Fixd,Apro,Anph,femn,sing,accs
+его	его	ADJF	Fixd,Apro,Anph,femn,sing,ablt
+его	его	ADJF	Fixd,Apro,Anph,femn,sing,loct
+его	его	ADJF	Fixd,Apro,Anph,neut,sing,nomn
+его	его	ADJF	Fixd,Apro,Anph,neut,sing,datv
+его	его	ADJF	Fixd,Apro,Anph,neut,sing,accs
+его	его	ADJF	Fixd,Apro,Anph,neut,sing,ablt
+его	его	ADJF	Fixd,Apro,Anph,neut,sing,loct
+его	его	ADJF	Fixd,Apro,Anph,plur,gent
+его	его	ADJF	Fixd,Apro,Anph,plur,accs
+его	его	ADJF	Fixd,Apro,Anph,plur,ablt
+его	его	ADJF	Fixd,Apro,Anph,plur,loct
+совсем	совсем	ADVB	
+не	не	PRCL	
+было	быть	VERB	impf,intr,neut,sing,past,indc
+.	.	PNCT	
+--	--	PNCT	
+тартасов	тартас	NOUN	anim,masc,plur,gent
+тартасов	тартас	NOUN	anim,masc,plur,accs
+тартасов	тартасова	NOUN	anim,femn,plur,gent
+тартасов	тартасова	NOUN	anim,femn,plur,accs
+тартасов	тартас	NOUN	anim,masc,Name,plur,gent
+тартасов	тартас	NOUN	anim,masc,Name,plur,accs
+хитрец	хитрец	NOUN	anim,masc,sing,nomn
+.	.	PNCT	
+как	как	CONJ	
+как	как	ADVB	Ques
+как	как	PRCL	
+все	весь	ADJF	Apro,plur,nomn
+всё	весь	ADJF	Apro,neut,sing,nomn
+все	весь	ADJF	Apro,inan,plur,accs
+всё	всё	ADVB	
+всё	весь	ADJF	Apro,neut,sing,accs
+писатели	писатель	NOUN	anim,masc,plur,nomn
+...	...	PNCT	
+таков	таков	ADJS	Apro,masc,sing
+их	они	NPRO	3per,Anph,plur,gent
+их	они	NPRO	3per,Anph,plur,accs
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,nomn
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,accs
+их	их	ADJF	Fixd,Apro,Anph,plur,nomn
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,nomn
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,gent
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,datv
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,accs
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,ablt
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,loct
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,gent
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,datv
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,accs
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,ablt
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,loct
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,nomn
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,gent
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,datv
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,ablt
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,loct
+их	их	ADJF	Fixd,Apro,Anph,plur,gent
+их	их	ADJF	Fixd,Apro,Anph,plur,datv
+их	их	ADJF	Fixd,Apro,Anph,plur,accs
+их	их	ADJF	Fixd,Apro,Anph,plur,ablt
+их	их	ADJF	Fixd,Apro,Anph,plur,loct
+удел	удел	NOUN	inan,masc,sing,nomn
+удел	удел	NOUN	inan,masc,sing,accs
+.	.	PNCT	
+стояли	стоять	VERB	impf,intr,plur,past,indc
+в	в	PREP	
+кружок	кружок	NOUN	inan,masc,sing,nomn
+кружок	кружок	NOUN	inan,masc,sing,accs
+и	и	CONJ	
+по-честному	по-честному	ADVB	
+рассуждали	рассуждать	VERB	impf,intr,plur,past,indc
+.	.	PNCT	
+небо	небо	NOUN	inan,neut,sing,nomn
+небо	небо	NOUN	inan,neut,sing,accs
+,	,	PNCT	
+в	в	PREP	
+которое	который	ADJF	Apro,Subx,Anph,neut,sing,nomn
+которое	который	ADJF	Apro,Subx,Anph,neut,sing,accs
+можно	можно	PRED	pres
+глядеть	глядеть	INFN	impf,tran
+...	...	PNCT	
+задрав	задрать	GRND	perf,tran,past
+голову	голова	NOUN	inan,femn,sing,accs
+голову	голов	NOUN	anim,masc,Sgtm,Surn,sing,datv
+голову	голов	NOUN	anim,femn,Sgtm,Surn,sing,accs
+голову	голова	NOUN	anim,masc,sing,accs
+...	...	PNCT	
+идти	идти	INFN	impf,intr
+и	и	CONJ	
+думать	думать	INFN	impf,intr
+думать	думать	INFN	impf,tran
+о	о	PREP	
+синеве	синева	NOUN	inan,femn,Sgtm,sing,datv
+синеве	синева	NOUN	inan,femn,Sgtm,sing,loct
+.	.	PNCT	
+внеконфессиональное	внеконфессиональный	ADJF	neut,sing,nomn
+внеконфессиональное	внеконфессиональный	ADJF	neut,sing,accs
+государство	государство	NOUN	inan,neut,sing,nomn
+государство	государство	NOUN	inan,neut,sing,accs
+представляет	представлять	VERB	impf,tran,sing,3per,pres,indc
+собой	себя	NPRO	Anph,sing,ablt
+государство	государство	NOUN	inan,neut,sing,nomn
+государство	государство	NOUN	inan,neut,sing,accs
+,	,	PNCT	
+которое	который	ADJF	Apro,Subx,Anph,neut,sing,nomn
+которое	который	ADJF	Apro,Subx,Anph,neut,sing,accs
+сознательно	сознательно	ADVB	
+сознательно	сознательный	ADJS	Qual,neut,sing
+отстраняет	отстранять	VERB	impf,tran,sing,3per,pres,indc
+себя	себя	NPRO	Anph,sing,accs
+себя	себя	NPRO	Anph,sing,gent
+от	от	PREP	
+всего	всего	ADVB	
+всего	всего	PRCL	
+всего	весь	ADJF	Apro,masc,sing,gent
+всего	весь	ADJF	Apro,anim,masc,sing,accs
+всего	весь	ADJF	Apro,neut,sing,gent
+,	,	PNCT	
+что	что	CONJ	
+что	что	NPRO	neut,sing,accs
+что	что	NPRO	neut,sing,nomn
+что	что	PRCL	
+что	что	ADVB	Ques
+происходит	происходить	VERB	impf,intr,sing,3per,pres,indc
+в	в	PREP	
+лоне	лоно	NOUN	inan,neut,sing,loct
+лоне	лона	NOUN	anim,femn,Name,sing,datv
+лоне	лона	NOUN	anim,femn,Name,sing,loct
+религии	религия	NOUN	inan,femn,sing,datv
+религии	религия	NOUN	inan,femn,sing,gent
+религии	религия	NOUN	inan,femn,sing,loct
+религии	религия	NOUN	inan,femn,plur,nomn
+религии	религия	NOUN	inan,femn,plur,accs
+,	,	PNCT	
+позволяя	позволять	GRND	impf,tran,pres
+решать	решать	INFN	impf,tran
+эти	этот	ADJF	Apro,Subx,Anph,plur,nomn
+эти	этот	ADJF	Apro,Subx,Anph,inan,plur,accs
+вопросы	вопрос	NOUN	inan,masc,plur,accs
+вопросы	вопрос	NOUN	inan,masc,plur,nomn
+гражданскому	гражданский	ADJF	masc,sing,datv
+гражданскому	гражданский	ADJF	neut,sing,datv
+обществу	общество	NOUN	inan,neut,sing,datv
+.	.	PNCT	
+неуведомление	неуведомление	NOUN	inan,neut,sing,accs
+неуведомление	неуведомление	NOUN	inan,neut,sing,nomn
+или	или	CONJ	
+несвоевременное	несвоевременный	ADJF	neut,sing,nomn
+несвоевременное	несвоевременный	ADJF	neut,sing,accs
+уведомление	уведомление	NOUN	inan,neut,sing,accs
+уведомление	уведомление	NOUN	inan,neut,sing,nomn
+об	о	PREP	Vpre
+указанных	указанный	ADJF	Qual,plur,gent
+указанных	указанный	ADJF	Qual,anim,plur,accs
+указанных	указанный	ADJF	Qual,plur,loct
+указанных	указать	PRTF	perf,tran,past,pssv,plur,gent
+указанных	указать	PRTF	perf,tran,past,pssv,anim,plur,accs
+указанных	указать	PRTF	perf,tran,past,pssv,plur,loct
+обстоятельствах	обстоятельство	NOUN	inan,neut,plur,loct
+лишает	лишать	VERB	impf,tran,sing,3per,pres,indc
+стороны	сторона	NOUN	inan,femn,sing,gent
+права	право	NOUN	inan,neut,sing,gent
+права	правый	ADJS	Qual,femn,sing
+права	право	NOUN	inan,neut,plur,nomn
+права	право	NOUN	inan,neut,plur,accs
+ссылаться	ссылаться	INFN	impf,intr
+на	на	PREP	
+любые	любой	ADJF	Apro,plur,nomn
+любые	любой	ADJF	Apro,inan,plur,accs
+из	из	PREP	
+этих	этот	ADJF	Apro,Subx,Anph,plur,gent
+этих	этот	ADJF	Apro,Subx,Anph,plur,loct
+этих	этот	ADJF	Apro,Subx,Anph,anim,plur,accs
+обстоятельств	обстоятельство	NOUN	inan,neut,plur,gent
+и	и	CONJ	
+не	не	PRCL	
+освобождает	освобождать	VERB	impf,tran,sing,3per,pres,indc
+от	от	PREP	
+ответственности	ответственность	NOUN	inan,femn,sing,datv
+ответственности	ответственность	NOUN	inan,femn,sing,gent
+ответственности	ответственность	NOUN	inan,femn,sing,loct
+ответственности	ответственность	NOUN	inan,femn,plur,nomn
+ответственности	ответственность	NOUN	inan,femn,plur,accs
+по	по	PREP	
+настоящему	настоящий	ADJF	masc,sing,datv
+настоящему	настоящий	ADJF	neut,sing,datv
+настоящему	настоящее	NOUN	inan,neut,sing,datv
+договору	договор	NOUN	inan,masc,sing,datv
+.	.	PNCT	
+президиум	президиум	NOUN	inan,masc,sing,nomn
+президиум	президиум	NOUN	inan,masc,sing,accs
+высшего	высокий	ADJF	Supr,Qual,neut,sing,gent
+высшего	высокий	ADJF	Supr,Qual,masc,sing,gent
+высшего	высокий	ADJF	Supr,Qual,anim,masc,sing,accs
+арбитражного	арбитражный	ADJF	masc,sing,gent
+арбитражного	арбитражный	ADJF	anim,masc,sing,accs
+арбитражного	арбитражный	ADJF	neut,sing,gent
+суда	суд	NOUN	inan,masc,sing,gent
+рф	рф	NOUN	inan,femn,Sgtm,Fixd,Abbr,Geox,sing,gent
+рф	рф	NOUN	inan,femn,Sgtm,Fixd,Abbr,Geox,sing,loct
+рф	рф	NOUN	inan,femn,Sgtm,Fixd,Abbr,Geox,sing,nomn
+рф	рф	NOUN	inan,femn,Sgtm,Fixd,Abbr,Geox,sing,ablt
+рф	рф	NOUN	inan,femn,Sgtm,Fixd,Abbr,Geox,sing,datv
+рф	рф	NOUN	inan,femn,Sgtm,Fixd,Abbr,Geox,sing,accs
+в	в	PREP	
+информационном	информационный	ADJF	neut,sing,loct
+информационном	информационный	ADJF	masc,sing,loct
+письме	письмо	NOUN	inan,neut,sing,loct
+от	от	PREP	
+29	29	NUMB	intg
+сентября	сентябрь	NOUN	inan,masc,sing,gent
+1999	1999	NUMB	intg
+г	год	NOUN	inan,masc,Fixd,Abbr,sing,nomn
+г	год	NOUN	inan,masc,Fixd,Abbr,sing,gent
+г	год	NOUN	inan,masc,Fixd,Abbr,sing,datv
+г	год	NOUN	inan,masc,Fixd,Abbr,sing,accs
+г	год	NOUN	inan,masc,Fixd,Abbr,sing,ablt
+г	год	NOUN	inan,masc,Fixd,Abbr,sing,loct
+г	год	NOUN	inan,masc,Fixd,Abbr,plur,nomn
+г	год	NOUN	inan,masc,Fixd,Abbr,plur,gent
+г	год	NOUN	inan,masc,Fixd,Abbr,plur,datv
+г	год	NOUN	inan,masc,Fixd,Abbr,plur,accs
+г	год	NOUN	inan,masc,Fixd,Abbr,plur,ablt
+г	год	NOUN	inan,masc,Fixd,Abbr,plur,loct
+.	.	PNCT	
+№	№	UNKN	
+48	48	NUMB	intg
+``	``	UNKN	
+о	о	PREP	
+некоторых	некоторый	ADJF	Apro,plur,loct
+некоторых	некоторый	ADJF	Apro,plur,gent
+некоторых	некоторый	ADJF	Apro,anim,plur,accs
+некоторых	некоторые	NPRO	plur,gent
+некоторых	некоторые	NPRO	anim,plur,accs
+некоторых	некоторые	NPRO	plur,loct
+вопросах	вопрос	NOUN	inan,masc,plur,loct
+судебной	судебный	ADJF	Qual,femn,sing,gent
+судебной	судебный	ADJF	Qual,femn,sing,datv
+судебной	судебный	ADJF	Qual,femn,sing,ablt
+судебной	судебный	ADJF	Qual,femn,sing,loct
+практики	практика	NOUN	inan,femn,sing,gent
+практики	практик	NOUN	anim,masc,plur,nomn
+практики	практика	NOUN	inan,femn,plur,nomn
+практики	практика	NOUN	inan,femn,plur,accs
+,	,	PNCT	
+возникающих	возникать	PRTF	impf,intr,pres,actv,plur,gent
+возникающих	возникать	PRTF	impf,intr,pres,actv,anim,plur,accs
+возникающих	возникать	PRTF	impf,intr,pres,actv,plur,loct
+при	при	PREP	
+рассмотрении	рассмотрение	NOUN	inan,neut,sing,loct
+споров	споровый	ADJS	Qual,masc,sing
+споров	спор	NOUN	inan,masc,plur,gent
+споров	спороть	GRND	perf,tran,past
+,	,	PNCT	
+связанных	связанный	ADJF	Qual,plur,gent
+связанных	связанный	ADJF	Qual,anim,plur,accs
+связанных	связанный	ADJF	Qual,plur,loct
+связанных	связать	PRTF	perf,tran,past,pssv,plur,gent
+связанных	связать	PRTF	perf,tran,past,pssv,anim,plur,accs
+связанных	связать	PRTF	perf,tran,past,pssv,plur,loct
+с	с	PREP	
+договорами	договор	NOUN	inan,masc,plur,ablt
+на	на	PREP	
+оказание	оказание	NOUN	inan,neut,sing,accs
+оказание	оказание	NOUN	inan,neut,sing,nomn
+правовых	правовой	ADJF	plur,gent
+правовых	правовой	ADJF	anim,plur,accs
+правовых	правовой	ADJF	plur,loct
+услуг	услуга	NOUN	inan,femn,plur,gent
+''	''	PNCT	
+,	,	PNCT	
+отметил	отметить	VERB	perf,tran,masc,sing,past,indc
+,	,	PNCT	
+что	что	CONJ	
+что	что	NPRO	neut,sing,accs
+что	что	NPRO	neut,sing,nomn
+что	что	PRCL	
+что	что	ADVB	Ques
+не	не	PRCL	
+подлежат	подлежать	VERB	impf,intr,plur,3per,pres,indc
+удовлетворению	удовлетворение	NOUN	inan,neut,sing,datv
+требования	требование	NOUN	inan,neut,sing,gent
+требования	требование	NOUN	inan,neut,plur,nomn
+требования	требование	NOUN	inan,neut,plur,accs
+исполнителя	исполнитель	NOUN	anim,masc,sing,gent
+исполнителя	исполнитель	NOUN	anim,masc,sing,accs
+о	о	PREP	
+выплате	выплата	NOUN	inan,femn,sing,datv
+выплате	выплата	NOUN	inan,femn,sing,loct
+вознаграждения	вознаграждение	NOUN	inan,neut,sing,gent
+вознаграждения	вознаграждение	NOUN	inan,neut,plur,nomn
+вознаграждения	вознаграждение	NOUN	inan,neut,plur,accs
+,	,	PNCT	
+если	если	CONJ	
+истец	истец	NOUN	anim,masc,sing,nomn
+обосновывает	обосновывать	VERB	impf,tran,sing,3per,pres,indc
+их	они	NPRO	3per,Anph,plur,gent
+их	они	NPRO	3per,Anph,plur,accs
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,nomn
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,accs
+их	их	ADJF	Fixd,Apro,Anph,plur,nomn
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,nomn
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,gent
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,datv
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,accs
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,ablt
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,loct
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,gent
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,datv
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,accs
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,ablt
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,loct
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,nomn
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,gent
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,datv
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,ablt
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,loct
+их	их	ADJF	Fixd,Apro,Anph,plur,gent
+их	их	ADJF	Fixd,Apro,Anph,plur,datv
+их	их	ADJF	Fixd,Apro,Anph,plur,accs
+их	их	ADJF	Fixd,Apro,Anph,plur,ablt
+их	их	ADJF	Fixd,Apro,Anph,plur,loct
+условием	условие	NOUN	inan,neut,sing,ablt
+договора	договор	NOUN	inan,masc,sing,gent
+,	,	PNCT	
+ставящим	ставить	PRTF	impf,tran,pres,actv,masc,sing,ablt
+ставящим	ставить	PRTF	impf,tran,pres,actv,neut,sing,ablt
+ставящим	ставить	PRTF	impf,tran,pres,actv,plur,datv
+размер	размер	NOUN	inan,masc,sing,nomn
+размер	размер	NOUN	inan,masc,sing,accs
+оплаты	оплата	NOUN	inan,femn,sing,gent
+услуг	услуга	NOUN	inan,femn,plur,gent
+в	в	PREP	
+зависимость	зависимость	NOUN	inan,femn,sing,nomn
+зависимость	зависимость	NOUN	inan,femn,sing,accs
+от	от	PREP	
+решения	решение	NOUN	inan,neut,sing,gent
+суда	суд	NOUN	inan,masc,sing,gent
+или	или	CONJ	
+государственного	государственный	ADJF	neut,sing,gent
+государственного	государственный	ADJF	masc,sing,gent
+государственного	государственный	ADJF	anim,masc,sing,accs
+органа	орган	NOUN	inan,masc,sing,gent
+,	,	PNCT	
+которое	который	ADJF	Apro,Subx,Anph,neut,sing,nomn
+которое	который	ADJF	Apro,Subx,Anph,neut,sing,accs
+будет	быть	VERB	impf,intr,sing,3per,futr,indc
+принято	принять	PRTS	perf,past,pssv,neut,sing
+принято	принятый	ADJS	neut,sing
+в	в	PREP	
+будущем	будущее	NOUN	inan,neut,sing,loct
+будущем	будущий	ADJF	masc,sing,loct
+будущем	будущий	ADJF	neut,sing,loct
+.	.	PNCT	
+после	после	PREP	
+после	после	ADVB	
+после	посол	NOUN	anim,masc,sing,loct
+произнесения	произнесение	NOUN	inan,neut,sing,gent
+произнесения	произнесение	NOUN	inan,neut,plur,nomn
+произнесения	произнесение	NOUN	inan,neut,plur,accs
+речей	речь	NOUN	inan,femn,plur,gent
+всеми	весь	ADJF	Apro,plur,ablt
+лицами	лицо	NOUN	anim,neut,plur,ablt
+лицами	лицо	NOUN	inan,neut,plur,ablt
+,	,	PNCT	
+участвующими	участвовать	PRTF	impf,intr,pres,actv,plur,ablt
+в	в	PREP	
+деле	дело	NOUN	inan,neut,sing,loct
+,	,	PNCT	
+их	они	NPRO	3per,Anph,plur,gent
+их	они	NPRO	3per,Anph,plur,accs
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,nomn
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,accs
+их	их	ADJF	Fixd,Apro,Anph,plur,nomn
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,nomn
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,gent
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,datv
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,accs
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,ablt
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,loct
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,gent
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,datv
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,accs
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,ablt
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,loct
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,nomn
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,gent
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,datv
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,ablt
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,loct
+их	их	ADJF	Fixd,Apro,Anph,plur,gent
+их	их	ADJF	Fixd,Apro,Anph,plur,datv
+их	их	ADJF	Fixd,Apro,Anph,plur,accs
+их	их	ADJF	Fixd,Apro,Anph,plur,ablt
+их	их	ADJF	Fixd,Apro,Anph,plur,loct
+представителями	представитель	NOUN	anim,masc,plur,ablt
+они	они	NPRO	3per,Anph,plur,nomn
+могут	мочь	VERB	impf,intr,plur,3per,pres,indc
+выступить	выступить	INFN	perf,intr
+с	с	PREP	
+репликами	реплика	NOUN	inan,femn,plur,ablt
+в	в	PREP	
+связи	связь	NOUN	inan,femn,sing,loc2
+связи	связь	NOUN	inan,femn,sing,gent
+связи	связь	NOUN	inan,femn,sing,datv
+связи	связь	NOUN	inan,femn,sing,loct
+связи	связь	NOUN	inan,femn,plur,nomn
+связи	связь	NOUN	inan,femn,plur,accs
+со	с	PREP	Vpre
+сказанным	сказать	PRTF	perf,tran,past,pssv,masc,sing,ablt
+сказанным	сказать	PRTF	perf,tran,past,pssv,neut,sing,ablt
+сказанным	сказать	PRTF	perf,tran,past,pssv,plur,datv
+.	.	PNCT	
+протокол	протокол	NOUN	inan,masc,sing,accs
+протокол	протокол	NOUN	inan,masc,sing,nomn
+судебного	судебный	ADJF	Qual,neut,sing,gent
+судебного	судебный	ADJF	Qual,masc,sing,gent
+судебного	судебный	ADJF	Qual,anim,masc,sing,accs
+заседания	заседание	NOUN	inan,neut,sing,gent
+заседания	заседание	NOUN	inan,neut,plur,nomn
+заседания	заседание	NOUN	inan,neut,plur,accs
+или	или	CONJ	
+совершенного	совершенный	ADJF	Qual,masc,sing,gent
+совершенного	совершенный	ADJF	Qual,anim,masc,sing,accs
+совершенного	совершенный	ADJF	Qual,neut,sing,gent
+совершённого	совершить	PRTF	perf,tran,past,pssv,masc,sing,gent
+совершённого	совершить	PRTF	perf,tran,past,pssv,anim,masc,sing,accs
+совершённого	совершить	PRTF	perf,tran,past,pssv,neut,sing,gent
+вне	вне	PREP	
+вне	вне	ADVB	
+судебного	судебный	ADJF	Qual,neut,sing,gent
+судебного	судебный	ADJF	Qual,masc,sing,gent
+судебного	судебный	ADJF	Qual,anim,masc,sing,accs
+заседания	заседание	NOUN	inan,neut,sing,gent
+заседания	заседание	NOUN	inan,neut,plur,nomn
+заседания	заседание	NOUN	inan,neut,plur,accs
+отдельного	отдельный	ADJF	Qual,neut,sing,gent
+отдельного	отдельный	ADJF	Qual,masc,sing,gent
+отдельного	отдельный	ADJF	Qual,anim,masc,sing,accs
+процессуального	процессуальный	ADJF	neut,sing,gent
+процессуального	процессуальный	ADJF	masc,sing,gent
+процессуального	процессуальный	ADJF	anim,masc,sing,accs
+действия	действие	NOUN	inan,neut,sing,gent
+должен	должный	ADJS	masc,sing
+отражать	отражать	INFN	impf,tran
+все	весь	ADJF	Apro,plur,nomn
+всё	весь	ADJF	Apro,neut,sing,nomn
+все	весь	ADJF	Apro,inan,plur,accs
+всё	всё	ADVB	
+всё	весь	ADJF	Apro,neut,sing,accs
+существенные	существенный	ADJF	Qual,plur,nomn
+существенные	существенный	ADJF	Qual,inan,plur,accs
+сведения	сведение	NOUN	inan,neut,sing,gent
+сведения	сведение	NOUN	inan,neut,plur,nomn
+сведения	сведение	NOUN	inan,neut,plur,accs
+о	о	PREP	
+разбирательстве	разбирательство	NOUN	inan,neut,sing,loct
+дела	дело	NOUN	inan,neut,sing,gent
+или	или	CONJ	
+совершении	совершение	NOUN	inan,neut,sing,loct
+отдельного	отдельный	ADJF	Qual,neut,sing,gent
+отдельного	отдельный	ADJF	Qual,masc,sing,gent
+отдельного	отдельный	ADJF	Qual,anim,masc,sing,accs
+процессуального	процессуальный	ADJF	neut,sing,gent
+процессуального	процессуальный	ADJF	masc,sing,gent
+процессуального	процессуальный	ADJF	anim,masc,sing,accs
+действия	действие	NOUN	inan,neut,sing,gent
+.	.	PNCT	
+лицо	лицо	NOUN	inan,neut,sing,nomn
+лицо	лицо	NOUN	inan,neut,sing,accs
+лицо	лицо	NOUN	anim,neut,sing,nomn
+лицо	лицо	NOUN	anim,neut,sing,accs
+,	,	PNCT	
+представляющее	представлять	PRTF	impf,tran,pres,actv,neut,sing,nomn
+представляющее	представлять	PRTF	impf,tran,pres,actv,neut,sing,accs
+аудио-	аудио-	UNKN	
+и	и	CONJ	
+(	(	PNCT	
+или	или	CONJ	
+)	)	PNCT	
+видеозаписи	видеозапись	NOUN	inan,femn,sing,gent
+видеозаписи	видеозапись	NOUN	inan,femn,sing,datv
+видеозаписи	видеозапись	NOUN	inan,femn,sing,loct
+видеозаписи	видеозапись	NOUN	inan,femn,plur,nomn
+видеозаписи	видеозапись	NOUN	inan,femn,plur,accs
+на	на	PREP	
+электронном	электронный	ADJF	masc,sing,loct
+электронном	электронный	ADJF	neut,sing,loct
+или	или	CONJ	
+ином	иной	ADJF	Apro,neut,sing,loct
+ином	иной	ADJF	Apro,masc,sing,loct
+носителе	носитель	NOUN	inan,masc,sing,loct
+носителе	носитель	NOUN	anim,masc,sing,loct
+либо	либо	CONJ	
+либо	либо	PRCL	
+ходатайствующее	ходатайствовать	PRTF	impf,intr,pres,actv,neut,sing,nomn
+ходатайствующее	ходатайствовать	PRTF	impf,intr,pres,actv,neut,sing,accs
+об	о	PREP	Vpre
+их	они	NPRO	3per,Anph,plur,gent
+их	они	NPRO	3per,Anph,plur,accs
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,nomn
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,accs
+их	их	ADJF	Fixd,Apro,Anph,plur,nomn
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,nomn
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,gent
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,datv
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,accs
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,ablt
+их	их	ADJF	Fixd,Apro,Anph,masc,sing,loct
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,gent
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,datv
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,accs
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,ablt
+их	их	ADJF	Fixd,Apro,Anph,femn,sing,loct
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,nomn
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,gent
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,datv
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,ablt
+их	их	ADJF	Fixd,Apro,Anph,neut,sing,loct
+их	их	ADJF	Fixd,Apro,Anph,plur,gent
+их	их	ADJF	Fixd,Apro,Anph,plur,datv
+их	их	ADJF	Fixd,Apro,Anph,plur,accs
+их	их	ADJF	Fixd,Apro,Anph,plur,ablt
+их	их	ADJF	Fixd,Apro,Anph,plur,loct
+истребовании	истребование	NOUN	inan,neut,sing,loct
+,	,	PNCT	
+обязано	обязать	PRTS	perf,past,pssv,neut,sing
+обязано	обязанный	ADJS	Qual,neut,sing
+указать	указать	INFN	perf,tran
+,	,	PNCT	
+когда	когда	CONJ	
+когда	когда	ADVB	Ques
+,	,	PNCT	
+кем	кто	NPRO	masc,sing,ablt
+и	и	CONJ	
+в	в	PREP	
+каких	какой	ADJF	Apro,plur,loct
+каких	какой	ADJF	Apro,plur,gent
+каких	какой	ADJF	Apro,anim,plur,accs
+условиях	условие	NOUN	inan,neut,plur,loct
+осуществлялись	осуществляться	VERB	impf,intr,plur,past,indc
+записи	запись	NOUN	inan,femn,sing,gent
+записи	запись	NOUN	inan,femn,sing,loct
+записи	запись	NOUN	inan,femn,sing,datv
+записи	запись	NOUN	inan,femn,plur,nomn
+записи	запись	NOUN	inan,femn,plur,accs
+.	.	PNCT	
+решения	решение	NOUN	inan,neut,sing,gent
+нижестоящей	нижестоящий	ADJF	femn,sing,gent
+нижестоящей	нижестоящий	ADJF	femn,sing,datv
+нижестоящей	нижестоящий	ADJF	femn,sing,ablt
+нижестоящей	нижестоящий	ADJF	femn,sing,loct
+нижестоящей	нижестоящий	COMP	V-ej
+комиссии	комиссия	NOUN	inan,femn,sing,gent
+комиссии	комиссия	NOUN	inan,femn,sing,datv
+комиссии	комиссия	NOUN	inan,femn,sing,loct
+комиссии	комиссия	NOUN	inan,femn,plur,nomn
+комиссии	комиссия	NOUN	inan,femn,plur,accs
+по	по	PREP	
+проведению	проведение	NOUN	inan,neut,sing,datv
+референдума	референдум	NOUN	inan,masc,sing,gent
+российской	российский	ADJF	femn,sing,gent
+российской	российский	ADJF	femn,sing,loct
+российской	российский	ADJF	femn,sing,ablt
+российской	российский	ADJF	femn,sing,datv
+федерации	федерация	NOUN	inan,femn,sing,gent
+федерации	федерация	NOUN	inan,femn,sing,loct
+федерации	федерация	NOUN	inan,femn,sing,datv
+федерации	федерация	NOUN	inan,femn,plur,nomn
+федерации	федерация	NOUN	inan,femn,plur,accs
+могут	мочь	VERB	impf,intr,plur,3per,pres,indc
+быть	быть	INFN	impf,intr
+отменены	отменить	PRTS	perf,past,pssv,plur
+,	,	PNCT	
+а	а	CONJ	
+её	она	NPRO	femn,3per,Anph,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,plur,accs
+её	она	NPRO	femn,3per,Anph,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,nomn
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,datv
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,ablt
+её	её	ADJF	Fixd,Apro,Anph,masc,sing,loct
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,nomn
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,datv
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,ablt
+её	её	ADJF	Fixd,Apro,Anph,femn,sing,loct
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,nomn
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,gent
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,datv
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,accs
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,ablt
+её	её	ADJF	Fixd,Apro,Anph,neut,sing,loct
+её	её	ADJF	Fixd,Apro,Anph,plur,nomn
+её	её	ADJF	Fixd,Apro,Anph,plur,gent
+её	её	ADJF	Fixd,Apro,Anph,plur,datv
+её	её	ADJF	Fixd,Apro,Anph,plur,ablt
+её	её	ADJF	Fixd,Apro,Anph,plur,loct
+действия	действие	NOUN	inan,neut,sing,gent
+могут	мочь	VERB	impf,intr,plur,3per,pres,indc
+быть	быть	INFN	impf,intr
+приостановлены	приостановить	PRTS	perf,past,pssv,plur
+вышестоящей	вышестоящий	ADJF	femn,sing,gent
+вышестоящей	вышестоящий	ADJF	femn,sing,datv
+вышестоящей	вышестоящий	ADJF	femn,sing,ablt
+вышестоящей	вышестоящий	ADJF	femn,sing,loct
+вышестоящей	вышестоящий	COMP	V-ej
+комиссией	комиссия	NOUN	inan,femn,sing,ablt
+по	по	PREP	
+проведению	проведение	NOUN	inan,neut,sing,datv
+референдума	референдум	NOUN	inan,masc,sing,gent
+российской	российский	ADJF	femn,sing,gent
+российской	российский	ADJF	femn,sing,loct
+российской	российский	ADJF	femn,sing,ablt
+российской	российский	ADJF	femn,sing,datv
+федерации	федерация	NOUN	inan,femn,sing,gent
+федерации	федерация	NOUN	inan,femn,sing,loct
+федерации	федерация	NOUN	inan,femn,sing,datv
+федерации	федерация	NOUN	inan,femn,plur,nomn
+федерации	федерация	NOUN	inan,femn,plur,accs
+.	.	PNCT	
+решение	решение	NOUN	inan,neut,sing,accs
+решение	решение	NOUN	inan,neut,sing,nomn
+,	,	PNCT	
+принятое	принять	PRTF	perf,tran,past,pssv,neut,sing,nomn
+принятое	принять	PRTF	perf,tran,past,pssv,neut,sing,accs
+принятое	принятый	ADJF	neut,sing,nomn
+принятое	принятый	ADJF	neut,sing,accs
+на	на	PREP	
+референдуме	референдум	NOUN	inan,masc,sing,loct
+российской	российский	ADJF	femn,sing,gent
+российской	российский	ADJF	femn,sing,loct
+российской	российский	ADJF	femn,sing,ablt
+российской	российский	ADJF	femn,sing,datv
+федерации	федерация	NOUN	inan,femn,sing,gent
+федерации	федерация	NOUN	inan,femn,sing,loct
+федерации	федерация	NOUN	inan,femn,sing,datv
+федерации	федерация	NOUN	inan,femn,plur,nomn
+федерации	федерация	NOUN	inan,femn,plur,accs
+,	,	PNCT	
+является	являться	VERB	impf,intr,sing,3per,pres,indc
+общеобязательным	общеобязательный	ADJF	masc,sing,ablt
+общеобязательным	общеобязательный	ADJF	neut,sing,ablt
+общеобязательным	общеобязательный	ADJF	plur,datv
+и	и	CONJ	
+не	не	PRCL	
+нуждается	нуждаться	VERB	impf,intr,sing,3per,pres,indc
+в	в	PREP	
+дополнительном	дополнительный	ADJF	neut,sing,loct
+дополнительном	дополнительный	ADJF	masc,sing,loct
+утверждении	утверждение	NOUN	inan,neut,sing,loct
+.	.	PNCT	
+статья	статья	NOUN	inan,femn,sing,nomn
+86.3.3	86.3.3	UNKN	
+.	.	PNCT	
+обособленные	обособленный	ADJF	plur,nomn
+обособленные	обособленный	ADJF	inan,plur,accs
+обособленные	обособить	PRTF	perf,tran,past,pssv,plur,nomn
+обособленные	обособить	PRTF	perf,tran,past,pssv,inan,plur,accs
+водные	водный	ADJF	Qual,plur,nomn
+водные	водный	ADJF	Qual,inan,plur,accs
+объекты	объект	NOUN	inan,masc,plur,accs
+объекты	объект	NOUN	inan,masc,plur,nomn
+,	,	PNCT	
+находящиеся	находиться	PRTF	impf,intr,pres,actv,plur,nomn
+находящиеся	находиться	PRTF	impf,intr,pres,actv,inan,plur,accs
+в	в	PREP	
+собственности	собственность	NOUN	inan,femn,sing,gent
+собственности	собственность	NOUN	inan,femn,sing,loct
+собственности	собственность	NOUN	inan,femn,sing,datv
+собственности	собственность	NOUN	inan,femn,plur,nomn
+собственности	собственность	NOUN	inan,femn,plur,accs
+граждан	гражданин	NOUN	anim,masc,plur,gent
+граждан	гражданин	NOUN	anim,masc,plur,accs
+или	или	CONJ	
+юридических	юридический	ADJF	plur,gent
+юридических	юридический	ADJF	plur,loct
+юридических	юридический	ADJF	anim,plur,accs
+лиц	лицо	NOUN	anim,neut,plur,accs
+лиц	лицо	NOUN	inan,neut,plur,gent
+лиц	лицо	NOUN	anim,neut,plur,gent
+,	,	PNCT	
+в	в	PREP	
+установленном	установленный	ADJF	masc,sing,loct
+установленном	установленный	ADJF	neut,sing,loct
+установленном	установить	PRTF	perf,tran,past,pssv,masc,sing,loct
+установленном	установить	PRTF	perf,tran,past,pssv,neut,sing,loct
+порядке	порядок	NOUN	inan,masc,sing,loct
+могут	мочь	VERB	impf,intr,plur,3per,pres,indc
+использоваться	использоваться	INFN	impf,intr
+как	как	CONJ	
+как	как	ADVB	Ques
+как	как	PRCL	
+водные	водный	ADJF	Qual,plur,nomn
+водные	водный	ADJF	Qual,inan,plur,accs
+объекты	объект	NOUN	inan,masc,plur,accs
+объекты	объект	NOUN	inan,masc,plur,nomn
+общего	общий	ADJF	neut,sing,gent
+общего	общий	ADJF	masc,sing,gent
+общего	общий	ADJF	anim,masc,sing,accs
+пользования	пользование	NOUN	inan,neut,sing,gent
+только	только	PRCL	
+только	только	CONJ	
+при	при	PREP	
+условиях	условие	NOUN	inan,neut,plur,loct
+регистрации	регистрация	NOUN	inan,femn,sing,gent
+регистрации	регистрация	NOUN	inan,femn,sing,datv
+регистрации	регистрация	NOUN	inan,femn,sing,loct
+регистрации	регистрация	NOUN	inan,femn,plur,nomn
+регистрации	регистрация	NOUN	inan,femn,plur,accs
+данного	данный	ADJF	Apro,masc,sing,gent
+данного	дать	PRTF	perf,tran,past,pssv,masc,sing,gent
+данного	дать	PRTF	perf,tran,past,pssv,anim,masc,sing,accs
+данного	дать	PRTF	perf,tran,past,pssv,neut,sing,gent
+данного	данный	ADJF	Apro,anim,masc,sing,accs
+данного	данный	ADJF	Apro,neut,sing,gent
+ограничения	ограничение	NOUN	inan,neut,sing,gent
+ограничения	ограничение	NOUN	inan,neut,plur,nomn
+ограничения	ограничение	NOUN	inan,neut,plur,accs
+права	право	NOUN	inan,neut,sing,gent
+права	правый	ADJS	Qual,femn,sing
+права	право	NOUN	inan,neut,plur,nomn
+права	право	NOUN	inan,neut,plur,accs
+собственности	собственность	NOUN	inan,femn,sing,gent
+собственности	собственность	NOUN	inan,femn,sing,loct
+собственности	собственность	NOUN	inan,femn,sing,datv
+собственности	собственность	NOUN	inan,femn,plur,nomn
+собственности	собственность	NOUN	inan,femn,plur,accs
+на	на	PREP	
+обособленные	обособленный	ADJF	plur,nomn
+обособленные	обособленный	ADJF	inan,plur,accs
+обособленные	обособить	PRTF	perf,tran,past,pssv,plur,nomn
+обособленные	обособить	PRTF	perf,tran,past,pssv,inan,plur,accs
+водные	водный	ADJF	Qual,plur,nomn
+водные	водный	ADJF	Qual,inan,plur,accs
+объекты	объект	NOUN	inan,masc,plur,accs
+объекты	объект	NOUN	inan,masc,plur,nomn
+в	в	PREP	
+едином	единый	ADJF	Qual,masc,sing,loct
+едином	единый	ADJF	Qual,neut,sing,loct
+государственном	государственный	ADJF	masc,sing,loct
+государственном	государственный	ADJF	neut,sing,loct
+реестре	реестр	NOUN	inan,masc,sing,loct
+и	и	CONJ	
+выплаты	выплата	NOUN	inan,femn,sing,gent
+выплаты	выплата	NOUN	inan,femn,plur,nomn
+выплаты	выплата	NOUN	inan,femn,plur,accs
+вознаграждения	вознаграждение	NOUN	inan,neut,sing,gent
+вознаграждения	вознаграждение	NOUN	inan,neut,plur,nomn
+вознаграждения	вознаграждение	NOUN	inan,neut,plur,accs
+собственнику	собственник	NOUN	anim,masc,sing,datv
+.	.	PNCT	
+государственный	государственный	ADJF	masc,sing,nomn
+государственный	государственный	ADJF	inan,masc,sing,accs
+мониторинг	мониторинг	NOUN	inan,masc,sing,nomn
+мониторинг	мониторинг	NOUN	inan,masc,sing,accs
+водных	водный	ADJF	Qual,plur,gent
+водных	водный	ADJF	Qual,anim,plur,accs
+водных	водный	ADJF	Qual,plur,loct
+объектов	объект	NOUN	inan,masc,plur,gent
+ведётся	вестись	VERB	impf,intr,sing,3per,pres,indc,Impx
+специально	специально	ADVB	
+специально	специальный	ADJS	neut,sing
+уполномоченным	уполномоченный	ADJF	masc,sing,ablt
+уполномоченным	уполномоченный	ADJF	neut,sing,ablt
+уполномоченным	уполномоченный	ADJF	plur,datv
+уполномоченным	уполномочить	PRTF	perf,tran,past,pssv,masc,sing,ablt
+уполномоченным	уполномочить	PRTF	perf,tran,past,pssv,neut,sing,ablt
+уполномоченным	уполномочить	PRTF	perf,tran,past,pssv,plur,datv
+государственным	государственный	ADJF	plur,datv
+государственным	государственный	ADJF	masc,sing,ablt
+государственным	государственный	ADJF	neut,sing,ablt
+органом	орган	NOUN	inan,masc,sing,ablt
+управления	управление	NOUN	inan,neut,sing,gent
+использованием	использование	NOUN	inan,neut,sing,ablt
+и	и	CONJ	
+охраной	охрана	NOUN	inan,femn,sing,ablt
+водного	водный	ADJF	Qual,neut,sing,gent
+водного	водный	ADJF	Qual,masc,sing,gent
+водного	водный	ADJF	Qual,anim,masc,sing,accs
+фонда	фонд	NOUN	inan,masc,sing,gent
+совместно	совместно	ADVB	Prdx
+совместно	совместный	ADJS	Qual,neut,sing
+со	с	PREP	Vpre
+специально	специально	ADVB	
+специально	специальный	ADJS	neut,sing
+уполномоченными	уполномоченный	ADJF	plur,ablt
+уполномоченными	уполномочить	PRTF	perf,tran,past,pssv,plur,ablt
+государственными	государственный	ADJF	plur,ablt
+органами	орган	NOUN	inan,masc,plur,ablt
+в	в	PREP	
+области	область	NOUN	inan,femn,sing,loct
+области	область	NOUN	inan,femn,sing,gent
+области	область	NOUN	inan,femn,sing,datv
+области	область	NOUN	inan,femn,plur,nomn
+области	область	NOUN	inan,femn,plur,accs
+охраны	охрана	NOUN	inan,femn,sing,gent
+окружающей	окружающий	ADJF	femn,sing,gent
+окружающей	окружающий	ADJF	femn,sing,datv
+окружающей	окружающий	ADJF	femn,sing,ablt
+окружающей	окружающий	ADJF	femn,sing,loct
+окружающей	окружающий	COMP	V-ej
+окружающей	окружать	PRTF	impf,tran,pres,actv,femn,sing,gent
+окружающей	окружать	PRTF	impf,tran,pres,actv,femn,sing,datv
+окружающей	окружать	PRTF	impf,tran,pres,actv,femn,sing,ablt
+окружающей	окружать	PRTF	impf,tran,pres,actv,femn,sing,loct
+природной	природный	ADJF	Qual,femn,sing,gent
+природной	природный	ADJF	Qual,femn,sing,datv
+природной	природный	ADJF	Qual,femn,sing,ablt
+природной	природный	ADJF	Qual,femn,sing,loct
+среды	среда	NOUN	inan,femn,sing,gent
+,	,	PNCT	
+с	с	PREP	
+государственным	государственный	ADJF	plur,datv
+государственным	государственный	ADJF	masc,sing,ablt
+государственным	государственный	ADJF	neut,sing,ablt
+органом	орган	NOUN	inan,masc,sing,ablt
+управления	управление	NOUN	inan,neut,sing,gent
+в	в	PREP	
+области	область	NOUN	inan,femn,sing,loct
+области	область	NOUN	inan,femn,sing,gent
+области	область	NOUN	inan,femn,sing,datv
+области	область	NOUN	inan,femn,plur,nomn
+области	область	NOUN	inan,femn,plur,accs
+гидрометеорологии	гидрометеорология	NOUN	inan,femn,sing,gent
+гидрометеорологии	гидрометеорология	NOUN	inan,femn,sing,datv
+гидрометеорологии	гидрометеорология	NOUN	inan,femn,sing,loct
+гидрометеорологии	гидрометеорология	NOUN	inan,femn,plur,nomn
+гидрометеорологии	гидрометеорология	NOUN	inan,femn,plur,accs
+и	и	CONJ	
+мониторинга	мониторинг	NOUN	inan,masc,sing,gent
+окружающей	окружающий	ADJF	femn,sing,gent
+окружающей	окружающий	ADJF	femn,sing,datv
+окружающей	окружающий	ADJF	femn,sing,ablt
+окружающей	окружающий	ADJF	femn,sing,loct
+окружающей	окружающий	COMP	V-ej
+окружающей	окружать	PRTF	impf,tran,pres,actv,femn,sing,gent
+окружающей	окружать	PRTF	impf,tran,pres,actv,femn,sing,datv
+окружающей	окружать	PRTF	impf,tran,pres,actv,femn,sing,ablt
+окружающей	окружать	PRTF	impf,tran,pres,actv,femn,sing,loct
+среды	среда	NOUN	inan,femn,sing,gent
+(	(	PNCT	
+по	по	PREP	
+поверхностным	поверхностный	ADJF	Qual,masc,sing,ablt
+поверхностным	поверхностный	ADJF	Qual,neut,sing,ablt
+поверхностным	поверхностный	ADJF	Qual,plur,datv
+водным	водный	ADJF	Qual,masc,sing,ablt
+водным	водный	ADJF	Qual,neut,sing,ablt
+водным	водный	ADJF	Qual,plur,datv
+объектам	объект	NOUN	inan,masc,plur,datv
+)	)	PNCT	
+и	и	CONJ	
+государственным	государственный	ADJF	plur,datv
+государственным	государственный	ADJF	masc,sing,ablt
+государственным	государственный	ADJF	neut,sing,ablt
+органом	орган	NOUN	inan,masc,sing,ablt
+управления	управление	NOUN	inan,neut,sing,gent
+использованием	использование	NOUN	inan,neut,sing,ablt
+и	и	CONJ	
+охраной	охрана	NOUN	inan,femn,sing,ablt
+недр	недра	NOUN	inan,GNdr,Pltm,plur,gent
+(	(	PNCT	
+по	по	PREP	
+подземным	подземный	ADJF	Qual,masc,sing,ablt
+подземным	подземный	ADJF	Qual,neut,sing,ablt
+подземным	подземный	ADJF	Qual,plur,datv
+водным	водный	ADJF	Qual,masc,sing,ablt
+водным	водный	ADJF	Qual,neut,sing,ablt
+водным	водный	ADJF	Qual,plur,datv
+объектам	объект	NOUN	inan,masc,plur,datv
+)	)	PNCT	
+.	.	PNCT	
+фиктивное	фиктивный	ADJF	Qual,neut,sing,nomn
+фиктивное	фиктивный	ADJF	Qual,neut,sing,accs
+или	или	CONJ	
+преднамеренное	преднамеренный	ADJF	neut,sing,nomn
+преднамеренное	преднамеренный	ADJF	neut,sing,accs
+банкротство	банкротство	NOUN	inan,neut,sing,nomn
+банкротство	банкротство	NOUN	inan,neut,sing,accs
+осуществление	осуществление	NOUN	inan,neut,sing,nomn
+осуществление	осуществление	NOUN	inan,neut,sing,accs
+дисквалифицированным	дисквалифицировать	PRTF	perf,tran,past,pssv,masc,sing,ablt
+дисквалифицированным	дисквалифицировать	PRTF	perf,tran,past,pssv,neut,sing,ablt
+дисквалифицированным	дисквалифицировать	PRTF	perf,tran,past,pssv,plur,datv
+дисквалифицированным	дисквалифицировать	PRTF	impf,tran,past,pssv,masc,sing,ablt
+дисквалифицированным	дисквалифицировать	PRTF	impf,tran,past,pssv,neut,sing,ablt
+дисквалифицированным	дисквалифицировать	PRTF	impf,tran,past,pssv,plur,datv
+лицом	лицо	NOUN	inan,neut,sing,ablt
+лицом	лицо	NOUN	anim,neut,sing,ablt
+в	в	PREP	
+течение	течение	NOUN	inan,neut,sing,accs
+течение	течение	NOUN	inan,neut,sing,nomn
+срока	срок	NOUN	inan,masc,sing,gent
+дисквалификации	дисквалификация	NOUN	inan,femn,sing,gent
+дисквалификации	дисквалификация	NOUN	inan,femn,sing,datv
+дисквалификации	дисквалификация	NOUN	inan,femn,sing,loct
+дисквалификации	дисквалификация	NOUN	inan,femn,plur,nomn
+дисквалификации	дисквалификация	NOUN	inan,femn,plur,accs
+деятельности	деятельность	NOUN	inan,femn,sing,gent
+деятельности	деятельность	NOUN	inan,femn,sing,loct
+деятельности	деятельность	NOUN	inan,femn,sing,datv
+деятельности	деятельность	NOUN	inan,femn,plur,nomn
+деятельности	деятельность	NOUN	inan,femn,plur,accs
+по	по	PREP	
+управлению	управление	NOUN	inan,neut,sing,datv
+юридическим	юридический	ADJF	plur,datv
+юридическим	юридический	ADJF	masc,sing,ablt
+юридическим	юридический	ADJF	neut,sing,ablt
+лицом	лицо	NOUN	inan,neut,sing,ablt
+лицом	лицо	NOUN	anim,neut,sing,ablt
